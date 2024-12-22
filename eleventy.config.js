@@ -1,14 +1,12 @@
-module.exports = function(eleventyConfig) {
-    return {
+export const config = {
       dir: {
-        input: "src",
+        input: "ressources",
         output: "dist"
       }
-    };
   };
   
 export default function (eleventyConfig) {
     eleventyConfig.addCollection("products", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("products/*.md");
+        return collectionApi.getFilteredByGlob("ressources/products/*.md");
     });
 };
