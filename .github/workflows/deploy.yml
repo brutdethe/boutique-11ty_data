@@ -1,31 +1,50 @@
-name: Deploy Eleventy site to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
+    push:
+        branches:
+            - main
+    pull_request:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    deploy:
+        runs-on: ubuntu-22.04
+        permissions:
+            contents: write
+        concurrency:
+            group: ${{ github.workflow }}-${{ github.ref }}
+        steps:
+            - uses: actions/checkout@v4 # Mettre à jour à la dernière version compatible avec Node 20
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+            - name: Setup Node
+              uses: actions/setup-node@v4 # Mettre à jour à la version compatible avec Node 20
+              with:
+                  node-version: '20'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+            - name: Persist npm cache
+              uses: actions/cache@v4 # Mettre à jour à la version compatible avec Node 20
+              with:
+                  path: ~/.npm
+                  key: ${{ runner.os }}-node-${{ hashFiles('**/package.json') }}
 
-      - name: Install dependencies
-        run: npm install
+            - name: Persist Eleventy .cache
+              uses: actions/cache@v4 # Mettre à jour à la version compatible avec Node 20
+              with:
+                  path: ./.cache
+                  key: ${{ runner.os }}-eleventy-fetch-cache
 
-      - name: Build site with Eleventy
-        run: npx @11ty/eleventy
+            - run: npm install
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+            - name: Configure Git
+              run: |
+                  git config --global user.email "stephane@pntbr.fr"
+                  git config --global user.name "pntbr"
+
+            - name: Build Project
+              run: npx @11ty/eleventy
+
+            - name: Deploy to GitHub Pages
+              uses: peaceiris/actions-gh-pages@v4 # Mettre à jour à la version compatible avec Node 20
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./dist
