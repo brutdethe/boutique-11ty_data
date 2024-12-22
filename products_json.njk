@@ -1,0 +1,31 @@
+---
+permalink: /products.json
+---
+[ 
+{% for product in collections.products -%}
+{
+    "title": "{{ product.data.title }}",
+    "permalinks": {
+      "fr": "/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/",
+      "en": "/en/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/"
+    },
+    "layout": "{{ product.data.layout }}",
+    "id": "{{ product.data.id }}",
+    "name": {{ product.data.name | dump | safe }},
+    "mini_descr": {{ product.data.mini_descr | dump | safe }},
+    "meta_descr": {{ product.data.mini_descr | dump | safe }},
+    "tags": {{ product.data.tags | dump | safe }},
+    "description": {{ product.data.description | dump | safe }},
+    "photos": {{ product.data.photos | dump | safe }},
+    "price": "{{ product.data.price }}",
+    "stock": "{{ product.data.stock }}",
+    "weight": "{{ product.data.weight }}",
+    {% if (options) %}
+        "options": {{ product.data.options | dump | safe }},
+    {% endif %}
+    "shipping_type": "{{ product.data.shipping_type }}",
+    "shipping_point": "{{ product.data.shipping_point }}"
+  }
+  {%- if not loop.last -%},{%- endif %}
+{% endfor -%}
+]
