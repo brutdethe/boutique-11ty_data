@@ -1,0 +1,13 @@
+---
+permalink: categories.json
+---
+[ 
+  {% for category in i18n_categories -%}
+    {
+      "label": "{{ category.label }}",
+      "title": {{ category.title | dump | safe }},
+      "description": {{ category.description | dump | safe }}
+    }
+    {%- if not loop.last -%},{%- endif %}
+  {% endfor -%}
+]
