@@ -50,4 +50,4 @@ jobs:
                   publish_dir: ./dist
 
             - name: Trigger Netlify Deploy
-               run: curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+              run: curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
