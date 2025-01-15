@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: perrinevase28
 name:
   fr: 花器 - HuāQì - petit vase

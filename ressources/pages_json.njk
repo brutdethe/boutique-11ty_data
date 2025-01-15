@@ -1,0 +1,13 @@
+---
+permalink: pages.json
+---
+[ 
+{% for page in collections.pages -%}
+{
+    "title": "{{ page.data.title }}",
+    "permalink": "{{ page.data.permalink}}",
+    "content": "{{ page.content | string | replace('\\', '\\\\') | replace('"', '\\"') | replace('\n', '\\n') | safe }}"
+  }
+  {%- if not loop.last -%},{%- endif %}
+{% endfor -%}
+]

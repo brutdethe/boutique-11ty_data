@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: don5
 name:
     fr: don de 5 €

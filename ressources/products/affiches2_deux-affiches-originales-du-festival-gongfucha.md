@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: affiches2
 name:
   fr: festival GōngFūChá - 工夫茶
