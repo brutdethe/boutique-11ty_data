@@ -5,7 +5,7 @@
       "fr": "/products/affiches2_festival-gongfucha/",
       "en": "/en/products/affiches2_festival-gongfucha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "affiches2",
     "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá 工夫茶 Festival"},
     "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
@@ -26,7 +26,7 @@
       "fr": "/products/baiA2_bailu-baicha/",
       "en": "/en/products/baiA2_bailu-baicha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "baiA2",
     "name": {"fr":"白鹿白茶 - BáiLù BáiChá","en":"白鹿白茶 - BáiLù BáiChá"},
     "mini_descr": {"fr":"infusion fabriquée comme un thé blanc - 25g","en":"infusion crafted like white tea - 25g"},
@@ -47,7 +47,7 @@
       "fr": "/products/don100_don-de-100-e/",
       "en": "/en/products/don100_don-de-100-e/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "don100",
     "name": {"fr":"don de 100 €","en":"100 € Donation"},
     "mini_descr": {"fr":"Soutenez-nous avec un don de 100 €","en":"Support us with a 100 €"},
@@ -68,7 +68,7 @@
       "fr": "/products/don15_don-de-15-e/",
       "en": "/en/products/don15_don-de-15-e/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "don15",
     "name": {"fr":"don de 15 €","en":"15 € Donation"},
     "mini_descr": {"fr":"Soutenez-nous avec un don de 15 €","en":"Support us with a 15 € donation"},
@@ -89,7 +89,7 @@
       "fr": "/products/Don500_don-de-500-e/",
       "en": "/en/products/Don500_don-de-500-e/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "Don500",
     "name": {"fr":"don de 500 €","en":"500 € Donation"},
     "mini_descr": {"fr":"Soutenez-nous avec un don de 500 €","en":"Support us with a 500 €"},
@@ -110,7 +110,7 @@
       "fr": "/products/don50_don-de-50-e/",
       "en": "/en/products/don50_don-de-50-e/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "don50",
     "name": {"fr":"don de 50 €","en":"50 € Donation"},
     "mini_descr": {"fr":"Soutenez-nous avec un don de 50 €","en":"Support us with a 50 €"},
@@ -131,7 +131,7 @@
       "fr": "/products/don5_don-de-5-e/",
       "en": "/en/products/don5_don-de-5-e/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "don5",
     "name": {"fr":"don de 5 €","en":"5 € Donation"},
     "mini_descr": {"fr":"Soutenez-nous avec un don de 5 €","en":"Support us with a 5 € donation"},
@@ -152,7 +152,7 @@
       "fr": "/products/hongA1_mixiang-hongcha/",
       "en": "/en/products/hongA1_mixiang-hongcha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "hongA1",
     "name": {"fr":"蜜香红茶 - MìXiāng HóngChá","en":"蜜香红茶 - MìXiāng HóngChá"},
     "mini_descr": {"fr":"thé rouge traditionnel de Taïwan - 25g","en":"traditional Taiwanese black tea - 25g"},
@@ -173,7 +173,7 @@
       "fr": "/products/jeBolA1_chabei-petit-bol/",
       "en": "/en/products/jeBolA1_chabei-petit-bol/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "jeBolA1",
     "name": {"fr":"茶杯 - CháBēi - Petit bol","en":"茶杯 - CháBēi - Small Bowl"},
     "mini_descr": {"fr":"Bol émaillé réalisé par Jé le Potier","en":"Glazed bowl made by Jé le Potier"},
@@ -194,7 +194,7 @@
       "fr": "/products/jetheiere2_chahu-theiere/",
       "en": "/en/products/jetheiere2_chahu-theiere/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "jetheiere2",
     "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
     "mini_descr": {"fr":"théière fabriquée par Jé le potier.","en":"Small teapot crafted by Jé le potier."},
@@ -215,7 +215,7 @@
       "fr": "/products/jetheiere3_chahu-theiere/",
       "en": "/en/products/jetheiere3_chahu-theiere/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "jetheiere3",
     "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
     "mini_descr": {"fr":"Petite théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
@@ -236,7 +236,7 @@
       "fr": "/products/jetheiere4_chahu-theiere/",
       "en": "/en/products/jetheiere4_chahu-theiere/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "jetheiere4",
     "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Small Glazed Teapot"},
     "mini_descr": {"fr":"théière réalisée par Jé le Potier","en":"teapot made by Jé le Potier"},
@@ -257,7 +257,7 @@
       "fr": "/products/luA1_biluochun/",
       "en": "/en/products/luA1_biluochun/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "luA1",
     "name": {"fr":"碧螺春 - BìLuóChūn","en":"碧螺春 - BìLuóChūn"},
     "mini_descr": {"fr":"thé vert traditionnel de Taïwan - 25g","en":"traditional Taiwanese green tea - 25g"},
@@ -278,7 +278,7 @@
       "fr": "/products/luA3_bailu-lucha/",
       "en": "/en/products/luA3_bailu-lucha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "luA3",
     "name": {"fr":"白鹿綠茶 - BáiLù LǜChá","en":"白鹿綠茶 - BáiLù LǜChá"},
     "mini_descr": {"fr":"thé vert traditionnel du Sichuan - 25g","en":"traditional green tea from Sichuan - 25g"},
@@ -299,7 +299,7 @@
       "fr": "/products/manongaA3_gaiwan/",
       "en": "/en/products/manongaA3_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaA3",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
@@ -320,7 +320,7 @@
       "fr": "/products/manongaG10_gaiwan/",
       "en": "/en/products/manongaG10_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG10",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -341,7 +341,7 @@
       "fr": "/products/manongaG11_gaiwan/",
       "en": "/en/products/manongaG11_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG11",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -362,7 +362,7 @@
       "fr": "/products/manongaG1_gaiwan/",
       "en": "/en/products/manongaG1_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG1",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
@@ -383,7 +383,7 @@
       "fr": "/products/manongaG2_gaiwan/",
       "en": "/en/products/manongaG2_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG2",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
@@ -404,7 +404,7 @@
       "fr": "/products/manongaG3_gaiwan/",
       "en": "/en/products/manongaG3_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG3",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
@@ -425,7 +425,7 @@
       "fr": "/products/manongaG4_gaiwan/",
       "en": "/en/products/manongaG4_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG4",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
@@ -446,7 +446,7 @@
       "fr": "/products/manongaG5_gaiwan/",
       "en": "/en/products/manongaG5_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG5",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -467,7 +467,7 @@
       "fr": "/products/manongaG6_gaiwan/",
       "en": "/en/products/manongaG6_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG6",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -488,7 +488,7 @@
       "fr": "/products/manongaG7_gaiwan/",
       "en": "/en/products/manongaG7_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG7",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -509,7 +509,7 @@
       "fr": "/products/manongaG8_gaiwan/",
       "en": "/en/products/manongaG8_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manongaG8",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
@@ -530,7 +530,7 @@
       "fr": "/products/manontasB10_chabei/",
       "en": "/en/products/manontasB10_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB10",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -551,7 +551,7 @@
       "fr": "/products/manontasB16_chabei/",
       "en": "/en/products/manontasB16_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB16",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -572,7 +572,7 @@
       "fr": "/products/manontasB17_chabei/",
       "en": "/en/products/manontasB17_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB17",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -593,7 +593,7 @@
       "fr": "/products/manontasB18_chabei/",
       "en": "/en/products/manontasB18_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB18",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -614,7 +614,7 @@
       "fr": "/products/manontasB19_chabei/",
       "en": "/en/products/manontasB19_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB19",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -635,7 +635,7 @@
       "fr": "/products/manontasB1_chabei/",
       "en": "/en/products/manontasB1_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB1",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -656,7 +656,7 @@
       "fr": "/products/manontasB20_chabei/",
       "en": "/en/products/manontasB20_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB20",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -677,7 +677,7 @@
       "fr": "/products/manontasB22_chabei/",
       "en": "/en/products/manontasB22_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB22",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -698,7 +698,7 @@
       "fr": "/products/manontasB23_chabei/",
       "en": "/en/products/manontasB23_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB23",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -719,7 +719,7 @@
       "fr": "/products/manontasB27_chabei/",
       "en": "/en/products/manontasB27_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB27",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -740,7 +740,7 @@
       "fr": "/products/manontasB29_chabei/",
       "en": "/en/products/manontasB29_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB29",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -761,7 +761,7 @@
       "fr": "/products/manontasB2_chabei/",
       "en": "/en/products/manontasB2_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB2",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -782,7 +782,7 @@
       "fr": "/products/manontasB30_chabei/",
       "en": "/en/products/manontasB30_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB30",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -803,7 +803,7 @@
       "fr": "/products/manontasB32_chabei/",
       "en": "/en/products/manontasB32_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB32",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -824,7 +824,7 @@
       "fr": "/products/manontasB3_chabei/",
       "en": "/en/products/manontasB3_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB3",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -845,7 +845,7 @@
       "fr": "/products/manontasB4_chabei/",
       "en": "/en/products/manontasB4_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB4",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -866,7 +866,7 @@
       "fr": "/products/manontasB5_chabei/",
       "en": "/en/products/manontasB5_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB5",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -887,7 +887,7 @@
       "fr": "/products/manontasB6_chabei/",
       "en": "/en/products/manontasB6_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB6",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -908,7 +908,7 @@
       "fr": "/products/manontasB7_chabei/",
       "en": "/en/products/manontasB7_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB7",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -929,7 +929,7 @@
       "fr": "/products/manontasB8_chabei/",
       "en": "/en/products/manontasB8_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB8",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -950,7 +950,7 @@
       "fr": "/products/manontasB9_chabei/",
       "en": "/en/products/manontasB9_chabei/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "manontasB9",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
     "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
@@ -971,7 +971,7 @@
       "fr": "/products/melles-ceramiquega1_gaiwan/",
       "en": "/en/products/melles-ceramiquega1_gaiwan/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "melles-ceramiquega1",
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn en porcelaine blanche fabriqué à Montpellier","en":"Gaiwan in white porcelain made in Montpellier"},
@@ -992,7 +992,7 @@
       "fr": "/products/melles-ceramiquetheiere1_chahu-theiere/",
       "en": "/en/products/melles-ceramiquetheiere1_chahu-theiere/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "melles-ceramiquetheiere1",
     "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
     "mini_descr": {"fr":"Théière réalisée par Mademoiselles Céramique","en":"Teapot made by Mademoiselles Céramique"},
@@ -1013,7 +1013,7 @@
       "fr": "/products/perrinebol11_chabei-bol-a-the/",
       "en": "/en/products/perrinebol11_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol11",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1034,7 +1034,7 @@
       "fr": "/products/perrinebol23_chabei-bol-a-the/",
       "en": "/en/products/perrinebol23_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol23",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1055,7 +1055,7 @@
       "fr": "/products/perrinebol24_chabei-bol-a-the/",
       "en": "/en/products/perrinebol24_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol24",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1076,7 +1076,7 @@
       "fr": "/products/perrinebol25_chabei-bol-a-the/",
       "en": "/en/products/perrinebol25_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol25",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1097,7 +1097,7 @@
       "fr": "/products/perrinebol26_chabei-bol-a-the/",
       "en": "/en/products/perrinebol26_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol26",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1118,7 +1118,7 @@
       "fr": "/products/perrinebol2_chabei-bol-a-the/",
       "en": "/en/products/perrinebol2_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol2",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1139,7 +1139,7 @@
       "fr": "/products/perrinebol39_chabei-bol-a-the/",
       "en": "/en/products/perrinebol39_chabei-bol-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinebol39",
     "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
     "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
@@ -1160,7 +1160,7 @@
       "fr": "/products/perrinecoup32_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup32_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup32",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1181,7 +1181,7 @@
       "fr": "/products/perrinecoup33_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup33_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup33",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1202,7 +1202,7 @@
       "fr": "/products/perrinecoup34_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup34_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup34",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1223,7 +1223,7 @@
       "fr": "/products/perrinecoup35_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup35_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup35",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1244,7 +1244,7 @@
       "fr": "/products/perrinecoup36_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup36_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup36",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1265,7 +1265,7 @@
       "fr": "/products/perrinecoup37_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup37_xiangpan-coupelle/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinecoup37",
     "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
     "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
@@ -1286,7 +1286,7 @@
       "fr": "/products/perrinepe10_xiangtuo/",
       "en": "/en/products/perrinepe10_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe10",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1307,7 +1307,7 @@
       "fr": "/products/perrinepe12_xiangtuo/",
       "en": "/en/products/perrinepe12_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe12",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1328,7 +1328,7 @@
       "fr": "/products/perrinepe13_xiangtuo/",
       "en": "/en/products/perrinepe13_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe13",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1349,7 +1349,7 @@
       "fr": "/products/perrinepe14_xiangtuo/",
       "en": "/en/products/perrinepe14_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe14",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1370,7 +1370,7 @@
       "fr": "/products/perrinepe15_xiangtuo/",
       "en": "/en/products/perrinepe15_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe15",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1391,7 +1391,7 @@
       "fr": "/products/perrinepe16_xiangtuo/",
       "en": "/en/products/perrinepe16_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe16",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1412,7 +1412,7 @@
       "fr": "/products/perrinepe17_xiangtuo/",
       "en": "/en/products/perrinepe17_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe17",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1433,7 +1433,7 @@
       "fr": "/products/perrinepe18_xiangtuo/",
       "en": "/en/products/perrinepe18_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe18",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1454,7 +1454,7 @@
       "fr": "/products/perrinepe19_xiangtuo/",
       "en": "/en/products/perrinepe19_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe19",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1475,7 +1475,7 @@
       "fr": "/products/perrinepe1_xiangtuo/",
       "en": "/en/products/perrinepe1_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe1",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1496,7 +1496,7 @@
       "fr": "/products/perrinepe20_xiangtuo/",
       "en": "/en/products/perrinepe20_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe20",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1517,7 +1517,7 @@
       "fr": "/products/perrinepe21_xiangtuo/",
       "en": "/en/products/perrinepe21_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe21",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1538,7 +1538,7 @@
       "fr": "/products/perrinepe22_xiangtuo/",
       "en": "/en/products/perrinepe22_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe22",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1559,7 +1559,7 @@
       "fr": "/products/perrinepe3_xiangtuo/",
       "en": "/en/products/perrinepe3_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe3",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1580,7 +1580,7 @@
       "fr": "/products/perrinepe4_xiangtuo/",
       "en": "/en/products/perrinepe4_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe4",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1601,7 +1601,7 @@
       "fr": "/products/perrinepe5_xiangtuo/",
       "en": "/en/products/perrinepe5_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe5",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1622,7 +1622,7 @@
       "fr": "/products/perrinepe6_xiangtuo/",
       "en": "/en/products/perrinepe6_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe6",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1643,7 +1643,7 @@
       "fr": "/products/perrinepe8_xiangtuo/",
       "en": "/en/products/perrinepe8_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe8",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1664,7 +1664,7 @@
       "fr": "/products/perrinepe9_xiangtuo/",
       "en": "/en/products/perrinepe9_xiangtuo/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepe9",
     "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
     "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
@@ -1685,7 +1685,7 @@
       "fr": "/products/perrinepot30_chacang-pot-a-the/",
       "en": "/en/products/perrinepot30_chacang-pot-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepot30",
     "name": {"fr":"茶倉 - CháCāng - pot à thé","en":"Tea Storage - 茶倉 - CháCāng (tea jar)"},
     "mini_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
@@ -1706,7 +1706,7 @@
       "fr": "/products/perrinepot31_chacang-pot-a-the/",
       "en": "/en/products/perrinepot31_chacang-pot-a-the/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinepot31",
     "name": {"fr":"茶倉 - CháCāng - pot à thé","en":"Tea Storage - 茶倉 - CháCāng (tea jar)"},
     "mini_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
@@ -1727,7 +1727,7 @@
       "fr": "/products/perrinevase27_huaqi-petit-vase/",
       "en": "/en/products/perrinevase27_huaqi-petit-vase/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinevase27",
     "name": {"fr":"花器 - HuāQì - petit vase","en":"Vase - 花器 - HuāQì (small vase)"},
     "mini_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
@@ -1748,7 +1748,7 @@
       "fr": "/products/perrinevase28_huaqi-petit-vase/",
       "en": "/en/products/perrinevase28_huaqi-petit-vase/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinevase28",
     "name": {"fr":"花器 - HuāQì - petit vase","en":"Vase - 花器 - HuāQì (small vase)"},
     "mini_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
@@ -1769,7 +1769,7 @@
       "fr": "/products/perrinevers40_chahai-verseuse/",
       "en": "/en/products/perrinevers40_chahai-verseuse/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "perrinevers40",
     "name": {"fr":"茶海 - CháHǎi - verseuse","en":"Pitcher - 茶海 - CháHǎi (tea pitcher)"},
     "mini_descr": {"fr":"verseuse réalisée par Perrine Pottiez","en":"tea pitcher made by Perrine Pottiez"},
@@ -1790,7 +1790,7 @@
       "fr": "/products/sdv2_set-de-voyage/",
       "en": "/en/products/sdv2_set-de-voyage/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "sdv2",
     "name": {"fr":"Set de voyage","en":"Travel Set"},
     "mini_descr": {"fr":"ensemble complet pour le GōngFūChá - 工夫茶","en":"complete set for GōngFūChá - 工夫茶"},
@@ -1811,7 +1811,7 @@
       "fr": "/products/serigraphie1_serigraphie-gongfucha/",
       "en": "/en/products/serigraphie1_serigraphie-gongfucha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "serigraphie1",
     "name": {"fr":"sérigraphie GōngFūChá - 工夫茶","en":"Screenprint GōngFūChá - 工夫茶"},
     "mini_descr": {"fr":"tirage limité 100 exemplaires par Benhito","en":"limited edition of 100 prints by Benhito"},
@@ -1832,7 +1832,7 @@
       "fr": "/products/th9_chahu-sanzuruding/",
       "en": "/en/products/th9_chahu-sanzuruding/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "th9",
     "name": {"fr":"茶壺  三足乳鼎 CháHú SānZúRǔDǐng","en":"茶壺  三足乳鼎 CháHú SānZúRǔDǐng"},
     "mini_descr": {"fr":"théière artisanale (semi-main) de Taïwan","en":"semi-handcrafted teapot from Taiwan"},
@@ -1853,7 +1853,7 @@
       "fr": "/products/wuA1_lishan-gaoshancha/",
       "en": "/en/products/wuA1_lishan-gaoshancha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "wuA1",
     "name": {"fr":"梨山高山茶 - LíShān GāoShānChá","en":"梨山高山茶 - LíShān GāoShānChá"},
     "mini_descr": {"fr":"wulong haute montagne de Taïwan - 25g","en":"high mountain oolong tea from Taiwan - 25g"},
@@ -1874,7 +1874,7 @@
       "fr": "/products/wuA2_dongding-wulong/",
       "en": "/en/products/wuA2_dongding-wulong/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "wuA2",
     "name": {"fr":"凍頂烏龍 - DòngDǐng WūLóng","en":"凍頂烏龍 - DòngDǐng WūLóng"},
     "mini_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},
@@ -1895,7 +1895,7 @@
       "fr": "/products/wuA3_jinxuan-gaoshancha/",
       "en": "/en/products/wuA3_jinxuan-gaoshancha/"
     },
-    "layout": "_layouts/product_card.njk",
+    "layout": "",
     "id": "wuA3",
     "name": {"fr":"金萱高山茶 - JīnXuān GāoShānChá","en":"金萱高山茶 - JīnXuān GāoShānChá"},
     "mini_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},

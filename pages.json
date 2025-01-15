@@ -1,0 +1,22 @@
+[ 
+{
+    "title": "Legal Notice",
+    "permalink": "/en/legal/",
+    "content": "<h1>Legal Notice</h1>\n<p>The website <a href=\"https://boutique.gongfucha.fr\">https://boutique.gongfucha.fr</a> is published by Stéphane Langlois, Yalin Cheng, Brut de thé, and hosted by <a href=\"https://github.com/about\">GitHub</a>.</p>\n<p>The company is registered under number 899 032 494 and APE code 94.99Z with the registry of the court of Foix,<br>\nwith its head office located at 15 rue de la montagne, 09320 Massat.</p>\n<p>Payments are processed via <a href=\"https://stripe.com/fr/legal/france-legal-notice\">Stripe: Legal Notice</a>.</p>\n<p>Publication Directors: Stéphane Langlois, Yalin Cheng: <a href=\"mailto:coucou@gongfucha.fr\">coucou@gongfucha.fr</a>.</p>\n<p>This shop is created by <a href=\"https://www.gongfucha.fr\">www.gongfucha.fr</a>, and the product is available under an open license <a href=\"https://raw.githubusercontent.com/brutdethe/boutique-11ty/refs/heads/main/LICENSE\">CC0.1 - GitHub Repository</a>.</p>\n<h2>Crédit</h2>\n<p>Thanks to :</p>\n<ul>\n<li><a href=\"https://entre-quote.com\">newick</a> for his help with css.</li>\n<li><a href=\"https://blog.crafting-labs.fr/ensemble/\">Antoine Vernois</a> for his “co-piloting”.</li>\n</ul>\n"
+  },
+{
+    "title": "Privacy",
+    "permalink": "/en/privacy/",
+    "content": "<h1>Privacy</h1>\n<p>The website <a href=\"https://boutique.gongfucha.fr\">https://boutique.gongfucha.fr</a> does not collect any personal data.</p>\n"
+  },
+{
+    "title": "Mentions légales",
+    "permalink": "/legal/",
+    "content": "<h1>Mentions légales</h1>\n<p>Le site <a href=\"https://boutique.gongfucha.fr\">https://boutique.gongfucha.fr</a> est édité par Stéphane Langlois, Yalin Cheng, Brut de thé et hébergé par <a href=\"https://github.com/about\">Github</a>.</p>\n<p>Entreprise répertoriée sous le numéro d’immatriculation 899 032 494 et le code APE 94.99Z auprès du des greffes du tribunal de Foix,<br>\net dont le siège social est sis au 15 rue de la montagne, 09320 Massat.</p>\n<p>Les paiements sont effectués via <a href=\"https://stripe.com/fr/legal/france-legal-notice\">Stripe : Mentions légales</a>.</p>\n<p>Directeur de la publication : Stéphane Langlois, Yalin Cheng : <a href=\"mailto:coucou@gongfucha.fr\">coucou@gongfucha.fr</a>.</p>\n<p>Cette boutique est créée par <a href=\"https://www.gongfucha.fr\">www.gongfucha.fr</a>\nle produit est disponible en licence ouverte <a href=\"https://raw.githubusercontent.com/brutdethe/boutique-11ty/refs/heads/main/LICENSE\">CC0.1 - Dépôt Github</a>.</p>\n<h2>Crédit</h2>\n<p>Merci à :</p>\n<ul>\n<li><a href=\"https://entre-quote.com\">newick</a> pour son aide sur l'intégeration.</li>\n<li><a href=\"https://blog.crafting-labs.fr/ensemble/\">Antoine Vernois</a> pour son &quot;copilotage&quot;.</li>\n</ul>\n"
+  },
+{
+    "title": "Confidentialité",
+    "permalink": "/privacy/",
+    "content": "<h1>Confidentialité</h1>\n<p>Le site <a href=\"https://boutique.gongfucha.fr\">https://boutique.gongfucha.fr</a> ne collecte pas de données personnelles.</p>\n"
+  }
+]
