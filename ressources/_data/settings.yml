@@ -1,2 +1,12 @@
 STRIPE_PUBLIC_KEY: "pk_live_51HEFz3GJpQWhfcWwhCYHYe1ErHxMdZEd8ZR9stq8WIK6QRXVUlPFbvSCFQPCdUFYPbIVESTrZUbykYDW95FxtFNb00HuTOpKCx"
 url: https://boutique.gongfucha.fr
+a_propos_url:
+  fr: https://www.gongfucha.fr/pages/faq-boutique
+  en: https://www.gongfucha.fr/pages/faq-boutique
+rue: 15, rue de la montagne
+code_postal: 09320
+ville: Massat
+region: Ariège
+pays: France
+email: coucou@gongfucha.fr
+tel: +33666081188
