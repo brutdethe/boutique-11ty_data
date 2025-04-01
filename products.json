@@ -1,13 +1,13 @@
 [ 
 {
-    "title": "benhito - ",
+    "title": "benhito -  - ",
     "permalinks": {
       "fr": "/products/affiches2_festival-gongfucha/",
       "en": "/en/products/affiches2_festival-gongfucha/"
     },
     "layout": "",
     "id": "affiches2",
-    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá 工夫茶 Festival"},
+    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
     "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
     "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
     "tags": ["benhito"],
@@ -23,20 +23,818 @@
 {
     "title": "chawelcome - ",
     "permalinks": {
-      "fr": "/products/baiA2_bailu-baicha/",
-      "en": "/en/products/baiA2_bailu-baicha/"
+      "fr": "/products/baiA2_bailu-baicha-25g/",
+      "en": "/en/products/baiA2_bailu-baicha-25g/"
     },
     "layout": "",
     "id": "baiA2",
-    "name": {"fr":"白鹿白茶 - BáiLù BáiChá","en":"白鹿白茶 - BáiLù BáiChá"},
-    "mini_descr": {"fr":"infusion fabriquée comme un thé blanc - 25g","en":"infusion crafted like white tea - 25g"},
-    "meta_descr": {"fr":"infusion fabriquée comme un thé blanc - 25g","en":"infusion crafted like white tea - 25g"},
+    "name": {"fr":"白鹿白茶 - BáiLù BáiChá - 25g","en":"白鹿白茶 - BáiLù BáiChá - 25g"},
+    "mini_descr": {"fr":"infusion fabriquée comme un thé blanc","en":"infusion crafted like white tea"},
+    "meta_descr": {"fr":"infusion fabriquée comme un thé blanc","en":"infusion crafted like white tea"},
     "tags": ["cha","welcome"],
     "description": {"fr":"Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées, ce n'est pas du thé et il ne contient pas de caféine. Il est produit à 白鹿村 - BáiLùCūn dans le 四川 - SìChuān à environ 850 mètres d'altitude.<!--more--> Ce petit village compte un peu plus de 1 300 habitants sans aucune industrie. C'est une infusion que la population locale apprécie depuis un millier d'années. L'arbre pousse dans la montagne 白鹿 - BáiLù et dégage le parfum unique des plantes lauracées. Son infusion est rouge vif et a un retour sucré dans la bouche. Il est notamment indiqué pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac.\n","en":"The 白鹿白茶 - BáiLù BáiChá comes from the Lauraceae family, meaning it is not tea and contains no caffeine. It is produced in 白鹿村 - BáiLùCūn, 四川 - SìChuān province, at an altitude of about 850 meters.<!--more-->  This small village has just over 1,300 inhabitants and no industry. It is an infusion cherished by the local population for over a thousand years. The tree grows on the 白鹿 - BáiLù mountain and emits the unique fragrance of lauraceous plants. Its infusion is bright red with a sweet aftertaste. It is particularly suitable for people accustomed to spicy dishes as it helps nourish the spleen and stomach.\n"},
     "photos": ["BaiLu-BaiCha_1-a.jpg","BaiLu-BaiCha_1-b.jpg"],
     "price": "15",
     "stock": "10",
     "weight": "125",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ10_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ10_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ10",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé, façonné dans la tradition japonaise, raconte la douceur de la terre et les reflets d’un lac paisible. Avec sa texture irrégulière et ses teintes naturelles,<!--more--> il invite à ralentir et à se reconnecter à l’essentiel. Sa forme évasée apporte une touche de légèreté. Simple et plein de charme, il est idéal pour savourer un moment de thé en toute sérénité.\n","en":"This tea bowl, crafted in the Japanese tradition, reflects the softness of the earth and the peaceful shimmer of a lake. Its irregular texture and natural tones<!--more--> invite you to slow down and reconnect with what truly matters. The flared shape adds a touch of lightness. Simple and full of charm, it’s perfect for enjoying a serene tea moment.\n"},
+    "photos": ["bol-ancien-shigaraki_J10-a.jpg","bol-ancien-shigaraki_J10-b.jpg","bol-ancien-shigaraki_J10-c.jpg","bol-ancien-shigaraki_J10-d.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "62",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ12_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ12_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ12",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé, façonné dans la tradition japonaise, raconte la douceur de la terre et les reflets d’un lac paisible. Avec sa texture irrégulière et ses teintes naturelles,<!--more--> il invite à ralentir et à se reconnecter à l’essentiel. Sa forme évasée apporte une touche de légèreté. Simple et plein de charme, il est idéal pour savourer un moment de thé en toute sérénité.\n","en":"This tea bowl, crafted in the Japanese tradition, reflects the softness of the earth and the peaceful shimmer of a lake. Its irregular texture and natural tones<!--more--> invite you to slow down and reconnect with what truly matters. The flared shape adds a touch of lightness. Simple and full of charm, it’s perfect for enjoying a serene tea moment.\n"},
+    "photos": ["bol-ancien-shigaraki_J12-a.jpg","bol-ancien-shigaraki_J12-b.jpg","bol-ancien-shigaraki_J12-c.jpg","bol-ancien-shigaraki_J12-d.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "62",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ13_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ13_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ13",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, Imari-yaki, artisanal japonais","en":"antique tea bowl, Imari-yaki, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, Imari-yaki, artisanal japonais","en":"antique tea bowl, Imari-yaki, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol ancien est façonné dans la plus pure tradition japonaise. Ses motifs raffinés, délicats et souvent asymétriques, inspirés de fleurs et de la nature,<!--more--> reflètent l’élégance intemporelle du style Imari-yaki. Un objet simple et authentique, idéal pour savourer un moment de thé empreint de sérénité.\n","en":"This antique bowl is crafted in the finest Japanese tradition. Its refined, delicate, and often asymmetrical patterns, inspired by flowers and nature,<!--more--> embody the timeless elegance of the Imari-yaki style. A simple and authentic piece, perfect for enjoying a serene tea moment.\n"},
+    "photos": ["bol-ancien-imari_J13-a.jpg","bol-ancien-imari_J13-b.jpg","bol-ancien-imari_J13-c.jpg","bol-ancien-imari_J13-d.jpg"],
+    "price": "40",
+    "stock": "1",
+    "weight": "100",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ14_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ14_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ14",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, Imari-yaki, artisanal japonais","en":"antique tea bowl, Imari-yaki, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, Imari-yaki, artisanal japonais","en":"antique tea bowl, Imari-yaki, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol ancien est façonné dans la plus pure tradition japonaise. Ses motifs raffinés, délicats et souvent asymétriques, inspirés de fleurs et de la nature,<!--more--> reflètent l’élégance intemporelle du style Imari-yaki. Un objet simple et authentique, idéal pour savourer un moment de thé empreint de sérénité.\n","en":"This antique bowl is crafted in the finest Japanese tradition. Its refined, delicate, and often asymmetrical patterns, inspired by flowers and nature,<!--more--> embody the timeless elegance of the Imari-yaki style. A simple and authentic piece, perfect for enjoying a serene tea moment.\n"},
+    "photos": ["bol-ancien-imari_J14-a.jpg","bol-ancien-imari_J14-b.jpg","bol-ancien-imari_J14-c.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "120",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ15_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ15_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ15",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé tripode japonais des années 70-80 est décoré de kakis peints à la main, symboles de chance et d’abondance. Un motif à l’intérieur fait écho aux dessins extérieurs.<!--more--> Avec sa forme arrondie et généreuse, il dégage chaleur et convivialité, parfait pour un moment de thé paisible et harmonieux.\n","en":"This Japanese tripodal tea bowl from the 70s-80s features hand-painted persimmons, symbols of luck and abundance. An interior motif echoes the exterior design.<!--more--> With its rounded and generous shape, it radiates warmth and conviviality, making it perfect for a peaceful and harmonious tea moment.\n"},
+    "photos": ["bol-ancien-kaki_J15-a.jpg","bol-ancien-kaki_J15-b.jpg","bol-ancien-kaki_J15-c.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ16_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ16_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ16",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé tripode japonais des années 70-80 est décoré de kakis peints à la main, symboles de chance et d’abondance. Un motif à l’intérieur fait écho aux dessins extérieurs.<!--more--> Avec sa forme arrondie et généreuse, il dégage chaleur et convivialité, parfait pour un moment de thé paisible et harmonieux.\n","en":"This Japanese tripodal tea bowl from the 70s-80s features hand-painted persimmons, symbols of luck and abundance. An interior motif echoes the exterior design.<!--more--> With its rounded and generous shape, it radiates warmth and conviviality, making it perfect for a peaceful and harmonious tea moment.\n"},
+    "photos": ["bol-ancien-kaki_J16-a.jpg","bol-ancien-kaki_J16-b.jpg","bol-ancien-kaki_J16-c.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ17_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ17_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ17",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien, artisanal japonais","en":"antique tea bowl, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé tripode japonais des années 70-80 est décoré de kakis peints à la main, symboles de chance et d’abondance. Un motif à l’intérieur fait écho aux dessins extérieurs.<!--more--> Avec sa forme arrondie et généreuse, il dégage chaleur et convivialité, parfait pour un moment de thé paisible et harmonieux.\n","en":"This Japanese tripodal tea bowl from the 70s-80s features hand-painted persimmons, symbols of luck and abundance. An interior motif echoes the exterior design.<!--more--> With its rounded and generous shape, it radiates warmth and conviviality, making it perfect for a peaceful and harmonious tea moment.\n"},
+    "photos": ["bol-ancien-kaki_J17-a.jpg","bol-ancien-kaki_J17-b.jpg","bol-ancien-kaki_J17-c.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ1_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ1_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ1",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "meta_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique Shigaraki-yaki, empreint de simplicité et de caractère. Ses textures brutes et nuances naturelles, teintées d’un vert évoquant la quiétude d’un lac,<!--more--> racontent l’histoire d’un savoir-faire ancestral. Un objet rare, parfait pour savourer le thé dans une sérénité authentique.\n","en":"This antique Shigaraki-yaki ceramic tea bowl, full of simplicity and character. Its raw textures and natural tones, tinted with a green reminiscent of a tranquil lake,<!--more--> tell the story of ancestral craftsmanship. A rare piece, perfect for enjoying tea in authentic serenity.\n"},
+    "photos": ["bol-ancien-lac_J1-a.jpg","bol-ancien-lac_J1-b.jpg","bol-ancien-lac_J1-c.jpg","bol-ancien-lac_J1-d.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ2_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ2_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ2",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "meta_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique Shigaraki-yaki, empreint de simplicité et de caractère. Ses textures brutes et nuances naturelles, teintées d’un vert évoquant la quiétude d’un lac,<!--more--> racontent l’histoire d’un savoir-faire ancestral. Un objet rare, parfait pour savourer le thé dans une sérénité authentique.\n","en":"This antique Shigaraki-yaki ceramic tea bowl, full of simplicity and character. Its raw textures and natural tones, tinted with a green reminiscent of a tranquil lake,<!--more--> tell the story of ancestral craftsmanship. A rare piece, perfect for enjoying tea in authentic serenity.\n"},
+    "photos": ["bol-ancien-lac_J2-a.jpg","bol-ancien-lac_J2-b.jpg","bol-ancien-lac_J2-c.jpg","bol-ancien-lac_J2-d.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ3_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ3_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ3",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "meta_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique Shigaraki-yaki, empreint de simplicité et de caractère. Ses textures brutes et nuances naturelles, teintées d’un vert évoquant la quiétude d’un lac,<!--more--> racontent l’histoire d’un savoir-faire ancestral. Un objet rare, parfait pour savourer le thé dans une sérénité authentique.\n","en":"This antique Shigaraki-yaki ceramic tea bowl, full of simplicity and character. Its raw textures and natural tones, tinted with a green reminiscent of a tranquil lake,<!--more--> tell the story of ancestral craftsmanship. A rare piece, perfect for enjoying tea in authentic serenity.\n"},
+    "photos": ["bol-ancien-lac_J3-a.jpg","bol-ancien-lac_J3-b.jpg","bol-ancien-lac_J3-c.jpg","bol-ancien-lac_J3-d.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ4_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ4_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ4",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "meta_descr": {"fr":"bol à thé ancien en Shigaraki-yaki, artisanat japonais","en":"vintage Shigaraki-yaki tea bowl, Japanese craftsmanship"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique Shigaraki-yaki, empreint de simplicité et de caractère. Ses textures brutes et nuances naturelles, teintées d’un vert évoquant la quiétude d’un lac,<!--more--> racontent l’histoire d’un savoir-faire ancestral. Un objet rare, parfait pour savourer le thé dans une sérénité authentique.\n","en":"This antique Shigaraki-yaki ceramic tea bowl, full of simplicity and character. Its raw textures and natural tones, tinted with a green reminiscent of a tranquil lake,<!--more--> tell the story of ancestral craftsmanship. A rare piece, perfect for enjoying tea in authentic serenity.\n"},
+    "photos": ["bol-ancien-lac_J4-a.jpg","bol-ancien-lac_J4-b.jpg","bol-ancien-lac_J4-c.jpg","bol-ancien-lac_J4-d.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ5_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ5_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ5",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "meta_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique japonaise, probablement issu de la tradition du Shino-yaki. Ses tons doux et naturels, parsemés de délicates craquelures,<!--more--> évoquent l’authenticité et la simplicité des rituels du thé. Chaque détail raconte une histoire, entre savoir-faire ancestral et beauté intemporelle. Idéal pour savourer votre thé dans une ambiance empreinte de sérénité.\n","en":"This antique japanese ceramic tea bowl, likely from the Shino-yaki tradition. Its soft, natural tones, adorned with delicate crackles,<!--more--> evoke the authenticity and simplicity of tea rituals. Every detail tells a story of ancestral craftsmanship and timeless beauty. Perfect for enjoying your tea in a serene and contemplative atmosphere.\n"},
+    "photos": ["bol-ancien-pince_J5-a.jpg","bol-ancien-pince_J5-b.jpg","bol-ancien-pince_J5-c.jpg","bol-ancien-pince_J5-d.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "26",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ6_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ6_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ6",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "meta_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique japonaise, probablement issu de la tradition du Shino-yaki. Ses tons doux et naturels, parsemés de délicates craquelures,<!--more--> évoquent l’authenticité et la simplicité des rituels du thé. Chaque détail raconte une histoire, entre savoir-faire ancestral et beauté intemporelle. Idéal pour savourer votre thé dans une ambiance empreinte de sérénité.\n","en":"This antique japanese ceramic tea bowl, likely from the Shino-yaki tradition. Its soft, natural tones, adorned with delicate crackles,<!--more--> evoke the authenticity and simplicity of tea rituals. Every detail tells a story of ancestral craftsmanship and timeless beauty. Perfect for enjoying your tea in a serene and contemplative atmosphere.\n"},
+    "photos": ["bol-ancien-pince_J6-a.jpg","bol-ancien-pince_J6-b.jpg","bol-ancien-pince_J6-c.jpg","bol-ancien-pince_J6-d.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "32",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ7_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ7_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ7",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "meta_descr": {"fr":"bol à thé ancien en Shino-yaki, œuvre artisanale japonaise","en":"antique Shino-yaki tea bowl, a japanese handcrafted piece"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en céramique japonaise, probablement issu de la tradition du Shino-yaki. Ses tons doux et naturels, parsemés de délicates craquelures,<!--more--> évoquent l’authenticité et la simplicité des rituels du thé. Chaque détail raconte une histoire, entre savoir-faire ancestral et beauté intemporelle. Idéal pour savourer votre thé dans une ambiance empreinte de sérénité.\n","en":"This antique japanese ceramic tea bowl, likely from the Shino-yaki tradition. Its soft, natural tones, adorned with delicate crackles,<!--more--> evoke the authenticity and simplicity of tea rituals. Every detail tells a story of ancestral craftsmanship and timeless beauty. Perfect for enjoying your tea in a serene and contemplative atmosphere.\n"},
+    "photos": ["bol-ancien-pince_J7-a.jpg","bol-ancien-pince_J7-b.jpg","bol-ancien-pince_J7-c.jpg","bol-ancien-pince_J7-d.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "37",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ8_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ8_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ8",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Bizen-yaki, artisanal japonais","en":"antique tea bowl in Bizen-yaki, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien en Bizen-yaki, artisanal japonais","en":"antique tea bowl in Bizen-yaki, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien en Bizen-yaki incarne l'art traditionnel japonais. Sa patine naturelle, fruit du temps et de la cuisson au feu de bois,<!--more--> lui confère un caractère unique. Un objet chargé d'histoire, idéal pour une expérience de thé empreinte d’authenticité.\n","en":"This antique tea bowl in Bizen-yaki embodies the essence of traditional Japanese craftsmanship. Its natural patina, shaped by time and wood-fired kilns,<!--more--> gives it a unique character. A piece rich in history, perfect for an authentic tea experience.\n"},
+    "photos": ["bol-ancien-bizen_J8-a.jpg","bol-ancien-bizen_J8-b.jpg","bol-ancien-bizen_J8-c.jpg","bol-ancien-bizen_J8-d.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "110",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolJ9_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolJ9_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolJ9",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé ancien en Bizen-yaki, artisanal japonais","en":"antique tea bowl in Bizen-yaki, handcrafted in Japan"},
+    "meta_descr": {"fr":"bol à thé ancien en Bizen-yaki, artisanal japonais","en":"antique tea bowl in Bizen-yaki, handcrafted in Japan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol à thé ancien est façonné dans la pure tradition japonaise. Sa texture brute et ses teintes naturelles, nées du feu et de l’argile,<!--more--> incarnent l’âme du Bizen-yaki. Simple, authentique, parfait pour savourer un moment de thé en toute sérénité.\n","en":"This antique tea bowl is crafted in the pure Japanese tradition. Its raw texture and natural tones, born from fire and clay, embody the spirit of Bizen-yaki.<!--more--> Simple, authentic, and perfect for enjoying a serene tea moment.\n"},
+    "photos": ["bol-ancien-bizen_J9-a.jpg","bol-ancien-bizen_J9-b.jpg","bol-ancien-bizen_J9-c.jpg","bol-ancien-bizen_J9-d.jpg"],
+    "price": "40",
+    "stock": "1",
+    "weight": "76",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT1_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT1_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT1",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en porcelaine, cuisson au bois, artisanal de Taïwan","en":"wood-fired porcelain tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en porcelaine, cuisson au bois, artisanal de Taïwan","en":"wood-fired porcelain tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en porcelaine, cuit au feu de bois, est une pièce unique empreinte de caractère. Ses teintes naturelles et son émail craquelé apportent une esthétique organique et apaisante.<!--more--> Parfait pour savourer vos thés préférés dans un esprit chaleureux et authentique.\n","en":"This wood-fired porcelain bowl is a unique piece full of character. Its natural tones and crackled glaze bring an organic and soothing aesthetic.<!--more--> Perfect for enjoying your favorite teas with a warm and authentic touch.\n"},
+    "photos": ["bol-porcelaine-bois_T1-a.jpg","bol-porcelaine-bois_T1-b.jpg","bol-porcelaine-bois_T1-c.jpg","bol-porcelaine-bois_T1-d.jpg"],
+    "price": "70",
+    "stock": "1",
+    "weight": "85",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT2_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT2_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT2",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en porcelaine, cuisson au bois, artisanal de Taïwan","en":"wood-fired porcelain tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en porcelaine, cuisson au bois, artisanal de Taïwan","en":"wood-fired porcelain tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en porcelaine, cuit au feu de bois, est une pièce unique empreinte de caractère. Ses teintes naturelles et son émail craquelé apportent une esthétique organique et apaisante.<!--more--> Parfait pour savourer vos thés préférés dans un esprit chaleureux et authentique.\n","en":"This wood-fired porcelain bowl is a unique piece full of character. Its natural tones and crackled glaze bring an organic and soothing aesthetic.<!--more--> Perfect for enjoying your favorite teas with a warm and authentic touch.\n"},
+    "photos": ["bol-porcelaine-bois_T2-a.jpg","bol-porcelaine-bois_T2-b.jpg","bol-porcelaine-bois_T2-c.jpg","bol-porcelaine-bois_T2-d.jpg"],
+    "price": "70",
+    "stock": "1",
+    "weight": "80",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT3_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT3_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT3",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en céladon, artisanal de Taïwan","en":"celadon tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en céladon, artisanal de Taïwan","en":"celadon tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en porcelaine céladon est délicatement façonné en forme de fleur. Sa teinte douce, ses courbes élégantes et ses reflets soyeux, rappelant l'éclat du jade, en font une pièce d'exception.<!--more--> Ce qui le rend encore plus rare, c'est son émail parfaitement lisse et sans craquelure, une caractéristique précieuse pour un véritable céladon. Il s'agit d'un authentique céladon de la maison taïwanaise 陶作坊 - TáoZuòFāng, témoignage d'un artisanat raffiné et intemporel.\n","en":"This celadon porcelain bowl is delicately shaped like a flower. Its soft hue, elegant curves, and silky reflections reminiscent of jade make it an exceptional piece.<!--more--> What makes it even rarer is its perfectly smooth glaze, free of any crackles—a prized characteristic of authentic celadon. This is a genuine celadon from the renowned Taiwanese workshop 陶作坊 - TáoZuòFāng, a testament to refined and timeless craftsmanship.\n"},
+    "photos": ["bol-celadon-fleur_T3T4-a.jpg","bol-celadon-fleur_T3T4-b.jpg","bol-celadon-fleur_T3T4-c.jpg"],
+    "price": "100",
+    "stock": "2",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT5_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT5_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT5",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en argile, cuit au feu de bois, est une pièce unique qui capture l'essence de l'artisanat traditionnel. Ses teintes profondes et ses textures brutes racontent une histoire riche en authenticité.<!--more--> Idéal pour savourer votre thé dans un esprit chaleureux et naturel. Un objet intemporel qui allie simplicité et caractère.\n","en":"This wood-fired clay bowl is a unique piece that captures the essence of traditional craftsmanship. Its deep tones and raw textures tell a story rich in authenticity.<!--more--> Perfect for enjoying your tea in a warm and natural spirit. A timeless object that combines simplicity and character.\n"},
+    "photos": ["bol-argile-bois_T5-a.jpg","bol-argile-bois_T5-b.jpg","bol-argile-bois_T5-c.jpg"],
+    "price": "80",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT6_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT6_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT6",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en argile, cuit au feu de bois, se distingue par ses tons chaleureux et ses reflets métalliques uniques. Chaque détail raconte le mariage subtil entre la terre et la flamme.<!--more--> Une pièce artisanale idéale pour savourer votre thé en toute simplicité, avec une touche d'authenticité et de caractère intemporel.\n","en":"This wood-fired clay bowl stands out with its warm tones and unique metallic reflections. Every detail tells the subtle story of the harmony between earth and flame.<!--more--> A handcrafted piece, perfect for enjoying your tea with simplicity, authenticity, and timeless character.\n"},
+    "photos": ["bol-argile-bois_T6-a.jpg","bol-argile-bois_T6-b.jpg","bol-argile-bois_T6-c.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT7_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT7_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT7",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en argile cuit au bois capture l'essence brute et naturelle du feu. Ses nuances sombres et ses reflets dorés racontent une histoire unique de chaleur et de savoir-faire.<!--more--> Une pièce intemporelle, parfaite pour sublimer vos moments de thé avec une touche d'authenticité.\n","en":"This wood-fired clay bowl captures the raw and natural essence of the flame. Its dark tones and golden reflections tell a unique story of heat and craftsmanship.<!--more--> A timeless piece, perfect for enhancing your tea moments with a touch of authenticity.\n"},
+    "photos": ["bol-argile-bois_T7-a.jpg","bol-argile-bois_T7-b.jpg","bol-argile-bois_T7-c.jpg","bol-argile-bois_T7-d.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chabei - ",
+    "permalinks": {
+      "fr": "/products/bolT8_chabei-petit-bol-a-the/",
+      "en": "/en/products/bolT8_chabei-petit-bol-a-the/"
+    },
+    "layout": "",
+    "id": "bolT8",
+    "name": {"fr":"茶杯 CháBēi (petit bol à thé)","en":"茶杯 CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "meta_descr": {"fr":"bol à thé en argile, cuisson au bois, artisanal de Taïwan","en":"wood-fired clay tea bowl, handcrafted in Taiwan"},
+    "tags": ["chabei"],
+    "description": {"fr":"Ce bol en argile façonné à la main et cuit au bois révèle une profondeur unique dans ses teintes naturelles, allant des bruns chauds aux nuances sombres et satinées.<!--more--> Sa texture légèrement irrégulière et sa forme équilibrée capturent l’essence intemporelle de l’artisanat en argile. Chaque détail raconte une histoire, rendant chaque pièce véritablement unique et pleine de caractère.\n","en":"This handcrafted clay bowl, wood-fired to perfection, reveals a unique depth in its natural tones, ranging from warm browns to dark, satin-like hues.<!--more--> Its slightly irregular texture and balanced shape capture the timeless essence of clay craftsmanship. Every detail tells a story, making each piece truly unique and full of character.\n"},
+    "photos": ["bol-argile-bois_T8-a.jpg","bol-argile-bois_T8-b.jpg","bol-argile-bois_T8-c.jpg","bol-argile-bois_T8-d.jpg"],
+    "price": "180",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT11_chacang-pot-a-the/",
+      "en": "/en/products/chacangT11_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT11",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé artisanal en porcelaine, cuisson au bois de Taïwan","en":"Porcelain handcrafted tea jar, wood-fired from Taiwan"},
+    "meta_descr": {"fr":"pot à thé artisanal en porcelaine, cuisson au bois de Taïwan","en":"Porcelain handcrafted tea jar, wood-fired from Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce pot à thé artisanal en porcelaine, cuit au feu de bois à Taïwan, est une pièce unique où chaque détail raconte une histoire.<!--more--> Ses teintes chaleureuses et son fini texturé apportent une touche d’élégance naturelle à vos moments de thé. Un bel équilibre entre authenticité et simplicité.\n","en":"This handcrafted porcelain tea jar, wood-fired in Taiwan, is a unique piece where every detail tells a story.<!--more--> Its warm tones and textured finish bring a natural elegance to your tea moments. A perfect balance of authenticity and simplicity.\n"},
+    "photos": ["chacang-porcelaine-bois_T11-a.jpg","chacang-porcelaine-bois_T11-b.jpg","chacang-porcelaine-bois_T11-c.jpg","chacang-porcelaine-bois_T11-d.jpg"],
+    "price": "130",
+    "stock": "1",
+    "weight": "160",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT12_chacang-pot-a-the/",
+      "en": "/en/products/chacangT12_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT12",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "meta_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce pot à thé en argile, cuit au feu de bois et fait main à Taïwan, est une pièce authentique pleine de caractère.<!--more--> Ses nuances naturelles et son fini texturé ajoutent une touche d'élégance rustique à votre rituel du thé. Un compagnon unique pour vos moments de sérénité.\n","en":"This clay tea jar, wood-fired and handcrafted in Taiwan, is an authentic piece full of character.<!--more--> Its natural tones and textured finish add a touch of rustic elegance to your tea ritual. A unique companion for moments of serenity.\n"},
+    "photos": ["chacang-argile-bois_T12-a.jpg","chacang-argile-bois_T12-b.jpg","chacang-argile-bois_T12-c.jpg"],
+    "price": "120",
+    "stock": "1",
+    "weight": "155",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT13_chacang-pot-a-the/",
+      "en": "/en/products/chacangT13_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT13",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "meta_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce pot à thé en argile, cuit au feu de bois à Taïwan, est une pièce unique qui incarne l’artisanat authentique.<!--more--> Ses couleurs terreuses et son fini brut évoquent la chaleur et la simplicité, parfait pour accompagner vos instants de thé avec naturel et élégance.\n","en":"This clay tea jar, wood-fired in Taiwan, is a unique piece that embodies authentic craftsmanship.<!--more--> Its earthy tones and raw finish evoke warmth and simplicity, making it perfect to accompany your tea moments with natural elegance.\n"},
+    "photos": ["chacang-argile-bois_T13-a.jpg","chacang-argile-bois_T13-b.jpg","chacang-argile-bois_T13-c.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "175",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT14_chacang-pot-a-the/",
+      "en": "/en/products/chacangT14_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT14",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "meta_descr": {"fr":"pot à thé en argile, artisanal, cuisson au bois de Taïwan","en":"clay handcrafted tea jar, wood-fired from Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce pot à thé en argile, cuit au feu de bois à Taïwan, est une pièce unique qui incarne l’artisanat authentique.<!--more--> Ses couleurs terreuses et son fini brut évoquent la chaleur et la simplicité, parfait pour accompagner vos instants de thé avec naturel et élégance.\n","en":"This clay tea jar, wood-fired in Taiwan, is a unique piece that embodies authentic craftsmanship.<!--more--> Its earthy tones and raw finish evoke warmth and simplicity, making it perfect to accompany your tea moments with natural elegance.\n"},
+    "photos": ["chacang-argile-bois_T14-a.jpg","chacang-argile-bois_T14-b.jpg","chacang-argile-bois_T14-c.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "187",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT31_chacang-pot-a-the/",
+      "en": "/en/products/chacangT31_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT31",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé en porcelaine semi-artisanale, fabriquée à Taïwan","en":"small semi-handcrafted porcelain tea jar, made in Taiwan"},
+    "meta_descr": {"fr":"pot à thé en porcelaine semi-artisanale, fabriquée à Taïwan","en":"small semi-handcrafted porcelain tea jar, made in Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce 茶倉 en porcelaine blanche, fabriqué semi-artisanalement à Taïwan, est un modèle simple et épuré, idéal pour conserver vos thés précieux.<!--more--> Sa taille compacte s'intègre parfaitement dans un 茶席 (ChaXi) ou accompagne vos déplacements, tout en préservant l'arôme et la fraîcheur du thé.\n","en":"This 茶倉 in white porcelain, semi-handcrafted in Taiwan, features a simple and minimalist design, perfect for storing your precious teas.<!--more--> Its compact size fits seamlessly into a 茶席 (ChaXi) or accompanies you on the go, while preserving the aroma and freshness of your tea.\n"},
+    "photos": ["chacang-porce-semi-main_T31-a.jpg","chacang-porce-semi-main_T31-b.jpg"],
+    "price": "40",
+    "stock": "1",
+    "weight": "120",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT32_chacang-pot-a-the/",
+      "en": "/en/products/chacangT32_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT32",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"pot à thé en porcelaine semi-artisanale, fabriquée à Taïwan","en":"small semi-handcrafted porcelain tea jar, made in Taiwan."},
+    "meta_descr": {"fr":"pot à thé en porcelaine semi-artisanale, fabriquée à Taïwan","en":"small semi-handcrafted porcelain tea jar, made in Taiwan."},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce 茶倉 en porcelaine blanche aux reflets bleuté, fabriqué semi-artisanalement à Taïwan,  est un modèle simple et épuré, idéal pour conserver vos thés précieux.<!--more--> Sa taille compacte s'intègre parfaitement dans un 茶席 (ChaXi) ou accompagne vos déplacements,  tout en préservant l'arôme et la fraîcheur du thé.\n","en":"This 茶倉 in white porcelain with bluish reflections, semi-handcrafted in Taiwan, features a simple and minimalist design,  perfect for storing your precious teas.<!--more--> Its compact size fits seamlessly into a 茶席 (ChaXi) or accompanies you on the go,  while preserving the aroma and freshness of your tea.\n"},
+    "photos": ["chacang-porce-semi-main_T32-a.jpg","chacang-porce-semi-main_T32-b.jpg"],
+    "price": "40",
+    "stock": "1",
+    "weight": "120",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chacang - ",
+    "permalinks": {
+      "fr": "/products/chacangT34_chacang-pot-a-the/",
+      "en": "/en/products/chacangT34_chacang-pot-a-the/"
+    },
+    "layout": "",
+    "id": "chacangT34",
+    "name": {"fr":"茶倉 CháCāng (pot à thé)","en":"茶倉 CháCāng (tea jar)"},
+    "mini_descr": {"fr":"mini pot à thé en porcelaine émaillée noire de Taïwan","en":"mini black-glazed porcelain tea jar, made in Taiwan"},
+    "meta_descr": {"fr":"mini pot à thé en porcelaine émaillée noire de Taïwan","en":"mini black-glazed porcelain tea jar, made in Taiwan"},
+    "tags": ["chacang"],
+    "description": {"fr":"Ce mini 茶倉 en porcelaine émaillée noire, fabriqué de manière semi-artisanale à Taïwan, est un modèle idéal pour vos déplacements, tout en conservant un style naturel et élégant.\n","en":"This mini 茶倉 black-glazed porcelain tea jar, semi-handcrafted in Taiwan, is the perfect model for travel, combining natural elegance with practicality.\n"},
+    "photos": ["chacang-porce-emai_T34-a.jpg","chacang-porce-emai_T34-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "90",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT10_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT10_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT10",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "meta_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce 茶海 - CháHǎi, façonné à la main par un artisan taïwanais en argile cuite au bois, dégage une chaleur et une authenticité uniques. Ses courbes douces et ses teintes brunes, marquées par les flammes et les cendres,racontent l'histoire du feu et du savoir-faire artisanal.<!--more--> Avec son corps évasé et son bec délicat, il rend le service du thé fluide et naturel, tout en apportant une touche de simplicité et de connexion à la nature. Un objet humble et vivant, qui trouve sa place dans chaque moment de thé.\n","en":"This 茶海 - CháHǎi, handmade by a Taiwanese artisan using wood-fired clay, has a warm, earthy feel that’s both inviting and unique. Its soft curves and ash-kissed tones tell the story of fire and craftsmanship.<!--more--> The flared body and gentle spout make pouring tea effortless, adding a touch of nature and simplicity to your tea ritual. It’s a humble, beautiful piece that feels alive in your hands.\n"},
+    "photos": ["chahai-argile-bois_T10-a.jpg","chahai-argile-bois_T10-b.jpg","chahai-argile-bois_T10-c.jpg","chahai-argile-bois_T10-d.jpg"],
+    "price": "150",
+    "stock": "1",
+    "weight": "215",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT21_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT21_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT21",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse en porcelaine semi-artisanale de Taïwan","en":"semi-handmade porcelain pitcher from Taiwan"},
+    "meta_descr": {"fr":"verseuse en porcelaine semi-artisanale de Taïwan","en":"semi-handmade porcelain pitcher from Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce petit 茶海 en porcelaine blanche est un concentré de douceur et de simplicité. Son design épuré et sa prise en main confortable en font un compagnon idéal pour vos moments de thé. Le bec verseur garantit un service précis,<!--more--> sans une goutte perdue. Léger et facile à utiliser, il ajoute une touche d’élégance à vos dégustations.Parfait pour ceux qui apprécient la beauté dans les petits détails.\n","en":"This small white porcelain 茶海 is a blend of simplicity and elegance. Its minimalist design and comfortable grip make it the perfect companion for your tea moments. The spout ensures precise pouring,<!--more--> without a single drop wasted. Light and easy to handle, it adds a touch of sophistication to your tea rituals. Perfect for those who appreciate beauty in the finer details.\n"},
+    "photos": ["chahai-porcelaine_T21-a.jpg","chahai-porcelaine_T21-b.jpg","chahai-porcelaine_T21-c.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT23_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT23_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT23",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"petite verseuse à thé en verre de Taïwan","en":"small glass tea pitcher from Taiwan"},
+    "meta_descr": {"fr":"petite verseuse à thé en verre de Taïwan","en":"small glass tea pitcher from Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce chahai en verre, en forme de fleur, allie délicatesse et élégance. Sa transparence met en valeur la couleur des infusions, tandis que son bec verseur précis assure un service parfait.<!--more--> Léger et raffiné, il ajoute une touche poétique à vos dégustations de thé.\n","en":"This flower-shaped glass chahai combines delicacy and elegance. Its transparency highlights the color of the infusions, while its precise spout ensures perfect pouring.<!--more--> Lightweight and refined, it adds a poetic touch to your tea-tasting moments.\n"},
+    "photos": ["chahai-verre_T23-a.jpg","chahai-verre_T23-b.jpg","chahai-verre_T23-c.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT24_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT24_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT24",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse à thé en verre de Taïwan","en":"small glass tea pitcher from Taiwan"},
+    "meta_descr": {"fr":"verseuse à thé en verre de Taïwan","en":"small glass tea pitcher from Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce chahai en verre allie simplicité et fonctionnalité. Son design épuré, sa poignée ergonomique et son bec verseur précis en font un allié parfait pour vos dégustations de thé.<!--more--> Léger et transparent, il met en valeur la beauté de chaque infusion tout en assurant un service fluide et élégant.\n","en":"This glass chahai combines simplicity and functionality. Its minimalist design, ergonomic handle, and precise spout make it the perfect companion for your tea tastings.<!--more--> Lightweight and transparent, it highlights the beauty of each infusion while ensuring smooth and elegant pouring.\n"},
+    "photos": ["chahai-verre_T24-a.jpg","chahai-verre_T24-b.jpg","chahai-verre_T24-c.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT27_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT27_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT27",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "meta_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce 茶海 en argile rouge, façonné à Taïwan, allie tradition et simplicité. Avec sa forme douce et accueillante, il accompagne naturellement vos moments de 工夫茶 GōngFūChá, en rendant chaque infusion encore plus fluide et agréable.\n","en":"This red clay 茶海, handmade in Taiwan, combines tradition and simplicity. Its soft and inviting shape naturally complements your 工夫茶 GōngFūChá moments, making every pour smooth and enjoyable.\n"},
+    "photos": ["chahai-argile-semi-main_T27-a.jpg","chahai-argile-semi-main_T27-b.jpg"],
+    "price": "20",
+    "stock": "2",
+    "weight": "112",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT28_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT28_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT28",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "meta_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce 茶海 en argile pourpre, façonné à Taïwan, allie tradition et simplicité. Avec sa forme douce et accueillante, il accompagne naturellement vos moments de Gong Fu Cha, en rendant chaque infusion encore plus fluide et agréable.\n","en":"This 茶海, crafted from purple clay in Taiwan, embodies tradition and simplicity. Its gentle and welcoming shape naturally complements your Gong Fu Cha moments, making each infusion smoother and more enjoyable.\n"},
+    "photos": ["chahai-argile-semi-main_T28-a.jpg","chahai-argile-semi-main_T28-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "112",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT29_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT29_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT29",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "meta_descr": {"fr":"verseuse en argile semi-artisanale, fabriquée à Taïwan","en":"traditional clay tea pitcher, semi-handmade in Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce 茶海 en argile pourpre, façonné à Taïwan, allie tradition et simplicité. Avec sa forme douce et accueillante, il accompagne naturellement vos moments de Gong Fu Cha, en rendant chaque infusion encore plus fluide et agréable.\n","en":"This 茶海, crafted from purple clay in Taiwan, embodies tradition and simplicity. Its gentle and welcoming shape naturally complements your Gong Fu Cha moments, making each infusion smoother and more enjoyable.\n"},
+    "photos": ["chahai-argile-semi-main_T29-a.jpg","chahai-argile-semi-main_T29-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "120",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chahai - ",
+    "permalinks": {
+      "fr": "/products/chahaiT30_chahai-verseuse-de-the/",
+      "en": "/en/products/chahaiT30_chahai-verseuse-de-the/"
+    },
+    "layout": "",
+    "id": "chahaiT30",
+    "name": {"fr":"茶海 CháHǎi (verseuse de thé)","en":"茶海 CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"petite verseuse à thé en argile (semi-main) de Taïwan","en":"small clay tea pitcher (semi-handcrafted) from Taiwan"},
+    "meta_descr": {"fr":"petite verseuse à thé en argile (semi-main) de Taïwan","en":"small clay tea pitcher (semi-handcrafted) from Taiwan"},
+    "tags": ["chahai"],
+    "description": {"fr":"Ce petit 茶海 en argile pourpre, façonné à Taïwan, allie tradition et simplicité. Avec sa forme douce et accueillante, il accompagne naturellement vos moments de Gong Fu Cha, en rendant chaque infusion encore plus fluide et agréable.\n","en":"This small 茶海, crafted from purple clay in Taiwan, embodies tradition and simplicity. Its gentle and welcoming shape naturally complements your Gong Fu Cha moments, making each infusion smoother and more enjoyable.\n"},
+    "photos": ["chahai-argile-semi-main_T30-a.jpg","chahai-argile-semi-main_T30-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "90",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -147,16 +945,142 @@
     "shipping_point": ""
   },
 {
+    "title": "xiangju - ",
+    "permalinks": {
+      "fr": "/products/encensT50_tanxiang/",
+      "en": "/en/products/encensT50_tanxiang/"
+    },
+    "layout": "",
+    "id": "encensT50",
+    "name": {"fr":"檀香 TánXiāng","en":"檀香 TánXiāng"},
+    "mini_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "meta_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "tags": ["xiangju"],
+    "description": {"fr":"檀香 - TánXiāng, le bois de santal est originaire de l’Inde et s’est diffusé par le commerce vers le Moyen-Orient, l’Asie du Sud-Est et la Chine. Prisé pour sa rareté, il fut autrefois un tribut royal et un symbole de prestige. D’abord utilisé dans les rites religieux, il s’est ensuite intégré à la vie quotidienne et à l’art de l’encens chinois,<!--more--> apprécié par les moines et l’aristocratie. Son parfum apaisant aide à réduire le stress, l’anxiété et l’insomnie, tout en influençant les neurotransmetteurs pour améliorer l’humeur et atténuer la dépression. L'encens en cascade se distingue par son cœur creux, permettant à la fumée de descendre en cascade, créant une expérience visuelle unique. Dans la tradition chinoise de l’encens, la contemplation et l’olfaction se complètent pour une immersion sensorielle raffinée.\n","en":"檀香 - TánXiāng, sandalwood originated in India and spread through trade to the Middle East, Southeast Asia, and China. Valued for its rarity, it was once a tribute and a symbol of prestige. Initially used in religious rituals, it later became part of daily life and a key element in Chinese incense culture,<!--more--> favored by monks and nobility. Its calming aroma helps alleviate stress, anxiety, and insomnia, while influencing neurotransmitters to enhance mood and reduce depression.   Waterfall incense features a hollow core, guiding smoke downward like a cascading waterfall, offering a unique visual experience. In Chinese incense culture, watching and smelling incense are complementary, enhancing the sensory ritual.\n"},
+    "photos": ["encens-cass-tan_T50-a.jpg"],
+    "price": "18",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "xiangju - ",
+    "permalinks": {
+      "fr": "/products/encensT51_chenxiang/",
+      "en": "/en/products/encensT51_chenxiang/"
+    },
+    "layout": "",
+    "id": "encensT51",
+    "name": {"fr":"沉香 ChénXiāng","en":"沉香 ChénXiāng"},
+    "mini_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "meta_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "tags": ["xiangju"],
+    "description": {"fr":"沉香 - ChénXiāng, le bois d’agar (ou bois d’aloès), issu des Thyméléacées, pousse en forêts tropicales. Certaines espèces produisent cette résine précieuse en réaction aux agressions naturelles (insectes, bactéries, blessures, foudre). Avec le temps, elle se condense et évolue. Ces résines se forment sur des décennies voire des siècles,<!--more--> subissant immersion, enfouissement et décomposition, avant de se solidifier. Sous l’influence du climat et du terroir, il se décline en qualités et arômes variés : floraux, miellés, fruités, médicinaux ou résineux. L'encens en cascade se distingue par son cœur creux, permettant à la fumée de descendre en cascade, créant une expérience visuelle unique. Dans la tradition chinoise de l’encens, la contemplation et l’olfaction se complètent pour une immersion sensorielle raffinée. Sous l’influence du climat et du terroir, il se décline en qualités et arômes variés : floraux, miellés, fruités, médicinaux ou résineux.\n","en":"沉香 - ChénXiāng, agarwood (or aloeswood), from the Thymelaeaceae family, grows in tropical forests. Certain species produce this precious resin in response to natural stressors (insects, bacteria, wounds, lightning). Over time, it condenses and matures. These resins develop over decades to centuries,<!--more--> undergoing submersion, burial, and decay before solidifying. Shaped by climate and terroir, it develops varied qualities and aromas: floral, honeyed, fruity, medicinal, or resinous.   Waterfall incense features a hollow core, guiding smoke downward like a cascading waterfall, offering a unique visual experience. In Chinese incense culture, watching and smelling incense are complementary, enhancing the sensory ritual.\n"},
+    "photos": ["encens-cass-chen_T51-a.jpg"],
+    "price": "18",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "xiangju - ",
+    "permalinks": {
+      "fr": "/products/encensT52_jiangzhenxiang/",
+      "en": "/en/products/encensT52_jiangzhenxiang/"
+    },
+    "layout": "",
+    "id": "encensT52",
+    "name": {"fr":"降真香 JiàngZhēnXiāng","en":"降真香 JiàngZhēnXiāng"},
+    "mini_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "meta_descr": {"fr":"倒流香 - DàoLiúXiāng, encens en cascade","en":"倒流香 - DàoLiúXiāng, waterfall incense"},
+    "tags": ["xiangju"],
+    "description": {"fr":"Le 降真香 - JiàngZhēnXiāng, de la famille des Rutacées et du genre Dalbergia, est un arbre à feuilles persistantes dont la résine aromatique se forme naturellement en réponse aux blessures (foudre, vent, insectes, broutage, entailles). Avec le temps, cette résine se solidifie en un bois rare et parfumé.<!--more--> L’île de Hainan produit le JiàngZhēnXiāng de la plus haute qualité. Selon le terroir, ses arômes varient entre notes lactées, florales (orchidée) et miellées. Apprécié pour sa fraîcheur et son parfum élégant, il est prisé en médecine traditionnelle et en art de l’encens pour purifier l’esprit et nourrir l’âme.  \nL'encens en cascade se distingue par son cœur creux, permettant à la fumée de descendre en cascade, créant une expérience visuelle unique. Dans la tradition chinoise de l’encens, la contemplation et l’olfaction se complètent pour une immersion sensorielle raffinée.\n","en":"降真香 - JiàngZhēnXiāng, from the Rutaceae family and Dalbergia genus, is an evergreen tree whose aromatic resin naturally forms in response to injuries (lightning, wind, insects, grazing, cuts). Over time, this resin solidifies into a rare and fragrant wood.<!--more--> The island of Hainan produces the highest quality JiàngZhēnXiāng. Depending on the terroir, its aromas range from milky, floral (orchid), to honeyed notes. Valued for its freshness and elegant scent, it is highly prized in traditional medicine and incense arts for purifying the mind and nurturing the soul.  \nWaterfall incense features a hollow core, guiding smoke downward like a cascading waterfall, offering a unique visual experience. In Chinese incense culture, watching and smelling incense are complementary, enhancing the sensory ritual.\n"},
+    "photos": ["encens-cass-jiang_T52-a.jpg"],
+    "price": "18",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "title": "gaiwan - ",
+    "permalinks": {
+      "fr": "/products/gaiwT15_gaiwan/",
+      "en": "/en/products/gaiwT15_gaiwan/"
+    },
+    "layout": "",
+    "id": "gaiwT15",
+    "name": {"fr":"蓋碗 GàiWǎn","en":"蓋碗 GàiWǎn"},
+    "mini_descr": {"fr":"GàiWǎn en porcelaine, cuisson au bois de Taïwan","en":"Porcelain GàiWǎn, wood-fired in Taiwan"},
+    "meta_descr": {"fr":"GàiWǎn en porcelaine, cuisson au bois de Taïwan","en":"Porcelain GàiWǎn, wood-fired in Taiwan"},
+    "tags": ["gaiwan"],
+    "description": {"fr":"Ce 蓋碗 est fait à la main en kaolin, puis cuit à haute température dans un four à bois. Les marques laissées par le feu et les cendres tombées lui donnent un caractère unique et vivant.<!--more--> Avec sa forme traditionnelle et ses détails imprévisibles, il devient un compagnon de thé plein de charme, simple et absolument incomparable.\n","en":"This 蓋碗 is handcrafted from kaolin and fired at high temperatures in a wood-fired kiln. The marks left by the fire and falling ash give it a unique and vibrant character.<!--more--> With its traditional shape and unpredictable details, it becomes a tea companion full of charm—simple, yet truly one of a kind.\n"},
+    "photos": ["gaiwan-porcelaine-bois_T15-a.jpg","gaiwan-porcelaine-bois_T15-b.jpg","gaiwan-porcelaine-bois_T15-c.jpg","gaiwan-porcelaine-bois_T15-d.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "gaiwan - ",
+    "permalinks": {
+      "fr": "/products/gaiwT22_gaiwan/",
+      "en": "/en/products/gaiwT22_gaiwan/"
+    },
+    "layout": "",
+    "id": "gaiwT22",
+    "name": {"fr":"蓋碗 GàiWǎn","en":"蓋碗 GàiWǎn"},
+    "mini_descr": {"fr":"GàiWǎn en verre de Taïwan","en":"glasse GàiWǎn from Taiwan"},
+    "meta_descr": {"fr":"GàiWǎn en verre de Taïwan","en":"glasse GàiWǎn from Taiwan"},
+    "tags": ["gaiwan"],
+    "description": {"fr":"Ce 蓋碗 en verre transparent, en forme de fleur, est un véritable bijou pour les amateurs de thé. Son design délicat et ses parois translucides permettent d’admirer la danse des feuilles lors de l’infusion.<!--more--> Léger et facile à manipuler, il ajoute une touche de poésie et d’élégance à vos moments de dégustation.\n","en":"This transparent glass 蓋碗, shaped like a flower, is a true gem for tea enthusiasts. Its delicate design and translucent walls let you admire the dance of the tea leaves during infusion.<!--more--> Lightweight and easy to handle, it adds a touch of poetry and elegance to your tea moments.\n"},
+    "photos": ["gaiwan-verre_T22-a.jpg","gaiwan-verre_T22-b.jpg","gaiwan-verre_T22-c.jpg","gaiwan-verre_T22-d.jpg"],
+    "price": "80",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "gaiwan - ",
+    "permalinks": {
+      "fr": "/products/gaiwT26_gaiwan/",
+      "en": "/en/products/gaiwT26_gaiwan/"
+    },
+    "layout": "",
+    "id": "gaiwT26",
+    "name": {"fr":"蓋碗 GàiWǎn","en":"蓋碗 GàiWǎn"},
+    "mini_descr": {"fr":"GàiWǎn en porcelaine de Taïwan","en":"porcelain GàiWǎn from Taiwan"},
+    "meta_descr": {"fr":"GàiWǎn en porcelaine de Taïwan","en":"porcelain GàiWǎn from Taiwan"},
+    "tags": ["gaiwan"],
+    "description": {"fr":"Ce 蓋碗 en porcelaine, fabriqué à Taïwan, provient de la Maison des Trois Raretés de Taïwan (三希堂 - SānXī Táng). On l'appelle également 三才碗 - SānCái Wǎn, ce qui se traduit littéralement par \"bol des trois éléments\".<!--more--> Les trois éléments, 天 - Tiān (le ciel), 地 - Dì (la terre) et 人 - Rén (l'humain), représentent les trois forces fondamentales dans la pensée taoïste.\n","en":"This porcelain 蓋碗, crafted in Taiwan, comes from the House of the Three Rarities from Taiwan (三希堂 - SānXī Táng). It is also known as SānCái Wǎn (三才碗), which literally translates to \"bowl of the three elements\".<!--more--> The three elements, Tiān (heaven), Dì (earth), and Rén (humanity), represent the three fundamental forces in Taoist philosophy.\n"},
+    "photos": ["gaiwan-porcelaine_T26-a.jpg","gaiwan-porcelaine_T26-b.jpg","gaiwan-porcelaine_T26-c.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "190",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
     "title": "cha - ",
     "permalinks": {
-      "fr": "/products/hongA1_mixiang-hongcha/",
-      "en": "/en/products/hongA1_mixiang-hongcha/"
+      "fr": "/products/hongA1_mixiang-hongcha-25g/",
+      "en": "/en/products/hongA1_mixiang-hongcha-25g/"
     },
     "layout": "",
     "id": "hongA1",
-    "name": {"fr":"蜜香红茶 - MìXiāng HóngChá","en":"蜜香红茶 - MìXiāng HóngChá"},
-    "mini_descr": {"fr":"thé rouge traditionnel de Taïwan - 25g","en":"traditional Taiwanese black tea - 25g"},
-    "meta_descr": {"fr":"thé rouge traditionnel de Taïwan - 25g","en":"traditional Taiwanese black tea - 25g"},
+    "name": {"fr":"蜜香红茶 - MìXiāng HóngChá - 25g","en":"蜜香红茶 - MìXiāng HóngChá - 25g"},
+    "mini_descr": {"fr":"thé rouge traditionnel de Taïwan","en":"traditional Taiwanese black tea"},
+    "meta_descr": {"fr":"thé rouge traditionnel de Taïwan","en":"traditional Taiwanese black tea"},
     "tags": ["cha"],
     "description": {"fr":"Ce 红茶 - HóngChá aux notes de miel caractéristiques est réalisé avec le cultivar endémique 青心柑仔 - QīngXīnGānZǐ de 三峡 - SānXiá. La famille de Monsieur 李 - Lǐ cultive le thé depuis trois générations.<!--more--> Il possède deux jardins de thé à 三峡 - SānXiá, à la périphérie de Taipei, et à 南投 - Nántóu, dans le centre de 臺灣 - Táiwān. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé.\n","en":"This 红茶 - HóngChá (black tea) with characteristic honey notes is made using the endemic cultivar 青心柑仔 - QīngXīnGānZǐ from 三峡 - SānXiá. Mr. 李 - Lǐ's family has been cultivating tea for three generations.<!--more--> He owns two tea gardens in 三峡 - SānXiá, on the outskirts of Taipei, and 南投 - Nántóu, in central 臺灣 - Táiwān. I have known him for ten years, and he has always maintained his dedication and sincerity in tea preparation.\n"},
     "photos": ["HongCha_MiXiang_1-a.jpg","HongCha_MiXiang_1-b.jpg"],
@@ -175,14 +1099,14 @@
     },
     "layout": "",
     "id": "jeBolA1",
-    "name": {"fr":"茶杯 - CháBēi - Petit bol","en":"茶杯 - CháBēi - Small Bowl"},
+    "name": {"fr":"茶杯 - CháBēi - petit bol","en":"茶杯 - CháBēi - small Bowl"},
     "mini_descr": {"fr":"Bol émaillé réalisé par Jé le Potier","en":"Glazed bowl made by Jé le Potier"},
     "meta_descr": {"fr":"Bol émaillé réalisé par Jé le Potier","en":"Glazed bowl made by Jé le Potier"},
     "tags": ["je-le-potier"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi Tea Bowl made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["jerome_bol_A1-a.jpg","jerome_bol_A1-b.jpg"],
     "price": "18",
-    "stock": "28",
+    "stock": "27",
     "weight": "170",
     
     "shipping_type": "colis_base",
@@ -191,14 +1115,14 @@
 {
     "title": "je-le-potier - ",
     "permalinks": {
-      "fr": "/products/jetheiere2_chahu-theiere/",
-      "en": "/en/products/jetheiere2_chahu-theiere/"
+      "fr": "/products/jetheiere2_chahu-petite-theiere-en-terre-brute/",
+      "en": "/en/products/jetheiere2_chahu-petite-theiere-en-terre-brute/"
     },
     "layout": "",
     "id": "jetheiere2",
-    "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
-    "mini_descr": {"fr":"théière fabriquée par Jé le potier.","en":"Small teapot crafted by Jé le potier."},
-    "meta_descr": {"fr":"théière fabriquée par Jé le potier.","en":"Small teapot crafted by Jé le potier."},
+    "name": {"fr":"茶壺 CháHú - petite théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
+    "mini_descr": {"fr":"Petite théière fabriquée dans une argile dense par Jé le potier.","en":"Small teapot crafted from dense clay by Jé le potier."},
+    "meta_descr": {"fr":"Petite théière fabriquée dans une argile dense par Jé le potier.","en":"Small teapot crafted from dense clay by Jé le potier."},
     "tags": ["je-le-potier"],
     "description": {"fr":"Pièce unique. Petite théière - 茶壺 CháHú - fabriquée dans une argile très dense. Ce grès de grande qualité est réalisé en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide.\n","en":"Unique piece. Small teapot - 茶壺 CháHú- made from very dense clay. This high-quality stoneware is crafted in Germany. The clay's porosity is 0.8%. The density of the clay helps minimize the drop in water temperature during infusion. The pour is smooth and fast.\n"},
     "photos": ["jerome_theiere_2-a.jpg","jerome_theiere_2-b.jpg","jerome_theiere_2-c.jpg","jerome_theiere_2-d.jpg"],
@@ -212,16 +1136,16 @@
 {
     "title": "je-le-potier - ",
     "permalinks": {
-      "fr": "/products/jetheiere3_chahu-theiere/",
-      "en": "/en/products/jetheiere3_chahu-theiere/"
+      "fr": "/products/jetheiere3_chahu-petite-theiere-en-terre-brute/",
+      "en": "/en/products/jetheiere3_chahu-petite-theiere-en-terre-brute/"
     },
     "layout": "",
     "id": "jetheiere3",
-    "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
+    "name": {"fr":"茶壺 CháHú - petite théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
     "mini_descr": {"fr":"Petite théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
     "meta_descr": {"fr":"Petite théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
     "tags": ["je-le-potier"],
-    "description": {"fr":"Pièce unique. 茶壺 CháHú - petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide.\n","en":"Unique piece. 茶壺 CháHú - teapot crafted from Treigny stoneware, a naturally soft clay. This teapot is unglazed and will develop a patina over time. The pour is smooth and fast.\n"},
+    "description": {"fr":"Pièce unique. 茶壺 CháHú - petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide.\n","en":"Unique piece. 茶壺 CháHú - small teapot crafted from Treigny stoneware, a naturally soft clay. This teapot is unglazed and will develop a patina over time. The pour is smooth and fast.\n"},
     "photos": ["jerome_theiere_3-a.jpg","jerome_theiere_3-b.jpg","jerome_theiere_3-c.jpg","jerome_theiere_3-d.jpg"],
     "price": "132",
     "stock": "1",
@@ -233,12 +1157,12 @@
 {
     "title": "je-le-potier - ",
     "permalinks": {
-      "fr": "/products/jetheiere4_chahu-theiere/",
-      "en": "/en/products/jetheiere4_chahu-theiere/"
+      "fr": "/products/jetheiere4_chahu-petite-theiere-emaillee/",
+      "en": "/en/products/jetheiere4_chahu-petite-theiere-emaillee/"
     },
     "layout": "",
     "id": "jetheiere4",
-    "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Small Glazed Teapot"},
+    "name": {"fr":"茶壺 CháHú - petite théière émaillée","en":"茶壺 CháHú - small Glazed Teapot"},
     "mini_descr": {"fr":"théière réalisée par Jé le Potier","en":"teapot made by Jé le Potier"},
     "meta_descr": {"fr":"théière réalisée par Jé le Potier","en":"teapot made by Jé le Potier"},
     "tags": ["je-le-potier"],
@@ -254,16 +1178,16 @@
 {
     "title": "chawelcome - ",
     "permalinks": {
-      "fr": "/products/luA1_biluochun/",
-      "en": "/en/products/luA1_biluochun/"
+      "fr": "/products/luA1_biluochun-25g/",
+      "en": "/en/products/luA1_biluochun-25g/"
     },
     "layout": "",
     "id": "luA1",
-    "name": {"fr":"碧螺春 - BìLuóChūn","en":"碧螺春 - BìLuóChūn"},
-    "mini_descr": {"fr":"thé vert traditionnel de Taïwan - 25g","en":"traditional Taiwanese green tea - 25g"},
-    "meta_descr": {"fr":"thé vert traditionnel de Taïwan - 25g","en":"traditional Taiwanese green tea - 25g"},
+    "name": {"fr":"碧螺春 - BìLuóChūn - 25g","en":"碧螺春 - BìLuóChūn - 25g"},
+    "mini_descr": {"fr":"thé vert traditionnel de Taïwan","en":"traditional Taiwanese green tea"},
+    "meta_descr": {"fr":"thé vert traditionnel de Taïwan","en":"traditional Taiwanese green tea"},
     "tags": ["cha","welcome"],
-    "description": {"fr":"Ce 綠茶 - LǜChá de printemps est l'un des deux principaux thés verts taïwanais. C'est un 碧螺春 - BìLuóChūn réalisé à partir du cultivar endémique de 三峽 - SānXiá, le 青心柑仔 - QīngXīn GānZǐ<!--more--> qui donne une identité aromatique unique. La famille de Mr.李- Lǐ produit des thés artisanaux de qualité depuis trois générations.\n","en":"This 綠茶 - LǜChá (green tea) is one of the two main Taiwanese green tea - 25gs. It is a 碧螺春 - BìLuóChūn crafted from the endemic cultivar of 三峽 - SānXiá, the 青心柑仔 - QīngXīn GānZǐ<!--more-->, which imparts a unique aromatic identity. Mr. 李- Lǐ's family has been producing quality artisanal teas for three generations.\n"},
+    "description": {"fr":"Ce 綠茶 - LǜChá de printemps est l'un des deux principaux thés verts taïwanais. C'est un 碧螺春 - BìLuóChūn réalisé à partir du cultivar endémique de 三峽 - SānXiá, le 青心柑仔 - QīngXīn GānZǐ<!--more--> qui donne une identité aromatique unique. La famille de Mr.李- Lǐ produit des thés artisanaux de qualité depuis trois générations.\n","en":"This 綠茶 - LǜChá (green tea) is one of the two main Taiwanese green teas. It is a 碧螺春 - BìLuóChūn crafted from the endemic cultivar of 三峽 - SānXiá, the 青心柑仔 - QīngXīn GānZǐ<!--more-->, which imparts a unique aromatic identity. Mr. 李- Lǐ's family has been producing quality artisanal teas for three generations.\n"},
     "photos": ["BiLuoChun_1-a.jpg","BiLuoChun_1-b.jpg"],
     "price": "15",
     "stock": "10",
@@ -275,14 +1199,14 @@
 {
     "title": "cha - ",
     "permalinks": {
-      "fr": "/products/luA3_bailu-lucha/",
-      "en": "/en/products/luA3_bailu-lucha/"
+      "fr": "/products/luA3_bailu-lucha-25g/",
+      "en": "/en/products/luA3_bailu-lucha-25g/"
     },
     "layout": "",
     "id": "luA3",
-    "name": {"fr":"白鹿綠茶 - BáiLù LǜChá","en":"白鹿綠茶 - BáiLù LǜChá"},
-    "mini_descr": {"fr":"thé vert traditionnel du Sichuan - 25g","en":"traditional green tea from Sichuan - 25g"},
-    "meta_descr": {"fr":"thé vert traditionnel du Sichuan - 25g","en":"traditional green tea from Sichuan - 25g"},
+    "name": {"fr":"白鹿綠茶 - BáiLù LǜChá - 25g","en":"白鹿綠茶 - BáiLù LǜChá - 25g"},
+    "mini_descr": {"fr":"thé vert traditionnel du Sichuan","en":"traditional green tea from Sichuan"},
+    "meta_descr": {"fr":"thé vert traditionnel du Sichuan","en":"traditional green tea from Sichuan"},
     "tags": ["cha"],
     "description": {"fr":"Ce 綠茶 - LǜChá est produit dans la province du 四川 - SìChuān en Chine et plus exactement au village de 白鹿村 - BáiLùCūn qui se trouve à environ 850 mètres d'altitude.<!--more--> Il ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole.\n","en":"This 綠茶 - LǜChá (green tea) is produced in the 四川 - SìChuān province of China, specifically in the village of 白鹿村 - BáiLùCūn, located at an altitude of approximately 850 meters.<!--more--> It covers an area of only 5.8 square kilometers and has just over 1,300 residents. With no industry, its natural environment is ideal for agricultural production.\n"},
     "photos": ["BaiLu-LvCha_1-a.jpg","BaiLu-LvCha_1-b.jpg"],
@@ -292,48 +1216,6 @@
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manongaA3_gaiwan/",
-      "en": "/en/products/manongaA3_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaA3",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
-    "photos": ["manon_gaiwan_A3-a.jpg","manon_gaiwan_A3-b.jpg","manon_gaiwan_A3-c.jpg"],
-    "price": "50",
-    "stock": "1",
-    "weight": "117",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manongaG10_gaiwan/",
-      "en": "/en/products/manongaG10_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG10",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed Gaiwan. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G10-a.jpg","manon_gaiwan_G10-b.jpg","manon_gaiwan_G10-c.jpg"],
-    "price": "45",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
   },
 {
     "title": "manon-clouzeau - [object Object]",
@@ -352,27 +1234,6 @@
     "price": "50",
     "stock": "1",
     "weight": "145",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeau - ",
-    "permalinks": {
-      "fr": "/products/manongaG1_gaiwan/",
-      "en": "/en/products/manongaG1_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG1",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G1-a.jpg","manon_gaiwan_G1-b.jpg","manon_gaiwan_G1-c.jpg"],
-    "price": "35",
-    "stock": "1",
-    "weight": "89",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -399,28 +1260,7 @@
     "shipping_point": "3"
   },
 {
-    "title": "manon-clouzeau - ",
-    "permalinks": {
-      "fr": "/products/manongaG3_gaiwan/",
-      "en": "/en/products/manongaG3_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG3",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G3-a.jpg","manon_gaiwan_G3-b.jpg","manon_gaiwan_G3-c.jpg"],
-    "price": "40",
-    "stock": "1",
-    "weight": "105",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeau - ",
+    "title": "welcomemanon-clouzeau - ",
     "permalinks": {
       "fr": "/products/manongaG4_gaiwan/",
       "en": "/en/products/manongaG4_gaiwan/"
@@ -430,75 +1270,12 @@
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
     "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
+    "tags": ["welcome","manon-clouzeau"],
     "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
     "photos": ["manon_gaiwan_G4-a.jpg","manon_gaiwan_G4-b.jpg","manon_gaiwan_G4-c.jpg"],
     "price": "50",
     "stock": "1",
     "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeauwelcome - ",
-    "permalinks": {
-      "fr": "/products/manongaG5_gaiwan/",
-      "en": "/en/products/manongaG5_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG5",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau","welcome"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed Gaiwan. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G5-a.jpg","manon_gaiwan_G5-b.jpg","manon_gaiwan_G5-c.jpg"],
-    "price": "50",
-    "stock": "1",
-    "weight": "135",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manongaG6_gaiwan/",
-      "en": "/en/products/manongaG6_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG6",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed Gaiwan. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G6-a.jpg","manon_gaiwan_G6-b.jpg","manon_gaiwan_G6-c.jpg"],
-    "price": "50",
-    "stock": "1",
-    "weight": "145",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manongaG7_gaiwan/",
-      "en": "/en/products/manongaG7_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG7",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed Gaiwan. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G7-a.jpg","manon_gaiwan_G7-b.jpg","manon_gaiwan_G7-c.jpg"],
-    "price": "45",
-    "stock": "1",
-    "weight": "130",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -533,8 +1310,8 @@
     "layout": "",
     "id": "manontasB10",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B10-a.jpg","manon_tasse_B10-b.jpg","manon_tasse_B10-c.jpg"],
@@ -554,8 +1331,8 @@
     "layout": "",
     "id": "manontasB16",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B16-a.jpg","manon_tasse_B16-b.jpg","manon_tasse_B16-c.jpg"],
@@ -575,8 +1352,8 @@
     "layout": "",
     "id": "manontasB17",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B17-a.jpg","manon_tasse_B17-b.jpg","manon_tasse_B17-c.jpg"],
@@ -596,8 +1373,8 @@
     "layout": "",
     "id": "manontasB18",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B18-a.jpg","manon_tasse_B18-b.jpg","manon_tasse_B18-c.jpg"],
@@ -617,8 +1394,8 @@
     "layout": "",
     "id": "manontasB19",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B19-a.jpg","manon_tasse_B19-b.jpg","manon_tasse_B19-c.jpg"],
@@ -638,8 +1415,8 @@
     "layout": "",
     "id": "manontasB1",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B1-a.jpg","manon_tasse_B1-b.jpg","manon_tasse_B1-c.jpg"],
@@ -659,8 +1436,8 @@
     "layout": "",
     "id": "manontasB20",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B20-a.jpg","manon_tasse_B20-b.jpg","manon_tasse_B20-c.jpg"],
@@ -680,8 +1457,8 @@
     "layout": "",
     "id": "manontasB22",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B22-a.jpg","manon_tasse_B22-b.jpg","manon_tasse_B22-c.jpg"],
@@ -701,8 +1478,8 @@
     "layout": "",
     "id": "manontasB23",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B23-a.jpg","manon_tasse_B23-b.jpg","manon_tasse_B23-c.jpg"],
@@ -716,35 +1493,14 @@
 {
     "title": "manon-clouzeau - [object Object]",
     "permalinks": {
-      "fr": "/products/manontasB27_chabei/",
-      "en": "/en/products/manontasB27_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB27",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B27-a.jpg","manon_tasse_B27-b.jpg","manon_tasse_B27-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "31",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
       "fr": "/products/manontasB29_chabei/",
       "en": "/en/products/manontasB29_chabei/"
     },
     "layout": "",
     "id": "manontasB29",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B29-a.jpg","manon_tasse_B29-b.jpg","manon_tasse_B29-c.jpg"],
@@ -758,56 +1514,14 @@
 {
     "title": "manon-clouzeau - [object Object]",
     "permalinks": {
-      "fr": "/products/manontasB2_chabei/",
-      "en": "/en/products/manontasB2_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB2",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B2-a.jpg","manon_tasse_B2-b.jpg","manon_tasse_B2-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "38",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manontasB30_chabei/",
-      "en": "/en/products/manontasB30_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB30",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B30-a.jpg","manon_tasse_B30-b.jpg","manon_tasse_B30-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "26",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
       "fr": "/products/manontasB32_chabei/",
       "en": "/en/products/manontasB32_chabei/"
     },
     "layout": "",
     "id": "manontasB32",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B32-a.jpg","manon_tasse_B32-b.jpg","manon_tasse_B32-c.jpg"],
@@ -827,8 +1541,8 @@
     "layout": "",
     "id": "manontasB3",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B3-a.jpg","manon_tasse_B3-b.jpg","manon_tasse_B3-c.jpg"],
@@ -848,8 +1562,8 @@
     "layout": "",
     "id": "manontasB4",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau","welcome"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B4-a.jpg","manon_tasse_B4-b.jpg","manon_tasse_B4-c.jpg"],
@@ -863,35 +1577,14 @@
 {
     "title": "manon-clouzeau - [object Object]",
     "permalinks": {
-      "fr": "/products/manontasB5_chabei/",
-      "en": "/en/products/manontasB5_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB5",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B5-a.jpg","manon_tasse_B5-b.jpg","manon_tasse_B5-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "39",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
       "fr": "/products/manontasB6_chabei/",
       "en": "/en/products/manontasB6_chabei/"
     },
     "layout": "",
     "id": "manontasB6",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B6-a.jpg","manon_tasse_B6-b.jpg","manon_tasse_B6-c.jpg"],
@@ -911,8 +1604,8 @@
     "layout": "",
     "id": "manontasB7",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B7-a.jpg","manon_tasse_B7-b.jpg","manon_tasse_B7-c.jpg"],
@@ -932,35 +1625,14 @@
     "layout": "",
     "id": "manontasB8",
     "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B8-a.jpg","manon_tasse_B8-b.jpg","manon_tasse_B8-c.jpg"],
     "price": "15",
     "stock": "1",
     "weight": "35",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "manon-clouzeau - [object Object]",
-    "permalinks": {
-      "fr": "/products/manontasB9_chabei/",
-      "en": "/en/products/manontasB9_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB9",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"bol à thé réalisé par Manon Clouzeau","en":"tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B9-a.jpg","manon_tasse_B9-b.jpg","manon_tasse_B9-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "43",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -989,12 +1661,12 @@
 {
     "title": "mademoiselles-ceramique - ",
     "permalinks": {
-      "fr": "/products/melles-ceramiquetheiere1_chahu-theiere/",
-      "en": "/en/products/melles-ceramiquetheiere1_chahu-theiere/"
+      "fr": "/products/melles-ceramiquetheiere1_chahu-petite-theiere-en-terre-brute/",
+      "en": "/en/products/melles-ceramiquetheiere1_chahu-petite-theiere-en-terre-brute/"
     },
     "layout": "",
     "id": "melles-ceramiquetheiere1",
-    "name": {"fr":"茶壺 CháHú - théière","en":"茶壺 CháHú - Teapot in Raw Clay"},
+    "name": {"fr":"茶壺 CháHú - petite théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
     "mini_descr": {"fr":"Théière réalisée par Mademoiselles Céramique","en":"Teapot made by Mademoiselles Céramique"},
     "meta_descr": {"fr":"Théière réalisée par Mademoiselles Céramique","en":"Teapot made by Mademoiselles Céramique"},
     "tags": ["mademoiselles-ceramique"],
@@ -1010,14 +1682,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinebol11_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol11_chabei-bol-a-the/"
+      "fr": "/products/perrinebol11_chabei-petit-bol-a-the/",
+      "en": "/en/products/perrinebol11_chabei-petit-bol-a-the/"
     },
     "layout": "",
     "id": "perrinebol11",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
+    "name": {"fr":"茶杯 - CháBēi (petit bol à thé)","en":"茶杯 - CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["perrine_bol_11-a.jpg","perrine_bol_11-b.jpg","perrine_bol_11-c.jpg"],
@@ -1029,38 +1701,17 @@
     "shipping_point": "2"
   },
 {
-    "title": "perrine-pottiez - [object Object]",
+    "title": "perrine-pottiezwelcome - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinebol23_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol23_chabei-bol-a-the/"
-    },
-    "layout": "",
-    "id": "perrinebol23",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["perrine_bol_23-a.jpg","perrine_bol_23-b.jpg","perrine_bol_23-c.jpg"],
-    "price": "30",
-    "stock": "1",
-    "weight": "28",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
-      "fr": "/products/perrinebol24_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol24_chabei-bol-a-the/"
+      "fr": "/products/perrinebol24_chabei-petit-bol-a-the/",
+      "en": "/en/products/perrinebol24_chabei-petit-bol-a-the/"
     },
     "layout": "",
     "id": "perrinebol24",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
+    "name": {"fr":"茶杯 - CháBēi (petit bol à thé)","en":"茶杯 - CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
+    "tags": ["perrine-pottiez","welcome"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["perrine_bol_24-a.jpg","perrine_bol_24-b.jpg","perrine_bol_24-c.jpg"],
     "price": "20",
@@ -1073,14 +1724,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinebol25_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol25_chabei-bol-a-the/"
+      "fr": "/products/perrinebol25_chabei-petit-bol-a-the/",
+      "en": "/en/products/perrinebol25_chabei-petit-bol-a-the/"
     },
     "layout": "",
     "id": "perrinebol25",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
+    "name": {"fr":"茶杯 - CháBēi (petit bol à thé)","en":"茶杯 - CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.\n"},
     "photos": ["perrine_bol_25-a.jpg","perrine_bol_25-b.jpg","perrine_bol_25-c.jpg"],
@@ -1094,60 +1745,18 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinebol26_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol26_chabei-bol-a-the/"
+      "fr": "/products/perrinebol26_chabei-petit-bol-a-the/",
+      "en": "/en/products/perrinebol26_chabei-petit-bol-a-the/"
     },
     "layout": "",
     "id": "perrinebol26",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
+    "name": {"fr":"茶杯 - CháBēi (petit bol à thé)","en":"茶杯 - CháBēi (small tea bowl)"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Perrine Pottiez","en":"small tea bowl made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique. Bol à forme allongée en technique de pinçage.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece. Elongated bowl crafted using pinching technique.\n"},
     "photos": ["perrine_bol_26-a.jpg","perrine_bol_26-b.jpg","perrine_bol_26-c.jpg","perrine_bol_26-d.jpg"],
     "price": "25",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "perrine-pottiezwelcome - ",
-    "permalinks": {
-      "fr": "/products/perrinebol2_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol2_chabei-bol-a-the/"
-    },
-    "layout": "",
-    "id": "perrinebol2",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez","welcome"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["perrine_bol_2-a.jpg","perrine_bol_2-b.jpg","perrine_bol_2-c.jpg"],
-    "price": "20",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
-      "fr": "/products/perrinebol39_chabei-bol-a-the/",
-      "en": "/en/products/perrinebol39_chabei-bol-a-the/"
-    },
-    "layout": "",
-    "id": "perrinebol39",
-    "name": {"fr":"茶杯 - CháBēi - bol à thé","en":"茶杯 - CháBēi (tea bowl)"},
-    "mini_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "meta_descr": {"fr":"bol réalisé par Perrine Pottiez","en":"tea bowl made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique. Bol à forme allongée en technique de pinçage.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece. Elongated bowl crafted using pinching technique.\n"},
-    "photos": ["perrine_bol_39-a.jpg","perrine_bol_39-b.jpg","perrine_bol_39-c.jpg","perrine_bol_39-d.jpg"],
-    "price": "40",
     "stock": "1",
     "weight": "125",
     
@@ -1241,27 +1850,6 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinecoup36_xiangpan-coupelle/",
-      "en": "/en/products/perrinecoup36_xiangpan-coupelle/"
-    },
-    "layout": "",
-    "id": "perrinecoup36",
-    "name": {"fr":"香盤 - XiāngPán - coupelle","en":"香盤 - XiāngPán - dish"},
-    "mini_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
-    "meta_descr": {"fr":"coupelle réalisée par Perrine Pottiez","en":"dish made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"Coupelle en céramique, 1250°C. Pièce unique.\n","en":"Ceramic dish, fired at 1250°C. Unique piece.\n"},
-    "photos": ["perrine_coupelle_36-a.jpg","perrine_coupelle_36-b.jpg","perrine_coupelle_36-c.jpg"],
-    "price": "35",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "5"
-  },
-{
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
       "fr": "/products/perrinecoup37_xiangpan-coupelle/",
       "en": "/en/products/perrinecoup37_xiangpan-coupelle/"
     },
@@ -1283,14 +1871,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe10_xiangtuo/",
-      "en": "/en/products/perrinepe10_xiangtuo/"
+      "fr": "/products/perrinepe10_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe10_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe10",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_10-a.jpg","perrine_porte-encens_10-b.jpg"],
@@ -1304,14 +1892,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe12_xiangtuo/",
-      "en": "/en/products/perrinepe12_xiangtuo/"
+      "fr": "/products/perrinepe12_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe12_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe12",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_12-a.jpg","perrine_porte-encens_12-b.jpg"],
@@ -1325,14 +1913,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe13_xiangtuo/",
-      "en": "/en/products/perrinepe13_xiangtuo/"
+      "fr": "/products/perrinepe13_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe13_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe13",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_13-a.jpg","perrine_porte-encens_13-b.jpg"],
@@ -1346,14 +1934,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe14_xiangtuo/",
-      "en": "/en/products/perrinepe14_xiangtuo/"
+      "fr": "/products/perrinepe14_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe14_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe14",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_14-a.jpg","perrine_porte-encens_14-b.jpg"],
@@ -1367,14 +1955,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe15_xiangtuo/",
-      "en": "/en/products/perrinepe15_xiangtuo/"
+      "fr": "/products/perrinepe15_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe15_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe15",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_15-a.jpg","perrine_porte-encens_15-b.jpg"],
@@ -1388,14 +1976,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe16_xiangtuo/",
-      "en": "/en/products/perrinepe16_xiangtuo/"
+      "fr": "/products/perrinepe16_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe16_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe16",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_16-a.jpg","perrine_porte-encens_16-b.jpg"],
@@ -1409,14 +1997,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe17_xiangtuo/",
-      "en": "/en/products/perrinepe17_xiangtuo/"
+      "fr": "/products/perrinepe17_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe17_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe17",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_17-a.jpg","perrine_porte-encens_17-b.jpg"],
@@ -1430,14 +2018,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe18_xiangtuo/",
-      "en": "/en/products/perrinepe18_xiangtuo/"
+      "fr": "/products/perrinepe18_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe18_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe18",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_18-a.jpg","perrine_porte-encens_18-b.jpg"],
@@ -1451,14 +2039,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe19_xiangtuo/",
-      "en": "/en/products/perrinepe19_xiangtuo/"
+      "fr": "/products/perrinepe19_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe19_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe19",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_19-a.jpg","perrine_porte-encens_19-b.jpg"],
@@ -1472,14 +2060,14 @@
 {
     "title": "perrine-pottiez - ",
     "permalinks": {
-      "fr": "/products/perrinepe1_xiangtuo/",
-      "en": "/en/products/perrinepe1_xiangtuo/"
+      "fr": "/products/perrinepe1_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe1_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe1",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_1-a.jpg","perrine_porte-encens_1-b.jpg"],
@@ -1493,14 +2081,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe20_xiangtuo/",
-      "en": "/en/products/perrinepe20_xiangtuo/"
+      "fr": "/products/perrinepe20_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe20_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe20",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_20-a.jpg","perrine_porte-encens_20-b.jpg"],
@@ -1514,14 +2102,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe21_xiangtuo/",
-      "en": "/en/products/perrinepe21_xiangtuo/"
+      "fr": "/products/perrinepe21_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe21_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe21",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_21-a.jpg","perrine_porte-encens_21-b.jpg"],
@@ -1535,14 +2123,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe22_xiangtuo/",
-      "en": "/en/products/perrinepe22_xiangtuo/"
+      "fr": "/products/perrinepe22_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe22_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe22",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_22-a.jpg","perrine_porte-encens_22-b.jpg"],
@@ -1556,14 +2144,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe3_xiangtuo/",
-      "en": "/en/products/perrinepe3_xiangtuo/"
+      "fr": "/products/perrinepe3_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe3_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe3",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_3-a.jpg","perrine_porte-encens_3-b.jpg"],
@@ -1577,14 +2165,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe4_xiangtuo/",
-      "en": "/en/products/perrinepe4_xiangtuo/"
+      "fr": "/products/perrinepe4_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe4_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe4",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_4-a.jpg","perrine_porte-encens_4-b.jpg"],
@@ -1598,14 +2186,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe5_xiangtuo/",
-      "en": "/en/products/perrinepe5_xiangtuo/"
+      "fr": "/products/perrinepe5_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe5_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe5",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_5-a.jpg","perrine_porte-encens_5-b.jpg"],
@@ -1619,14 +2207,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe6_xiangtuo/",
-      "en": "/en/products/perrinepe6_xiangtuo/"
+      "fr": "/products/perrinepe6_xiangtuo-porte-encens/",
+      "en": "/en/products/perrinepe6_xiangtuo-porte-encens/"
     },
     "layout": "",
     "id": "perrinepe6",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
+    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
+    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
+    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
     "photos": ["perrine_porte-encens_6-a.jpg","perrine_porte-encens_6-b.jpg"],
@@ -1638,58 +2226,16 @@
     "shipping_point": "2"
   },
 {
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
-      "fr": "/products/perrinepe8_xiangtuo/",
-      "en": "/en/products/perrinepe8_xiangtuo/"
-    },
-    "layout": "",
-    "id": "perrinepe8",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
-    "photos": ["perrine_porte-encens_8-a.jpg","perrine_porte-encens_8-b.jpg"],
-    "price": "20",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
-      "fr": "/products/perrinepe9_xiangtuo/",
-      "en": "/en/products/perrinepe9_xiangtuo/"
-    },
-    "layout": "",
-    "id": "perrinepe9",
-    "name": {"fr":"香托 - XiāngTuō","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade","en":"waterfall incense holder made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
-    "photos": ["perrine_porte-encens_9-a.jpg","perrine_porte-encens_9-b.jpg"],
-    "price": "20",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
     "title": "perrine-pottiez - ",
     "permalinks": {
-      "fr": "/products/perrinepot30_chacang-pot-a-the/",
-      "en": "/en/products/perrinepot30_chacang-pot-a-the/"
+      "fr": "/products/perrinepot30_chacang-petit-pot-a-the/",
+      "en": "/en/products/perrinepot30_chacang-petit-pot-a-the/"
     },
     "layout": "",
     "id": "perrinepot30",
-    "name": {"fr":"茶倉 - CháCāng - pot à thé","en":"Tea Storage - 茶倉 - CháCāng (tea jar)"},
-    "mini_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
-    "meta_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
+    "name": {"fr":"茶倉 - CháCāng (petit pot à thé)","en":"Tea Storage - 茶倉 - CháCāng (small tea jar)"},
+    "mini_descr": {"fr":"mini jarre à thé réalisé par Perrine Pottiez","en":"small tea jar made by Perrine Pottiez"},
+    "meta_descr": {"fr":"mini jarre à thé réalisé par Perrine Pottiez","en":"small tea jar made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶倉 - CháCāng en céramique, 1250°C. Pièce unique. Une jarre minimaliste idéale pour le rite du GōngFūChá - 工夫茶.\n","en":"茶倉 - CháCāng - Tea Storage made of ceramic, fired at 1250°C. Unique piece. A minimalist jar perfect for the GōngFūChá - 工夫茶.\n"},
     "photos": ["perrine_cha-cang_30-a.jpg","perrine_cha-cang_30-b.jpg","perrine_cha-cang_30-c.jpg"],
@@ -1703,14 +2249,14 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepot31_chacang-pot-a-the/",
-      "en": "/en/products/perrinepot31_chacang-pot-a-the/"
+      "fr": "/products/perrinepot31_chacang-petit-pot-a-the/",
+      "en": "/en/products/perrinepot31_chacang-petit-pot-a-the/"
     },
     "layout": "",
     "id": "perrinepot31",
-    "name": {"fr":"茶倉 - CháCāng - pot à thé","en":"Tea Storage - 茶倉 - CháCāng (tea jar)"},
-    "mini_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
-    "meta_descr": {"fr":"jarre réalisée par Perrine Pottiez","en":"tea jar made by Perrine Pottiez"},
+    "name": {"fr":"茶倉 - CháCāng (petit pot à thé)","en":"Tea Storage - 茶倉 - CháCāng (small tea jar)"},
+    "mini_descr": {"fr":"mini jarre à thé réalisé par Perrine Pottiez","en":"small tea jar made by Perrine Pottiez"},
+    "meta_descr": {"fr":"mini jarre à thé réalisé par Perrine Pottiez","en":"small tea jar made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶倉 - CháCāng en céramique, 1250°C. Pièce unique. Une jarre minimaliste idéale pour le rite du GōngFūChá - 工夫茶\n","en":"茶倉 - CháCāng - Tea Storage made of ceramic, fired at 1250°C. Unique piece. A minimalist jar perfect for the GōngFūChá - 工夫茶\n"},
     "photos": ["perrine_cha-cang_31-a.jpg","perrine_cha-cang_31-b.jpg","perrine_cha-cang_31-c.jpg"],
@@ -1729,9 +2275,9 @@
     },
     "layout": "",
     "id": "perrinevase27",
-    "name": {"fr":"花器 - HuāQì - petit vase","en":"Vase - 花器 - HuāQì (small vase)"},
-    "mini_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
-    "meta_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
+    "name": {"fr":"花器 - HuāQì (petit vase)","en":"Vase - 花器 - HuāQì (small vase)"},
+    "mini_descr": {"fr":"vase sobre à fleur réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
+    "meta_descr": {"fr":"vase sobre à fleur réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"花器 - HuāQì en céramique, 1250°C. Pièce unique. Petit vase à fleur. Idéal pour le rite du GōngFūChá - 工夫茶\n","en":"花器 - HuāQì - Vase made of ceramic, fired at 1250°C. Unique piece. Small flower vase. Perfect for the GōngFūChá - 工夫茶\n"},
     "photos": ["perrine_vase_27-a.jpg","perrine_vase_27-b.jpg","perrine_vase_27-c.jpg"],
@@ -1750,9 +2296,9 @@
     },
     "layout": "",
     "id": "perrinevase28",
-    "name": {"fr":"花器 - HuāQì - petit vase","en":"Vase - 花器 - HuāQì (small vase)"},
-    "mini_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
-    "meta_descr": {"fr":"vase sobre réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
+    "name": {"fr":"花器 - HuāQì (petit vase)","en":"Vase - 花器 - HuāQì (small vase)"},
+    "mini_descr": {"fr":"vase sobre à fleur réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
+    "meta_descr": {"fr":"vase sobre à fleur réalisé par Perrine Pottiez","en":"minimalist flower vase made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"花器 - HuāQì en céramique, 1250°C. Pièce unique. Petit vase à fleur. Idéal pour le rite du GōngFūChá - 工夫茶\n","en":"花器 - HuāQì - Vase made of ceramic, fired at 1250°C. Unique piece. Small flower vase. Perfect for the GōngFūChá - 工夫茶\n"},
     "photos": ["perrine_vase_28-a.jpg","perrine_vase_28-b.jpg","perrine_vase_28-c.jpg"],
@@ -1771,9 +2317,9 @@
     },
     "layout": "",
     "id": "perrinevers40",
-    "name": {"fr":"茶海 - CháHǎi - verseuse","en":"Pitcher - 茶海 - CháHǎi (tea pitcher)"},
-    "mini_descr": {"fr":"verseuse réalisée par Perrine Pottiez","en":"tea pitcher made by Perrine Pottiez"},
-    "meta_descr": {"fr":"verseuse réalisée par Perrine Pottiez","en":"tea pitcher made by Perrine Pottiez"},
+    "name": {"fr":"茶海 - CháHǎi (verseuse)","en":"Pitcher - 茶海 - CháHǎi (tea pitcher)"},
+    "mini_descr": {"fr":"verseuse à thé réalisé par Perrine Pottiez","en":"tea pitcher made by Perrine Pottiez"},
+    "meta_descr": {"fr":"verseuse à thé réalisé par Perrine Pottiez","en":"tea pitcher made by Perrine Pottiez"},
     "tags": ["perrine-pottiez"],
     "description": {"fr":"茶海 - CháHǎi en céramique, 1250°C. Pièce unique. Verseuse à thé\n","en":"茶海 - CháHǎi - Tea pitcher made of ceramic, fired at 1250°C. Unique piece\n"},
     "photos": ["perrine_cha-hai_40-a.jpg","perrine_cha-hai_40-b.jpg","perrine_cha-hai_40-c.jpg","perrine_cha-hai_40-d.jpg"],
@@ -1827,20 +2373,188 @@
     "shipping_point": "1"
   },
 {
+    "title": "shuifang - ",
+    "permalinks": {
+      "fr": "/products/shuiT35_shuifang/",
+      "en": "/en/products/shuiT35_shuifang/"
+    },
+    "layout": "",
+    "id": "shuiT35",
+    "name": {"fr":"水方 ShuǐFāng","en":"水方 ShuǐFāng"},
+    "mini_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "meta_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "tags": ["shuifang"],
+    "description": {"fr":"Ce bol en argile, façonné à la main par un céramiste taïwanais pratiquant de 工夫茶 - GōngFūChá, incarne l’harmonie entre tradition et savoir-faire. Les textures sculptées et les reflets dorés, issus de la cuisson au bois,<!--more--> lui confèrent une profondeur visuelle unique. Une pièce authentique, idéale pour sublimer vos moments de thé.\n","en":"This clay bowl, handcrafted by a Taiwanese ceramicist and Gong Fu Cha (工夫茶 - GōngFūChá) practitioner, embodies the harmony between tradition and craftsmanship. The sculpted textures and golden hues, born from wood firing,<!--more--> give it a unique visual depth. An authentic piece, perfect to elevate your tea moments.\n"},
+    "photos": ["shuifang-argile-bois_T35-a.jpg","shuifang-argile-bois_T35-b.jpg","shuifang-argile-bois_T35-c.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "295",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
+    "title": "shuifang - ",
+    "permalinks": {
+      "fr": "/products/shuiT36_shuifang/",
+      "en": "/en/products/shuiT36_shuifang/"
+    },
+    "layout": "",
+    "id": "shuiT36",
+    "name": {"fr":"水方 ShuǐFāng","en":"水方 ShuǐFāng"},
+    "mini_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "meta_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "tags": ["shuifang"],
+    "description": {"fr":"Ce bol en porcelaine, façonné à la main et cuit au bois, allie simplicité et sophistication. Les nuances naturelles et les textures uniques créées par la flamme témoignent d’un savoir-faire artisanal authentique.<!--more--> L’intérieur révèle une subtile cristallisation, ajoutant une profondeur visuelle captivante. Idéal pour accompagner vos moments de thé avec élégance et caractère.\n","en":"This handcrafted porcelain bowl, wood-fired, combines simplicity and sophistication. The natural shades and unique textures created by the flame reflect authentic artisanal craftsmanship.<!--more--> Inside, a delicate crystallization adds captivating visual depth. Perfect to accompany your tea moments with elegance and character.\n"},
+    "photos": ["shuifang-porcelaine-bois_T36-a.jpg","shuifang-porcelaine-bois_T36-b.jpg","shuifang-porcelaine-bois_T36-c.jpg","shuifang-porcelaine-bois_T36-d.jpg"],
+    "price": "250",
+    "stock": "1",
+    "weight": "285",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
+    "title": "shuifang - ",
+    "permalinks": {
+      "fr": "/products/shuiT37_shuifang/",
+      "en": "/en/products/shuiT37_shuifang/"
+    },
+    "layout": "",
+    "id": "shuiT37",
+    "name": {"fr":"水方 ShuǐFāng","en":"水方 ShuǐFāng"},
+    "mini_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "meta_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "tags": ["shuifang"],
+    "description": {"fr":"Façonné à la main et cuit au bois, ce bol en argile révèle une simplicité brute sublimée par des nuances riches et des textures naturelles. Chaque détail, des lignes subtiles aux traces laissées par la flamme,<!--more--> raconte l’histoire d’un artisanat authentique. Ce bol unique accompagne vos moments de thé en toute élégance, avec la chaleur et la profondeur du matériau vivant.\n","en":"Handcrafted and wood-fired, this clay bowl showcases raw simplicity enhanced by rich tones and natural textures. Every detail, from its subtle lines to the marks left by the flame,<!--more--> tells the story of authentic craftsmanship. This unique bowl accompanies your tea moments with elegance, warmth, and the depth of a living material.\n"},
+    "photos": ["shuifang-argile-bois_T37-a.jpg","shuifang-argile-bois_T37-b.jpg","shuifang-argile-bois_T37-c.jpg","shuifang-argile-bois_T37-d.jpg"],
+    "price": "150",
+    "stock": "1",
+    "weight": "375",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
+    "title": "shuifang - ",
+    "permalinks": {
+      "fr": "/products/shuiT38_shuifang/",
+      "en": "/en/products/shuiT38_shuifang/"
+    },
+    "layout": "",
+    "id": "shuiT38",
+    "name": {"fr":"水方 ShuǐFāng","en":"水方 ShuǐFāng"},
+    "mini_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "meta_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "tags": ["shuifang"],
+    "description": {"fr":"Ce bol en argile, façonné à la main et cuit au bois, se distingue par ses teintes chaudes et ses reflets métalliques subtils. Les nuances et textures, uniques à chaque pièce, témoignent de l’alchimie entre la terre et le feu.<!--more--> Un objet minimaliste, à la fois fonctionnel et empreint d’une poésie visuelle, parfait pour enrichir vos moments de thé.\n","en":"This handcrafted clay bowl, wood-fired, stands out with its warm tones and subtle metallic reflections. The unique shades and textures of each piece reflect the alchemy between earth and fire.<!--more--> A minimalist object, both functional and visually poetic, perfect for enhancing your tea moments.\n"},
+    "photos": ["shuifang-argile-bois_T38-a.jpg","shuifang-argile-bois_T38-b.jpg","shuifang-argile-bois_T38-d.jpg"],
+    "price": "150",
+    "stock": "1",
+    "weight": "195",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
+    "title": "shuifang - ",
+    "permalinks": {
+      "fr": "/products/shuiT39_shuifang/",
+      "en": "/en/products/shuiT39_shuifang/"
+    },
+    "layout": "",
+    "id": "shuiT39",
+    "name": {"fr":"水方 ShuǐFāng","en":"水方 ShuǐFāng"},
+    "mini_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "meta_descr": {"fr":"ShuǐFāng fait à la main à Taïwan","en":"ShuǐFāng handmade in Taiwan"},
+    "tags": ["shuifang"],
+    "description": {"fr":"Ce bol en argile, façonné à la main et cuit au bois, charme par sa forme organique et ses textures naturelles. Ses nuances chaleureuses et ses détails uniques racontent l’histoire du feu et de la terre qui l’ont façonné.<!--more--> Une pièce pleine de caractère, idéale pour ajouter une touche d’authenticité à vos moments de thé.\n","en":"This handcrafted, wood-fired clay bowl captivates with its organic shape and natural textures. Its warm tones and unique details tell the story of the fire and earth that shaped it.<!--more--> A piece full of character, perfect for bringing authenticity to your tea moments.\n"},
+    "photos": ["shuifang-argile-bois_T39-a.jpg","shuifang-argile-bois_T39-b.jpg","shuifang-argile-bois_T39-c.jpg","shuifang-argile-bois_T39-d.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "275",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
     "title": "chahu - ",
     "permalinks": {
-      "fr": "/products/th9_chahu-sanzuruding/",
-      "en": "/en/products/th9_chahu-sanzuruding/"
+      "fr": "/products/th16_chahu-theiere/",
+      "en": "/en/products/th16_chahu-theiere/"
+    },
+    "layout": "",
+    "id": "th16",
+    "name": {"fr":"茶壺 CháHú (théière)","en":"茶壺 CháHú (teapot)"},
+    "mini_descr": {"fr":"théière au feu du boi, faite à la main de Taïwan","en":"handcrafted wood-fired teapot from Taiwan"},
+    "meta_descr": {"fr":"théière au feu du boi, faite à la main de Taïwan","en":"handcrafted wood-fired teapot from Taiwan"},
+    "tags": ["chahu"],
+    "description": {"fr":"Cette théière en cuisson au bois, réalisée par un céramiste taïwanais, a une forme arrondie qui inspire chaleur et convivialité. Grâce à sa forme,<!--more--> elle révèle pleinement les arômes du thé tout en apportant une touche unique avec les traces de feu, les nuances naturelles de l’émail et les cristaux de cendres. Façonnée par la terre, le feu et le bois, elle devient un compagnon de thé vivant, simple et unique.\n","en":"This wood-fired teapot, crafted by a Taiwanese ceramic artist, has a rounded shape that feels warm and inviting. Thanks to its design,<!--more--> it fully reveals the tea’s aromas while showcasing its uniqueness through fire marks, natural glaze, and ash crystals. Shaped by earth, fire, and wood, it’s a simple yet one-of-a-kind tea companion.\n"},
+    "photos": ["theiere-porcelaine-bois_T16-a.jpg","theiere-porcelaine-bois_T16-b.jpg","theiere-porcelaine-bois_T16-c.jpg","theiere-porcelaine-bois_T16-d.jpg"],
+    "price": "250",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "title": "chahu - ",
+    "permalinks": {
+      "fr": "/products/th18_chahu-theiere/",
+      "en": "/en/products/th18_chahu-theiere/"
+    },
+    "layout": "",
+    "id": "th18",
+    "name": {"fr":"茶壺 CháHú (théière)","en":"茶壺 CháHú (teapot)"},
+    "mini_descr": {"fr":"théière en porcelaine épurée (semi-main) de Taïwan","en":"porcelain teapot (semi-handmade) from Taiwan"},
+    "meta_descr": {"fr":"théière en porcelaine épurée (semi-main) de Taïwan","en":"porcelain teapot (semi-handmade) from Taiwan"},
+    "tags": ["chahu"],
+    "description": {"fr":"Cette petite théière en porcelaine épurée, façonnée à Taïwan, séduit par sa simplicité et ses lignes arrondies. Sa surface douce et son toucher agréable<!--more--> en font le choix idéal pour des thés délicats comme le thé vert ou le thé blanc. Pratique et pleine de charme, elle ajoute une touche de sérénité à chaque moment de thé.\n","en":"This little refined porcelain teapot, crafted in Taiwan, stands out with its simple and rounded design. Its smooth surface and soft touch<!--more--> make it perfect for delicate teas like green or white tea. Both practical and charming, it brings a sense of calm to every tea moment.\n"},
+    "photos": ["theiere-porcelaine_T18-a.jpg","theiere-porcelaine_T18-b.jpg","theiere-porcelaine_T18-c.jpg"],
+    "price": "70",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "chahu - ",
+    "permalinks": {
+      "fr": "/products/th25_chahu-theiere/",
+      "en": "/en/products/th25_chahu-theiere/"
+    },
+    "layout": "",
+    "id": "th25",
+    "name": {"fr":"茶壺 CháHú (théière)","en":"茶壺 CháHú (teapot)"},
+    "mini_descr": {"fr":"grande théière artisanale (semi-main) de Taïwan","en":"big semi-handcrafted teapot from Taiwan"},
+    "meta_descr": {"fr":"grande théière artisanale (semi-main) de Taïwan","en":"big semi-handcrafted teapot from Taiwan"},
+    "tags": ["chahu"],
+    "description": {"fr":"Ce 瓜棱壺 - GuāLéngHú, façonné à la main à Taïwan en argile pourpre, reflète l’élégance de la nature et l’artisanat traditionnel. Avec sa capacité de 550 ml,<!--more--> il est idéal pour partager un thé dans une ambiance conviviale. Sa forme en courge et ses lignes soignées en font un objet unique, à la fois pratique et plein de caractère.\n","en":"This 瓜棱壺 - Guāsrc/products/th25_theiere-argile.mdLéngHú, handcrafted in Taiwan from purple clay, reflects the elegance of nature and traditional craftsmanship. With its 550 ml capacity,<!--more--> it’s perfect for sharing tea in a warm and friendly atmosphere. Its gourd-like shape and refined lines make it a unique piece, both functional and full of character.\n"},
+    "photos": ["theiere-argile-main_T25-a.jpg","theiere-argile-main_T25-b.jpg","theiere-argile-main_T25-c.jpg","theiere-argile-main_T25-d.jpg"],
+    "price": "200",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "10"
+  },
+{
+    "title": "chahu - ",
+    "permalinks": {
+      "fr": "/products/th9_chahu-theiere/",
+      "en": "/en/products/th9_chahu-theiere/"
     },
     "layout": "",
     "id": "th9",
-    "name": {"fr":"茶壺  三足乳鼎 CháHú SānZúRǔDǐng","en":"茶壺  三足乳鼎 CháHú SānZúRǔDǐng"},
+    "name": {"fr":"茶壺 CháHú (théière)","en":"茶壺 CháHú (teapot)"},
     "mini_descr": {"fr":"théière artisanale (semi-main) de Taïwan","en":"semi-handcrafted teapot from Taiwan"},
     "meta_descr": {"fr":"théière artisanale (semi-main) de Taïwan","en":"semi-handcrafted teapot from Taiwan"},
     "tags": ["chahu"],
-    "description": {"fr":"Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est-à-dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature.\n","en":"This teapot in the shape of 三足乳鼎 - SānZúRǔDǐng is made in 臺灣 - Táiwān using 半手工 - BànShǒuGōng, a semi-handcrafted technique involving molds. It bears an inscription tied to Buddhist culture: 觀自在 - GuānZìZài, which invites harmony with nature.\n"},
-    "photos": ["theiere_9-a.jpg","theiere_9-b.jpg","theiere_9-c.jpg","theiere_9-d.jpg"],
-    "price": "80",
+    "description": {"fr":"Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est-à-dire semi-manuelle, à l'aide de moules.<!--more--> Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature.\n","en":"This teapot in the shape of 三足乳鼎 - SānZúRǔDǐng is made in 臺灣 - Táiwān using 半手工 - BànShǒuGōng, a semi-handcrafted technique involving molds.<!--more--> It bears an inscription tied to Buddhist culture: 觀自在 - GuānZìZài, which invites harmony with nature.\n"},
+    "photos": ["theiere-argile-main_T19-a.jpg","theiere-argile-main_T19-b.jpg","theiere-argile-main_T19-c.jpg","theiere-argile-main_T19-d.jpg"],
+    "price": "180",
     "stock": "1",
     "weight": "235",
     
@@ -1850,16 +2564,16 @@
 {
     "title": "cha - ",
     "permalinks": {
-      "fr": "/products/wuA1_lishan-gaoshancha/",
-      "en": "/en/products/wuA1_lishan-gaoshancha/"
+      "fr": "/products/wuA1_lishan-gaoshancha-25g/",
+      "en": "/en/products/wuA1_lishan-gaoshancha-25g/"
     },
     "layout": "",
     "id": "wuA1",
-    "name": {"fr":"梨山高山茶 - LíShān GāoShānChá","en":"梨山高山茶 - LíShān GāoShānChá"},
-    "mini_descr": {"fr":"wulong haute montagne de Taïwan - 25g","en":"high mountain oolong tea from Taiwan - 25g"},
-    "meta_descr": {"fr":"wulong haute montagne de Taïwan - 25g","en":"high mountain oolong tea from Taiwan - 25g"},
+    "name": {"fr":"梨山高山茶 - LíShān GāoShānChá - 25g","en":"梨山高山茶 - LíShān GāoShānChá - 25g"},
+    "mini_descr": {"fr":"thé wulong traditionnel de haute montagne de Taïwan","en":"traditional high mountain oolong tea from Taiwan"},
+    "meta_descr": {"fr":"thé wulong traditionnel de haute montagne de Taïwan","en":"traditional high mountain oolong tea from Taiwan"},
     "tags": ["cha"],
-    "description": {"fr":"Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblématiques de 臺灣 - Táiwān. 梨山 - LíShān est situé à 臺中市 - TáiZhōng à une altitude moyenne de 2000 mètres.<!--more--> Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit, le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante, la durée d'ensoleillement est courte, ce qui réduit la teneur en catéchines et donc l'astringence.\n","en":"This 高山茶 - GāoShānChá (high mountain tea) is one of the iconic 烏龍 - WūLóng teas of 臺灣 - Táiwān. 梨山 - LíShān is located in 臺中市 - TáiZhōng at an average altitude of 2000 meters.<!--more--> There are only two harvests per year. Due to the significant temperature difference between day and night, the tea grows slowly, resulting in thicker leaves. In the mountains with persistent clouds and mist, sunlight duration is short, reducing catechin content and thus astringency.\n"},
+    "description": {"fr":"Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblématiques de 臺灣 - Táiwān. 梨山 - LíShān  est situé à 臺中市 - TáiZhōng à une altitude moyenne de 2000 mètres. Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit,  le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante,  la durée d'ensoleillement est courte, ce qui réduit la teneur en catéchines et donc l'astringence.\n","en":"This 高山茶 - GāoShānChá (high mountain tea) is one of the iconic 烏龍 - WūLóng teas of 臺灣 - Táiwān. 梨山 - LíShān  is located in 臺中市 - TáiZhōng at an average altitude of 2000 meters. <!--more--> There are only two harvests per year. Due to the significant temperature difference between day and night,  the tea grows slowly, resulting in thicker leaves. In the mountains with persistent clouds and mist,  sunlight duration is short, reducing catechin content and thus astringency.\n"},
     "photos": ["LiShan-GaoShan_1-a.jpg","LiShan-GaoShan_1-b.jpg"],
     "price": "15",
     "stock": "2",
@@ -1871,14 +2585,14 @@
 {
     "title": "chawelcome - ",
     "permalinks": {
-      "fr": "/products/wuA2_dongding-wulong/",
-      "en": "/en/products/wuA2_dongding-wulong/"
+      "fr": "/products/wuA2_dongding-wulong-25g/",
+      "en": "/en/products/wuA2_dongding-wulong-25g/"
     },
     "layout": "",
     "id": "wuA2",
-    "name": {"fr":"凍頂烏龍 - DòngDǐng WūLóng","en":"凍頂烏龍 - DòngDǐng WūLóng"},
-    "mini_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},
-    "meta_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},
+    "name": {"fr":"凍頂烏龍 - DòngDǐng WūLóng - 25g","en":"凍頂烏龍 - DòngDǐng WūLóng - 25g"},
+    "mini_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
+    "meta_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "tags": ["cha","welcome"],
     "description": {"fr":"La famille Li (李家 - LǐJiā) est une lignée traditionnelle de cultivateurs et de producteurs de thé, transmise de génération en génération. Leurs plantations se trouvent principalement dans la région de 鹿谷 - LùGǔ<!--more-->, dans les montagnes de 阿里山 - ĀLǐShān, au centre de Taïwan. 凍頂烏龍茶 - DòngDǐng WūLóngChá a une histoire de plus de cent ans et est l’un des thés les plus renommés de Taïwan. Beaucoup de gens pensent que « Dong Ding » est le nom d’une marque de thé, mais en réalité, 凍頂 - DòngDǐng est le nom d’une montagne. La montagne 凍頂 - DòngDǐng est située dans le canton de 鹿谷 - LùGǔ, dans le comté de 南投 - NánTóu), au sud de Taïwan.\n","en":"The Li family (李家 - LǐJiā) is a traditional lineage of tea cultivators and producers, passed down from generation to generation. Their plantations are mainly located in the region of 鹿谷 - LùGǔ<!--more-->, in the mountains of 阿里山 - ĀLǐShān, in central Taiwan. 凍頂烏龍茶 - DòngDǐng WūLóngChá has a history of more than one hundred years and is one of Taiwan's most renowned teas. Many people think that \"Dong Ding\" is the name of a tea brand, but in reality, 凍頂 - DòngDǐng is the name of a mountain. The mountain 凍頂 - DòngDǐng is located in the canton of 鹿谷 - LùGǔ, in the county of 南投 - NánTóu, in southern Taiwan.\n"},
     "photos": ["DongDing-WuLong_1-a.jpg","DongDing-WuLong_1-b.jpg"],
@@ -1892,14 +2606,14 @@
 {
     "title": "cha - ",
     "permalinks": {
-      "fr": "/products/wuA3_jinxuan-gaoshancha/",
-      "en": "/en/products/wuA3_jinxuan-gaoshancha/"
+      "fr": "/products/wuA3_jinxuan-gaoshancha-25g/",
+      "en": "/en/products/wuA3_jinxuan-gaoshancha-25g/"
     },
     "layout": "",
     "id": "wuA3",
-    "name": {"fr":"金萱高山茶 - JīnXuān GāoShānChá","en":"金萱高山茶 - JīnXuān GāoShānChá"},
-    "mini_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},
-    "meta_descr": {"fr":"thé wulong traditionnel de Taïwan - 25g","en":"traditional oolong tea from Taiwan - 25g"},
+    "name": {"fr":"金萱高山茶 - JīnXuān GāoShānChá - 25g","en":"金萱高山茶 - JīnXuān GāoShānChá - 25g"},
+    "mini_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
+    "meta_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "tags": ["cha"],
     "description": {"fr":"金萱高山茶 - JīnXuān GāoShānChá, ce thé de haute montagne Jin Xuan est cultivé à partir de la variété Jin Xuan, plantée dans les régions montagneuses du centre de Taïwan à une altitude de 1 000 mètres.<!--more--> Ce thé possède le parfum élégant unique de l’osmanthus propre à la variété Jin Xuan, ainsi que des arômes particuliers liés à son environnement de haute altitude, tels que des notes minérales, rocailleuses et fraîches. Il y a quarante ans, Madame Yu et son mari, passionnés par le thé, ont renoncé à des salaires avantageux en ville pour se consacrer entièrement à la culture et à la production de thé. Ces dernières années, leurs enfants ont également commencé à rejoindre les rangs des producteurs de thé, perpétuant ainsi la vocation familiale.\n","en":"金萱高山茶 - JīnXuān GāoShānChá, this Jin Xuan high mountain tea is cultivated from the Jin Xuan variety, planted in the mountainous regions of central Taiwan at an altitude of 1,000 meters.<!--more--> This tea possesses the unique elegant fragrance of osmanthus characteristic of the Jin Xuan variety, as well as distinctive aromas related to its high-altitude environment, such as mineral, rocky, and fresh notes. Forty years ago, Mrs. Yu and her husband, passionate about tea, gave up lucrative salaries in the city to fully dedicate themselves to tea cultivation and production. In recent years, their children have also begun to join the ranks of tea producers, thereby continuing the family vocation.\n"},
     "photos": ["JinXuan-GaoShan_1-a.jpg","JinXuan-GaoShan_1-b.jpg"],
@@ -1909,5 +2623,47 @@
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
+  },
+{
+    "title": "xiangju - ",
+    "permalinks": {
+      "fr": "/products/xiangpanT40_xiangpan/",
+      "en": "/en/products/xiangpanT40_xiangpan/"
+    },
+    "layout": "",
+    "id": "xiangpanT40",
+    "name": {"fr":"香盤 XiāngPán","en":"香盤 XiāngPán"},
+    "mini_descr": {"fr":"support à encens en terre cuite","en":"clay incense holder"},
+    "meta_descr": {"fr":"support à encens en terre cuite","en":"clay incense holder"},
+    "tags": ["xiangju"],
+    "description": {"fr":"Ce support à encens en terre cuite est émaillé et peint à la main, puis cuit au four. Il est conçu pour les bâtonnets d'encens. La fleur de lotus au centre, peinte dans le style traditionnel chinois, symbolise la pureté et l'intégrité, « émergeant de la boue sans être souillée ». Motif prisé des peintres, le lotus est aussi un puissant symbole poétique.\n","en":"This clay incense holder is glazed, hand-painted, and kiln-fired, designed for incense sticks. The lotus flower in the center, painted in the traditional Chinese style, symbolizes purity and integrity—\"rising unstained from the mud.\" A beloved motif among painters, the lotus is also a timeless poetic symbol.\n"},
+    "photos": ["xiangpan_T40-a.jpg","xiangpan_T40-b.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
+  },
+{
+    "title": "xiangju - ",
+    "permalinks": {
+      "fr": "/products/xiangpanT41_xiangpan/",
+      "en": "/en/products/xiangpanT41_xiangpan/"
+    },
+    "layout": "",
+    "id": "xiangpanT41",
+    "name": {"fr":"香盤 XiāngPán","en":"香盤 XiāngPán"},
+    "mini_descr": {"fr":"support à encens en terre cuite","en":"clay incense holder"},
+    "meta_descr": {"fr":"support à encens en terre cuite","en":"clay incense holder"},
+    "tags": ["xiangju"],
+    "description": {"fr":"Ce support à encens en terre cuite est émaillé, peint à la main. Conçu pour les bâtonnets d’encens, sa forme courbée apporte une sensation de légèreté et de mouvement visuel.\nAu centre, la fleur de lotus, peinte dans le style traditionnel chinois, incarne la pureté et l’intégrité, symbolisée par l’image du lotus qui « émerge de la boue sans être souillé ».<!--more--> Motif emblématique de la peinture chinoise, le lotus est également une source d’inspiration poétique intemporelle.\n","en":"This terracotta incense holder is glazed and hand-painted. Designed for incense sticks, its curved shape creates a sense of lightness and visual movement.\nAt the center, the lotus flower, painted in the traditional Chinese style, symbolizes purity and integrity, embodying the image of the lotus that \"rises from the mud unsullied.\"<!--more--> A key motif in Chinese painting, the lotus is also an enduring source of poetic inspiration.\n"},
+    "photos": ["xiangpan_T41-a.jpg","xiangpan_T41-b.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "3"
   }
 ]
