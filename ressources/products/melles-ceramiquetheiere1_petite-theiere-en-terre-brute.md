@@ -1,8 +1,8 @@
 ---
 id: melles-ceramiquetheiere1
 name:
-  fr: 茶壺 CháHú - théière
-  en: 茶壺 CháHú - Teapot in Raw Clay
+  fr: 茶壺 CháHú - petite théière en terre brute
+  en: 茶壺 CháHú - small Teapot in Raw Clay
 mini_descr:
   fr: Théière réalisée par Mademoiselles Céramique
   en: Teapot made by Mademoiselles Céramique

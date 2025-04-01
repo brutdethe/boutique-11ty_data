@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: GàiWǎn réalisé par Manon Clouzeau
   en: GàiWǎn made by Manon Clouzeau
-tags: ["manon-clouzeau"]
+tags: ["welcome", "manon-clouzeau"]
 description:
   fr: >
     GàiWǎn émaillé. Pièce unique.

@@ -1,11 +1,11 @@
 ---
 id: perrinepot31
 name:
-  fr: 茶倉 - CháCāng - pot à thé
-  en: Tea Storage - 茶倉 - CháCāng (tea jar)
+  fr: 茶倉 - CháCāng (petit pot à thé)
+  en: Tea Storage - 茶倉 - CháCāng (small tea jar)
 mini_descr:
-  fr: jarre réalisée par Perrine Pottiez
-  en: tea jar made by Perrine Pottiez
+  fr: mini jarre à thé réalisé par Perrine Pottiez
+  en: small tea jar made by Perrine Pottiez
 tags: ["perrine-pottiez"]
 description:
   fr: >

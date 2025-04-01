@@ -1,11 +1,11 @@
 ---
 id: perrinebol11
 name:
-  fr: 茶杯 - CháBēi - bol à thé
-  en: 茶杯 - CháBēi (tea bowl)
+  fr: 茶杯 - CháBēi (petit bol à thé)
+  en: 茶杯 - CháBēi (small tea bowl)
 mini_descr:
-  fr: bol réalisé par Perrine Pottiez
-  en: tea bowl made by Perrine Pottiez
+  fr: petit bol à thé réalisé par Perrine Pottiez
+  en: small tea bowl made by Perrine Pottiez
 tags: ["perrine-pottiez"]
 description:
   fr: >

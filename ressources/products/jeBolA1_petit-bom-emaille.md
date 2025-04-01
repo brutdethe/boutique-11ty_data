@@ -1,8 +1,8 @@
 ---
 id: jeBolA1
 name:
-  fr: 茶杯 - CháBēi - Petit bol
-  en: 茶杯 - CháBēi - Small Bowl
+  fr: 茶杯 - CháBēi - petit bol
+  en: 茶杯 - CháBēi - small Bowl
 mini_descr:
   fr: Bol émaillé réalisé par Jé le Potier
   en: Glazed bowl made by Jé le Potier
@@ -16,7 +16,7 @@ photos:
   - jerome_bol_A1-a.jpg
   - jerome_bol_A1-b.jpg
 price: 18.00
-stock: 28
+stock: 27
 weight: 170
 shipping_type: colis_base
 shipping_point: 2

@@ -4,8 +4,8 @@ name:
   fr: 茶杯 - CháBēi
   en: 茶杯 - CháBēi
 mini_descr:
-  fr: bol à thé réalisé par Manon Clouzeau
-  en: tea bowl made by Manon Clouzeau
+  fr: petit bol à thé réalisé par Manon Clouzeau
+  en: small tea bowl made by Manon Clouzeau
 tags: ["manon-clouzeau", "welcome"]
 description:
   fr: >

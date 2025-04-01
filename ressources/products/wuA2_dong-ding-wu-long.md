@@ -1,11 +1,11 @@
 ---
 id: wuA2
 name:
-  fr: 凍頂烏龍 - DòngDǐng WūLóng
-  en: 凍頂烏龍 - DòngDǐng WūLóng
+  fr: 凍頂烏龍 - DòngDǐng WūLóng - 25g
+  en: 凍頂烏龍 - DòngDǐng WūLóng - 25g
 mini_descr:
-  fr: thé wulong traditionnel de Taïwan - 25g
-  en: traditional oolong tea from Taiwan - 25g
+  fr: thé wulong traditionnel de Taïwan
+  en: traditional oolong tea from Taiwan
 tags: ["cha", "welcome"]
 description:
   fr: >

@@ -1,11 +1,11 @@
 ---
 id: hongA1
 name:
-  fr: 蜜香红茶 - MìXiāng HóngChá
-  en: 蜜香红茶 - MìXiāng HóngChá
+  fr: 蜜香红茶 - MìXiāng HóngChá - 25g
+  en: 蜜香红茶 - MìXiāng HóngChá - 25g
 mini_descr:
-  fr: thé rouge traditionnel de Taïwan - 25g
-  en: traditional Taiwanese black tea - 25g
+  fr: thé rouge traditionnel de Taïwan
+  en: traditional Taiwanese black tea
 tags: ["cha"]
 description:
   fr: >
@@ -37,4 +37,5 @@ options:
     weight: 25g
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
+  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---

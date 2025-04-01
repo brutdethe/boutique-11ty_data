@@ -1,11 +1,11 @@
 ---
 id: luA3
 name:
-  fr: 白鹿綠茶 - BáiLù LǜChá
-  en: 白鹿綠茶 - BáiLù LǜChá
+  fr: 白鹿綠茶 - BáiLù LǜChá - 25g
+  en: 白鹿綠茶 - BáiLù LǜChá - 25g
 mini_descr:
-  fr: thé vert traditionnel du Sichuan - 25g
-  en: traditional green tea from Sichuan - 25g
+  fr: thé vert traditionnel du Sichuan
+  en: traditional green tea from Sichuan
 tags: ["cha"]
 description:
   fr: >

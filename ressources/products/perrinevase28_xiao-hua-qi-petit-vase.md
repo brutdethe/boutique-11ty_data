@@ -1,10 +1,10 @@
 ---
 id: perrinevase28
 name:
-  fr: 花器 - HuāQì - petit vase
+  fr: 花器 - HuāQì (petit vase)
   en: Vase - 花器 - HuāQì (small vase)
 mini_descr:
-  fr: vase sobre réalisé par Perrine Pottiez
+  fr: vase sobre à fleur réalisé par Perrine Pottiez
   en: minimalist flower vase made by Perrine Pottiez
 tags: ["perrine-pottiez"]
 description:
