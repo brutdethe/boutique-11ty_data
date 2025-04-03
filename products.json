@@ -21,7 +21,7 @@
     "shipping_point": "1"
   },
 {
-    "title": "chawelcome - ",
+    "title": "cha - ",
     "permalinks": {
       "fr": "/products/baiA2_bailu-baicha-25g/",
       "en": "/en/products/baiA2_bailu-baicha-25g/"
@@ -31,7 +31,7 @@
     "name": {"fr":"白鹿白茶 - BáiLù BáiChá - 25g","en":"白鹿白茶 - BáiLù BáiChá - 25g"},
     "mini_descr": {"fr":"infusion fabriquée comme un thé blanc","en":"infusion crafted like white tea"},
     "meta_descr": {"fr":"infusion fabriquée comme un thé blanc","en":"infusion crafted like white tea"},
-    "tags": ["cha","welcome"],
+    "tags": ["cha"],
     "description": {"fr":"Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées, ce n'est pas du thé et il ne contient pas de caféine. Il est produit à 白鹿村 - BáiLùCūn dans le 四川 - SìChuān à environ 850 mètres d'altitude.<!--more--> Ce petit village compte un peu plus de 1 300 habitants sans aucune industrie. C'est une infusion que la population locale apprécie depuis un millier d'années. L'arbre pousse dans la montagne 白鹿 - BáiLù et dégage le parfum unique des plantes lauracées. Son infusion est rouge vif et a un retour sucré dans la bouche. Il est notamment indiqué pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac.\n","en":"The 白鹿白茶 - BáiLù BáiChá comes from the Lauraceae family, meaning it is not tea and contains no caffeine. It is produced in 白鹿村 - BáiLùCūn, 四川 - SìChuān province, at an altitude of about 850 meters.<!--more-->  This small village has just over 1,300 inhabitants and no industry. It is an infusion cherished by the local population for over a thousand years. The tree grows on the 白鹿 - BáiLù mountain and emits the unique fragrance of lauraceous plants. Its infusion is bright red with a sweet aftertaste. It is particularly suitable for people accustomed to spicy dishes as it helps nourish the spleen and stomach.\n"},
     "photos": ["BaiLu-BaiCha_1-a.jpg","BaiLu-BaiCha_1-b.jpg"],
     "price": "15",
@@ -2564,17 +2564,80 @@
 {
     "title": "welcomefestival - ",
     "permalinks": {
-      "fr": "/products/ticket1_billet-vendredi-27-juin-festival-gongfucha/",
-      "en": "/en/products/ticket1_billet-vendredi-27-juin-festival-gongfucha/"
+      "fr": "/products/tick1_billet-vendredi-27-juin-festival-gongfucha/",
+      "en": "/en/products/tick1_billet-vendredi-27-juin-festival-gongfucha/"
     },
     "layout": "",
-    "id": "ticket1",
+    "id": "tick1",
     "name": {"fr":"Billet vendredi 27 juin - festival GōngFūChá - 工夫茶","en":"Friday June 27th - GōngFūChá Festival - 工夫茶"},
     "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
     "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
     "tags": ["welcome","festival"],
     "description": {"fr":"Ce billet vous permet de participer à la journée du vendredi 27 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Friday, June 27th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
-    "photos": ["billet-gonfucha-vendredi.jpg"],
+    "photos": ["billet-gongfucha-vendredi.jpg"],
+    "price": "15",
+    "stock": "100",
+    "weight": "",
+    
+    "shipping_type": "sans_envoi",
+    "shipping_point": ""
+  },
+{
+    "title": "festival - ",
+    "permalinks": {
+      "fr": "/products/tick2_billet-samedi-28-juin-festival-gongfucha/",
+      "en": "/en/products/tick2_billet-samedi-28-juin-festival-gongfucha/"
+    },
+    "layout": "",
+    "id": "tick2",
+    "name": {"fr":"Billet samedi 28 juin - festival GōngFūChá - 工夫茶","en":"Saturday June 28th - GōngFūChá Festival - 工夫茶"},
+    "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
+    "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
+    "tags": ["festival"],
+    "description": {"fr":"Ce billet vous permet de participer à la journée du samedi 28 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Saturday, June 28th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
+    "photos": ["billet-gongfucha-samedi.jpg"],
+    "price": "15",
+    "stock": "100",
+    "weight": "",
+    
+    "shipping_type": "sans_envoi",
+    "shipping_point": ""
+  },
+{
+    "title": "festival - ",
+    "permalinks": {
+      "fr": "/products/tick3_billet-dimanche-29-juin-festival-gongfucha/",
+      "en": "/en/products/tick3_billet-dimanche-29-juin-festival-gongfucha/"
+    },
+    "layout": "",
+    "id": "tick3",
+    "name": {"fr":"Billet dimanche 29 juin - festival GōngFūChá - 工夫茶","en":"Sunday June 29th - GōngFūChá Festival - 工夫茶"},
+    "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
+    "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
+    "tags": ["festival"],
+    "description": {"fr":"Ce billet vous permet de participer à la journée du dimanche 29 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Sunday, June 29th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
+    "photos": ["billet-gongfucha-dimanche.jpg"],
+    "price": "15",
+    "stock": "100",
+    "weight": "",
+    
+    "shipping_type": "sans_envoi",
+    "shipping_point": ""
+  },
+{
+    "title": "festival - ",
+    "permalinks": {
+      "fr": "/products/tick4_pass-3-jours-festival-gongfucha/",
+      "en": "/en/products/tick4_pass-3-jours-festival-gongfucha/"
+    },
+    "layout": "",
+    "id": "tick4",
+    "name": {"fr":"Pass 3 jours - festival GōngFūChá - 工夫茶","en":"3 days Pass - GōngFūChá Festival - 工夫茶"},
+    "mini_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
+    "meta_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
+    "tags": ["festival"],
+    "description": {"fr":"Ce billet vous permet de participer aux trois jours du Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket grants you access to all three days of the GōngFūChá – 工夫茶 Tea Festival.   It includes entry to the Parc aux Bambous, meeting spaces, concerts, demonstrations, and open-access workshops, as well as access to all exhibitors and guest speakers.   An opportunity to discover Chinese tea culture in a truly exceptional and peaceful setting.   Looking forward to seeing you there — we can't wait to meet you! \n"},
+    "photos": ["billet-gongfucha-pass.jpg"],
     "price": "15",
     "stock": "100",
     "weight": "",
