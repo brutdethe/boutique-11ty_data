@@ -2,11 +2,53 @@
 {
     "title": "benhito - ",
     "permalinks": {
+      "fr": "/products/affiches1_festival-gongfucha/",
+      "en": "/en/products/affiches1_festival-gongfucha/"
+    },
+    "layout": "",
+    "id": "affiches1",
+    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
+    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "tags": ["benhito"],
+    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
+    "photos": ["gongfucha_affiches_a.jpg"],
+    "price": "20",
+    "stock": "70",
+    "weight": "125",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "benhito - ",
+    "permalinks": {
       "fr": "/products/affiches2_festival-gongfucha/",
       "en": "/en/products/affiches2_festival-gongfucha/"
     },
     "layout": "",
     "id": "affiches2",
+    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
+    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "tags": ["benhito"],
+    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
+    "photos": ["gongfucha_affiches_a.jpg"],
+    "price": "20",
+    "stock": "70",
+    "weight": "125",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "benhito - ",
+    "permalinks": {
+      "fr": "/products/affiches3_festival-gongfucha/",
+      "en": "/en/products/affiches3_festival-gongfucha/"
+    },
+    "layout": "",
+    "id": "affiches3",
     "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
     "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
     "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
@@ -2564,12 +2606,12 @@
 {
     "title": "welcomefestival - ",
     "permalinks": {
-      "fr": "/products/tick1_billet-vendredi-27-juin-festival-gongfucha/",
-      "en": "/en/products/tick1_billet-vendredi-27-juin-festival-gongfucha/"
+      "fr": "/products/tick1_billet-vendredi-27-juin-festival/",
+      "en": "/en/products/tick1_billet-vendredi-27-juin-festival/"
     },
     "layout": "",
     "id": "tick1",
-    "name": {"fr":"Billet vendredi 27 juin - festival GōngFūChá - 工夫茶","en":"Friday June 27th - GōngFūChá Festival - 工夫茶"},
+    "name": {"fr":"Billet vendredi 27 juin - festival - 工夫茶","en":"Friday June 27th - Festival - 工夫茶"},
     "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
     "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
     "tags": ["welcome","festival"],
@@ -2585,12 +2627,12 @@
 {
     "title": "festival - ",
     "permalinks": {
-      "fr": "/products/tick2_billet-samedi-28-juin-festival-gongfucha/",
-      "en": "/en/products/tick2_billet-samedi-28-juin-festival-gongfucha/"
+      "fr": "/products/tick2_billet-samedi-28-juin-festival/",
+      "en": "/en/products/tick2_billet-samedi-28-juin-festival/"
     },
     "layout": "",
     "id": "tick2",
-    "name": {"fr":"Billet samedi 28 juin - festival GōngFūChá - 工夫茶","en":"Saturday June 28th - GōngFūChá Festival - 工夫茶"},
+    "name": {"fr":"Billet samedi 28 juin - festival - 工夫茶","en":"Saturday June 28th - Festival - 工夫茶"},
     "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
     "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
     "tags": ["festival"],
@@ -2606,12 +2648,12 @@
 {
     "title": "festival - ",
     "permalinks": {
-      "fr": "/products/tick3_billet-dimanche-29-juin-festival-gongfucha/",
-      "en": "/en/products/tick3_billet-dimanche-29-juin-festival-gongfucha/"
+      "fr": "/products/tick3_billet-dimanche-29-juin-festival/",
+      "en": "/en/products/tick3_billet-dimanche-29-juin-festival/"
     },
     "layout": "",
     "id": "tick3",
-    "name": {"fr":"Billet dimanche 29 juin - festival GōngFūChá - 工夫茶","en":"Sunday June 29th - GōngFūChá Festival - 工夫茶"},
+    "name": {"fr":"Billet dimanche 29 juin - festival - 工夫茶","en":"Sunday June 29th - Festival - 工夫茶"},
     "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
     "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
     "tags": ["festival"],
@@ -2627,12 +2669,12 @@
 {
     "title": "festival - ",
     "permalinks": {
-      "fr": "/products/tick4_pass-3-jours-festival-gongfucha/",
-      "en": "/en/products/tick4_pass-3-jours-festival-gongfucha/"
+      "fr": "/products/tick4_pass-3-jours-festival/",
+      "en": "/en/products/tick4_pass-3-jours-festival/"
     },
     "layout": "",
     "id": "tick4",
-    "name": {"fr":"Pass 3 jours - festival GōngFūChá - 工夫茶","en":"3 days Pass - GōngFūChá Festival - 工夫茶"},
+    "name": {"fr":"Pass 3 jours - festival - 工夫茶","en":"3 days Pass - Festival - 工夫茶"},
     "mini_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
     "meta_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
     "tags": ["festival"],
