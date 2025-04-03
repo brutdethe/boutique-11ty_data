@@ -1,8 +1,8 @@
 ---
 id: tick2
 name:
-    fr: Billet samedi 28 juin - festival GōngFūChá - 工夫茶
-    en: Saturday June 28th - GōngFūChá Festival - 工夫茶
+    fr: Billet samedi 28 juin - festival - 工夫茶
+    en: Saturday June 28th - Festival - 工夫茶
 mini_descr:
     fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin
     en: Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th

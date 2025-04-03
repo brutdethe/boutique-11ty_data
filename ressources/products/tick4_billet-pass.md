@@ -1,8 +1,8 @@
 ---
 id: tick4
 name:
-    fr: Pass 3 jours - festival GōngFūChá - 工夫茶
-    en: 3 days Pass - GōngFūChá Festival - 工夫茶
+    fr: Pass 3 jours - festival - 工夫茶
+    en: 3 days Pass - Festival - 工夫茶
 mini_descr:
     fr: Pass du Festival GōngFūChá - 工夫茶 pour les trois jours
     en: The GōngFūChá's Pass - 工夫茶 Festival for the three days

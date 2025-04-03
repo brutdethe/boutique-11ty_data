@@ -1,8 +1,8 @@
 ---
 id: tick3
 name:
-    fr: Billet dimanche 29 juin - festival GōngFūChá - 工夫茶
-    en: Sunday June 29th - GōngFūChá Festival - 工夫茶
+    fr: Billet dimanche 29 juin - festival - 工夫茶
+    en: Sunday June 29th - Festival - 工夫茶
 mini_descr:
     fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin
     en: Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th

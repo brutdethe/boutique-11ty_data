@@ -1,8 +1,8 @@
 ---
 id: tick1
 name:
-    fr: Billet vendredi 27 juin - festival GōngFūChá - 工夫茶
-    en: Friday June 27th - GōngFūChá Festival - 工夫茶
+    fr: Billet vendredi 27 juin - festival - 工夫茶
+    en: Friday June 27th - Festival - 工夫茶
 mini_descr:
     fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin
     en: Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th
