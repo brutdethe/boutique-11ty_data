@@ -2,18 +2,18 @@
 {
     "title": "benhito - ",
     "permalinks": {
-      "fr": "/products/affiches1_festival-gongfucha/",
-      "en": "/en/products/affiches1_festival-gongfucha/"
+      "fr": "/products/affiches1_festival-gongfucha-2022/",
+      "en": "/en/products/affiches1_festival-gongfucha-2022/"
     },
     "layout": "",
     "id": "affiches1",
-    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
-    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "name": {"fr":"festival GōngFūChá - 工夫茶 - 2022","en":"GōngFūChá Festival - 工夫茶 - 2022"},
+    "mini_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
+    "meta_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
     "tags": ["benhito"],
-    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
-    "photos": ["gongfucha_affiches_a.jpg"],
-    "price": "20",
+    "description": {"fr":"Une affiche du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"One poster for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
+    "photos": ["gongfucha_affiche_1.jpg"],
+    "price": "15",
     "stock": "70",
     "weight": "125",
     
@@ -23,18 +23,18 @@
 {
     "title": "benhito - ",
     "permalinks": {
-      "fr": "/products/affiches2_festival-gongfucha/",
-      "en": "/en/products/affiches2_festival-gongfucha/"
+      "fr": "/products/affiches2_festival-gongfucha-2023/",
+      "en": "/en/products/affiches2_festival-gongfucha-2023/"
     },
     "layout": "",
     "id": "affiches2",
-    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
-    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
+    "name": {"fr":"festival GōngFūChá - 工夫茶 - 2023","en":"GōngFūChá Festival - 工夫茶 - 2023"},
+    "mini_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
+    "meta_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
     "tags": ["benhito"],
-    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
-    "photos": ["gongfucha_affiches_a.jpg"],
-    "price": "20",
+    "description": {"fr":"Une affiche du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"One poster for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
+    "photos": ["gongfucha_affiche_2.jpg"],
+    "price": "15",
     "stock": "70",
     "weight": "125",
     
@@ -42,20 +42,20 @@
     "shipping_point": "1"
   },
 {
-    "title": "benhito - ",
+    "title": "benhitofestival - ",
     "permalinks": {
-      "fr": "/products/affiches3_festival-gongfucha/",
-      "en": "/en/products/affiches3_festival-gongfucha/"
+      "fr": "/products/affiches3_festival-gongfucha-2025/",
+      "en": "/en/products/affiches3_festival-gongfucha-2025/"
     },
     "layout": "",
     "id": "affiches3",
-    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá Festival - 工夫茶"},
-    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "tags": ["benhito"],
-    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
-    "photos": ["gongfucha_affiches_a.jpg"],
-    "price": "20",
+    "name": {"fr":"festival GōngFūChá - 工夫茶 - 2025","en":"GōngFūChá Festival - 工夫茶 - 2025"},
+    "mini_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
+    "meta_descr": {"fr":"une affiche originale par Benhito","en":"a original poster by Benhito"},
+    "tags": ["benhito","festival"],
+    "description": {"fr":"Pour cette édition, BenHito a quitté son univers rock pour explorer une esthétique plus posée, presque silencieuse. Pas d’explosion de couleurs cette fois, mais une composition maîtrisée, épurée, où chaque élément respire.\n","en":"This year, BenHito stepped away from his usual rock universe to embrace a quieter, more contemplative aesthetic. No burst of color this time, but a refined, balanced composition where every detail has room to breathe.\n"},
+    "photos": ["gongfucha_affiche_3.jpg"],
+    "price": "50",
     "stock": "70",
     "weight": "125",
     
@@ -2604,7 +2604,7 @@
     "shipping_point": "5"
   },
 {
-    "title": "welcomefestival - ",
+    "title": "festival - ",
     "permalinks": {
       "fr": "/products/tick1_billet-vendredi-27-juin-festival/",
       "en": "/en/products/tick1_billet-vendredi-27-juin-festival/"
@@ -2612,9 +2612,9 @@
     "layout": "",
     "id": "tick1",
     "name": {"fr":"Billet vendredi 27 juin - festival - 工夫茶","en":"Friday June 27th - Festival - 工夫茶"},
-    "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
-    "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th"},
-    "tags": ["welcome","festival"],
+    "mini_descr": {"fr":"accès au festival pour la journée du vendredi 27 juin","en":"access to the Festival on Friday, June 27th"},
+    "meta_descr": {"fr":"accès au festival pour la journée du vendredi 27 juin","en":"access to the Festival on Friday, June 27th"},
+    "tags": ["festival"],
     "description": {"fr":"Ce billet vous permet de participer à la journée du vendredi 27 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Friday, June 27th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-vendredi.jpg"],
     "price": "15",
@@ -2633,8 +2633,8 @@
     "layout": "",
     "id": "tick2",
     "name": {"fr":"Billet samedi 28 juin - festival - 工夫茶","en":"Saturday June 28th - Festival - 工夫茶"},
-    "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
-    "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th"},
+    "mini_descr": {"fr":"Accès au festival pour la journée du samedi 28 juin","en":"Access to the Festival on Saturday, June 28th"},
+    "meta_descr": {"fr":"Accès au festival pour la journée du samedi 28 juin","en":"Access to the Festival on Saturday, June 28th"},
     "tags": ["festival"],
     "description": {"fr":"Ce billet vous permet de participer à la journée du samedi 28 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Saturday, June 28th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-samedi.jpg"],
@@ -2654,8 +2654,8 @@
     "layout": "",
     "id": "tick3",
     "name": {"fr":"Billet dimanche 29 juin - festival - 工夫茶","en":"Sunday June 29th - Festival - 工夫茶"},
-    "mini_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
-    "meta_descr": {"fr":"Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin","en":"Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th"},
+    "mini_descr": {"fr":"accès au festival pour la journée du dimanche 29 juin","en":"access to the Festival on Sunday, June 29th"},
+    "meta_descr": {"fr":"accès au festival pour la journée du dimanche 29 juin","en":"access to the Festival on Sunday, June 29th"},
     "tags": ["festival"],
     "description": {"fr":"Ce billet vous permet de participer à la journée du dimanche 29 juin au Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Sunday, June 29th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-dimanche.jpg"],
@@ -2667,7 +2667,7 @@
     "shipping_point": ""
   },
 {
-    "title": "festival - ",
+    "title": "festivalwelcome - ",
     "permalinks": {
       "fr": "/products/tick4_pass-3-jours-festival/",
       "en": "/en/products/tick4_pass-3-jours-festival/"
@@ -2677,8 +2677,8 @@
     "name": {"fr":"Pass 3 jours - festival - 工夫茶","en":"3 days Pass - Festival - 工夫茶"},
     "mini_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
     "meta_descr": {"fr":"Pass du Festival GōngFūChá - 工夫茶 pour les trois jours","en":"The GōngFūChá's Pass - 工夫茶 Festival for the three days"},
-    "tags": ["festival"],
-    "description": {"fr":"Ce billet vous permet de participer aux trois jours du Festival de Thé GōngFūChá - 工夫茶.   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket grants you access to all three days of the GōngFūChá – 工夫茶 Tea Festival.   It includes entry to the Parc aux Bambous, meeting spaces, concerts, demonstrations, and open-access workshops, as well as access to all exhibitors and guest speakers.   An opportunity to discover Chinese tea culture in a truly exceptional and peaceful setting.   Looking forward to seeing you there — we can't wait to meet you! \n"},
+    "tags": ["festival","welcome"],
+    "description": {"fr":"Ce billet vous donne accès aux trois jours du Festival GōngFūChá - 工夫茶. L’entrée au Parc aux Bambous, les concerts, ateliers, démonstrations, espaces de rencontre sont inclus.   L’occasion de rencontrer les personnes exposantes, artisanes et passionnées qui font vivre le festival.   Nous vous offrons l'affiche de cette édition.  Et, le soir, quand le parc ferme, vous pourrez rester avec nous.  Discuter, boire un thé, prolonger la journée, sans se presser.\n","en":"This ticket gives you access to all three days of the GōngFūChá - 工夫茶 Festival.  Entry to the Parc aux Bambous, concerts, workshops, demonstrations, and meeting spaces is all included.   A chance to connect with the exhibitors, artisans, and tea lovers who bring the festival to life. We’ll also be offering you this year’s festival poster.   And in the evening, when the park closes, you’re welcome to stay a little longer with us — chat, share some tea, let the day wind down gently.\n"},
     "photos": ["billet-gongfucha-pass.jpg"],
     "price": "15",
     "stock": "100",
