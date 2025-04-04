@@ -4,8 +4,8 @@ name:
     fr: Billet dimanche 29 juin - festival - 工夫茶
     en: Sunday June 29th - Festival - 工夫茶
 mini_descr:
-    fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du dimanche 29 juin
-    en: Access to the GōngFūChá - 工夫茶 Festival on Sunday, June 29th
+    fr: accès au festival pour la journée du dimanche 29 juin
+    en: access to the Festival on Sunday, June 29th
 meta_descr:
     fr: >
         Billet pour une journée au Festival de Thé GōngFūChá - 工夫茶, le dimanche 29 juin. Donne accès au parc, aux animations, aux personnes exposantes et aux intervenantes.

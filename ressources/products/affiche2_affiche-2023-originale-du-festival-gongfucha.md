@@ -1,23 +1,23 @@
 ---
 id: affiches2
 name:
-    fr: festival GōngFūChá - 工夫茶
-    en: GōngFūChá Festival - 工夫茶
+    fr: festival GōngFūChá - 工夫茶 - 2023
+    en: GōngFūChá Festival - 工夫茶 - 2023
 mini_descr:
-    fr: deux affiches originales par Benhito
-    en: two original posters by Benhito
+    fr: une affiche originale par Benhito
+    en: a original poster by Benhito
 meta_descr:
-    fr: Deux affiches originales créées par Benhito pour le festival GōngFūChá - 工夫茶. Dans un style épuré et expressif.
-    en: Two original posters created by Benhito for the GōngFūChá Festival - 工夫茶. In a minimalist and expressive style.
+    fr: Une affiche originale créées par Benhito pour le festival GōngFūChá - 工夫茶. Dans un style épuré et expressif.
+    en: A original poster created by Benhito for the GōngFūChá Festival - 工夫茶. In a minimalist and expressive style.
 tags: ["benhito"]
 description: 
     fr: >
-        Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.
+        Une affiche du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.
     en: >
-        Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.
+        One poster for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.
 photos:
-    - gongfucha_affiches_a.jpg
-price: 20.00
+    - gongfucha_affiche_2.jpg
+price: 15.00
 stock: 70
 weight: 125
 shipping_type: tube
@@ -26,4 +26,3 @@ eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
   permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"

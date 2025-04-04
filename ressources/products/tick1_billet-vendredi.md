@@ -4,14 +4,14 @@ name:
     fr: Billet vendredi 27 juin - festival - 工夫茶
     en: Friday June 27th - Festival - 工夫茶
 mini_descr:
-    fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du vendredi 27 juin
-    en: Access to the GōngFūChá - 工夫茶 Festival on Friday, June 27th
+    fr: accès au festival pour la journée du vendredi 27 juin
+    en: access to the Festival on Friday, June 27th
 meta_descr:
     fr: >
         Billet pour une journée au Festival de Thé GōngFūChá - 工夫茶, le vendredi 27 juin. Donne accès au parc, aux animations, aux personnes exposantes et aux intervenantes.
     en: >
         One-day ticket for the GōngFūChá - 工夫茶 Tea Festival on Friday, June 27th. Includes access to the park, activities, exhibitors and guest presenters.
-tags: ["welcome", "festival"]
+tags: ["festival"]
 description: 
     fr: >
       Ce billet vous permet de participer à la journée du vendredi 27 juin au Festival de Thé GōngFūChá - 工夫茶.  

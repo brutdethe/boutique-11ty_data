@@ -4,8 +4,8 @@ name:
     fr: Billet samedi 28 juin - festival - 工夫茶
     en: Saturday June 28th - Festival - 工夫茶
 mini_descr:
-    fr: Accès au Festival GōngFūChá - 工夫茶 pour la journée du samedi 28 juin
-    en: Access to the GōngFūChá - 工夫茶 Festival on Saturday, June 28th
+    fr: Accès au festival pour la journée du samedi 28 juin
+    en: Access to the Festival on Saturday, June 28th
 meta_descr:
     fr: >
         Billet pour une journée au Festival de Thé GōngFūChá - 工夫茶, le samedi 28 juin. Donne accès au parc, aux animations, aux personnes exposantes et aux intervenantes.
