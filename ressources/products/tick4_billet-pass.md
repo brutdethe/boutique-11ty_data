@@ -24,7 +24,7 @@ description:
         And in the evening, when the park closes, you’re welcome to stay a little longer with us — chat, share some tea, let the day wind down gently.
 photos:
     - billet-gongfucha-pass.jpg
-price: 15.00
+price: 50.00
 stock: 100
 shipping_type: sans_envoi
 eleventyComputed:

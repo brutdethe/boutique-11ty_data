@@ -17,7 +17,7 @@ description:
         This year, BenHito stepped away from his usual rock universe to embrace a quieter, more contemplative aesthetic. No burst of color this time, but a refined, balanced composition where every detail has room to breathe.
 photos:
     - gongfucha_affiche_3.jpg
-price: 50.00
+price: 15.00
 stock: 70
 weight: 125
 shipping_type: tube
