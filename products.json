@@ -1401,7 +1401,7 @@
     "photos": ["manon_tasse_B17-a.jpg","manon_tasse_B17-b.jpg","manon_tasse_B17-c.jpg"],
     "price": "15",
     "stock": "1",
-    "weight": "52",
+    "weight": "38",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1611,7 +1611,7 @@
     "photos": ["manon_tasse_B4-a.jpg","manon_tasse_B4-b.jpg","manon_tasse_B4-c.jpg"],
     "price": "15",
     "stock": "1",
-    "weight": "45",
+    "weight": "40",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1695,7 +1695,7 @@
     "photos": ["melles-ceramique_gaiwan_1-a.jpg","melles-ceramique_gaiwan_1-b.jpg","melles-ceramique_gaiwan_1-c.jpg"],
     "price": "60",
     "stock": "3",
-    "weight": "315",
+    "weight": "200",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1737,7 +1737,7 @@
     "photos": ["perrine_bol_11-a.jpg","perrine_bol_11-b.jpg","perrine_bol_11-c.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "35",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1758,7 +1758,7 @@
     "photos": ["perrine_bol_24-a.jpg","perrine_bol_24-b.jpg","perrine_bol_24-c.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "35",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1779,7 +1779,7 @@
     "photos": ["perrine_bol_25-a.jpg","perrine_bol_25-b.jpg","perrine_bol_25-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "125",
+    "weight": "35",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1800,7 +1800,7 @@
     "photos": ["perrine_bol_26-a.jpg","perrine_bol_26-b.jpg","perrine_bol_26-c.jpg","perrine_bol_26-d.jpg"],
     "price": "25",
     "stock": "1",
-    "weight": "125",
+    "weight": "35",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1821,7 +1821,7 @@
     "photos": ["perrine_coupelle_32-a.jpg","perrine_coupelle_32-b.jpg","perrine_coupelle_32-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "125",
+    "weight": "34",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1842,7 +1842,7 @@
     "photos": ["perrine_coupelle_33-a.jpg","perrine_coupelle_33-b.jpg","perrine_coupelle_33-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "125",
+    "weight": "34",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1863,7 +1863,7 @@
     "photos": ["perrine_coupelle_34-a.jpg","perrine_coupelle_34-b.jpg","perrine_coupelle_34-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "125",
+    "weight": "34",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1884,7 +1884,7 @@
     "photos": ["perrine_coupelle_35-a.jpg","perrine_coupelle_35-b.jpg","perrine_coupelle_35-c.jpg"],
     "price": "35",
     "stock": "1",
-    "weight": "125",
+    "weight": "34",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1905,7 +1905,7 @@
     "photos": ["perrine_coupelle_37-a.jpg","perrine_coupelle_37-b.jpg","perrine_coupelle_37-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "125",
+    "weight": "34",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1926,7 +1926,7 @@
     "photos": ["perrine_porte-encens_10-a.jpg","perrine_porte-encens_10-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1947,7 +1947,7 @@
     "photos": ["perrine_porte-encens_12-a.jpg","perrine_porte-encens_12-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1968,7 +1968,7 @@
     "photos": ["perrine_porte-encens_13-a.jpg","perrine_porte-encens_13-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1989,7 +1989,7 @@
     "photos": ["perrine_porte-encens_14-a.jpg","perrine_porte-encens_14-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2010,7 +2010,7 @@
     "photos": ["perrine_porte-encens_15-a.jpg","perrine_porte-encens_15-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2031,7 +2031,7 @@
     "photos": ["perrine_porte-encens_16-a.jpg","perrine_porte-encens_16-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2052,7 +2052,7 @@
     "photos": ["perrine_porte-encens_18-a.jpg","perrine_porte-encens_18-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2073,7 +2073,7 @@
     "photos": ["perrine_porte-encens_19-a.jpg","perrine_porte-encens_19-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2094,7 +2094,7 @@
     "photos": ["perrine_porte-encens_1-a.jpg","perrine_porte-encens_1-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2115,7 +2115,7 @@
     "photos": ["perrine_porte-encens_20-a.jpg","perrine_porte-encens_20-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2136,7 +2136,7 @@
     "photos": ["perrine_porte-encens_21-a.jpg","perrine_porte-encens_21-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2157,7 +2157,7 @@
     "photos": ["perrine_porte-encens_22-a.jpg","perrine_porte-encens_22-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2178,7 +2178,7 @@
     "photos": ["perrine_porte-encens_3-a.jpg","perrine_porte-encens_3-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2199,7 +2199,7 @@
     "photos": ["perrine_porte-encens_4-a.jpg","perrine_porte-encens_4-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2220,7 +2220,7 @@
     "photos": ["perrine_porte-encens_5-a.jpg","perrine_porte-encens_5-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2241,7 +2241,7 @@
     "photos": ["perrine_porte-encens_6-a.jpg","perrine_porte-encens_6-b.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "125",
+    "weight": "12",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2262,7 +2262,7 @@
     "photos": ["perrine_cha-cang_30-a.jpg","perrine_cha-cang_30-b.jpg","perrine_cha-cang_30-c.jpg"],
     "price": "45",
     "stock": "1",
-    "weight": "125",
+    "weight": "142",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2283,7 +2283,7 @@
     "photos": ["perrine_cha-cang_31-a.jpg","perrine_cha-cang_31-b.jpg","perrine_cha-cang_31-c.jpg"],
     "price": "60",
     "stock": "1",
-    "weight": "125",
+    "weight": "165",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2304,7 +2304,7 @@
     "photos": ["perrine_vase_28-a.jpg","perrine_vase_28-b.jpg","perrine_vase_28-c.jpg"],
     "price": "40",
     "stock": "1",
-    "weight": "125",
+    "weight": "114",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -2325,7 +2325,7 @@
     "photos": ["perrine_cha-hai_40-a.jpg","perrine_cha-hai_40-b.jpg","perrine_cha-hai_40-c.jpg","perrine_cha-hai_40-d.jpg"],
     "price": "60",
     "stock": "1",
-    "weight": "125",
+    "weight": "63",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2346,7 +2346,7 @@
     "photos": ["set-de-voyage_1-a.jpg","set-de-voyage_1-b.jpg","set-de-voyage_1-c.jpg","set-de-voyage_1-d.jpg"],
     "price": "45",
     "stock": "16",
-    "weight": "550",
+    "weight": "453",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2367,7 +2367,7 @@
     "photos": ["serigraphie_b2t_a.jpg","serigraphie_b2t_b.jpg","serigraphie_b2t_c.jpg"],
     "price": "45",
     "stock": "77",
-    "weight": "125",
+    "weight": "25",
     
     "shipping_type": "tube",
     "shipping_point": "1"
@@ -2493,7 +2493,7 @@
     "photos": ["theiere-porcelaine-bois_T16-a.jpg","theiere-porcelaine-bois_T16-b.jpg","theiere-porcelaine-bois_T16-c.jpg","theiere-porcelaine-bois_T16-d.jpg"],
     "price": "250",
     "stock": "1",
-    "weight": "",
+    "weight": "159",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2514,7 +2514,7 @@
     "photos": ["theiere-porcelaine_T18-a.jpg","theiere-porcelaine_T18-b.jpg","theiere-porcelaine_T18-c.jpg"],
     "price": "70",
     "stock": "1",
-    "weight": "",
+    "weight": "68",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -2535,7 +2535,7 @@
     "photos": ["theiere-argile-main_T25-a.jpg","theiere-argile-main_T25-b.jpg","theiere-argile-main_T25-c.jpg","theiere-argile-main_T25-d.jpg"],
     "price": "200",
     "stock": "1",
-    "weight": "",
+    "weight": "426",
     
     "shipping_type": "colis_base",
     "shipping_point": "10"
