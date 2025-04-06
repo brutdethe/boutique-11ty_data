@@ -15,7 +15,7 @@
     "photos": ["gongfucha_affiche_1.jpg"],
     "price": "15",
     "stock": "70",
-    "weight": "125",
+    "weight": "50",
     
     "shipping_type": "tube",
     "shipping_point": "1"
@@ -36,7 +36,7 @@
     "photos": ["gongfucha_affiche_2.jpg"],
     "price": "15",
     "stock": "70",
-    "weight": "125",
+    "weight": "50",
     
     "shipping_type": "tube",
     "shipping_point": "1"
@@ -57,7 +57,7 @@
     "photos": ["gongfucha_affiche_3.jpg"],
     "price": "15",
     "stock": "70",
-    "weight": "125",
+    "weight": "50",
     
     "shipping_type": "tube",
     "shipping_point": "1"
@@ -183,7 +183,7 @@
     "photos": ["bol-ancien-kaki_J15-a.jpg","bol-ancien-kaki_J15-b.jpg","bol-ancien-kaki_J15-c.jpg"],
     "price": "50",
     "stock": "1",
-    "weight": "",
+    "weight": "77",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -204,7 +204,7 @@
     "photos": ["bol-ancien-kaki_J16-a.jpg","bol-ancien-kaki_J16-b.jpg","bol-ancien-kaki_J16-c.jpg"],
     "price": "50",
     "stock": "1",
-    "weight": "",
+    "weight": "77",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -225,7 +225,7 @@
     "photos": ["bol-ancien-kaki_J17-a.jpg","bol-ancien-kaki_J17-b.jpg","bol-ancien-kaki_J17-c.jpg"],
     "price": "50",
     "stock": "1",
-    "weight": "",
+    "weight": "77",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -246,7 +246,7 @@
     "photos": ["bol-ancien-lac_J1-a.jpg","bol-ancien-lac_J1-b.jpg","bol-ancien-lac_J1-c.jpg","bol-ancien-lac_J1-d.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "105",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -267,7 +267,7 @@
     "photos": ["bol-ancien-lac_J2-a.jpg","bol-ancien-lac_J2-b.jpg","bol-ancien-lac_J2-c.jpg","bol-ancien-lac_J2-d.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "105",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -288,7 +288,7 @@
     "photos": ["bol-ancien-lac_J3-a.jpg","bol-ancien-lac_J3-b.jpg","bol-ancien-lac_J3-c.jpg","bol-ancien-lac_J3-d.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "105",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -309,7 +309,7 @@
     "photos": ["bol-ancien-lac_J4-a.jpg","bol-ancien-lac_J4-b.jpg","bol-ancien-lac_J4-c.jpg","bol-ancien-lac_J4-d.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "105",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -477,7 +477,7 @@
     "photos": ["bol-celadon-fleur_T3T4-a.jpg","bol-celadon-fleur_T3T4-b.jpg","bol-celadon-fleur_T3T4-c.jpg"],
     "price": "100",
     "stock": "2",
-    "weight": "",
+    "weight": "103",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -498,7 +498,7 @@
     "photos": ["bol-argile-bois_T5-a.jpg","bol-argile-bois_T5-b.jpg","bol-argile-bois_T5-c.jpg"],
     "price": "80",
     "stock": "1",
-    "weight": "",
+    "weight": "126",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -519,7 +519,7 @@
     "photos": ["bol-argile-bois_T6-a.jpg","bol-argile-bois_T6-b.jpg","bol-argile-bois_T6-c.jpg"],
     "price": "50",
     "stock": "1",
-    "weight": "",
+    "weight": "85",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -540,7 +540,7 @@
     "photos": ["bol-argile-bois_T7-a.jpg","bol-argile-bois_T7-b.jpg","bol-argile-bois_T7-c.jpg","bol-argile-bois_T7-d.jpg"],
     "price": "50",
     "stock": "1",
-    "weight": "",
+    "weight": "86",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -561,7 +561,7 @@
     "photos": ["bol-argile-bois_T8-a.jpg","bol-argile-bois_T8-b.jpg","bol-argile-bois_T8-c.jpg","bol-argile-bois_T8-d.jpg"],
     "price": "180",
     "stock": "1",
-    "weight": "",
+    "weight": "109",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -750,7 +750,7 @@
     "photos": ["chahai-porcelaine_T21-a.jpg","chahai-porcelaine_T21-b.jpg","chahai-porcelaine_T21-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "71",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -771,7 +771,7 @@
     "photos": ["chahai-verre_T23-a.jpg","chahai-verre_T23-b.jpg","chahai-verre_T23-c.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "88",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -792,7 +792,7 @@
     "photos": ["chahai-verre_T24-a.jpg","chahai-verre_T24-b.jpg","chahai-verre_T24-c.jpg"],
     "price": "20",
     "stock": "1",
-    "weight": "",
+    "weight": "118",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1002,7 +1002,7 @@
     "photos": ["encens-cass-tan_T50-a.jpg"],
     "price": "18",
     "stock": "8",
-    "weight": "",
+    "weight": "38",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1023,7 +1023,7 @@
     "photos": ["encens-cass-chen_T51-a.jpg"],
     "price": "18",
     "stock": "8",
-    "weight": "",
+    "weight": "38",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1044,7 +1044,7 @@
     "photos": ["encens-cass-jiang_T52-a.jpg"],
     "price": "18",
     "stock": "8",
-    "weight": "",
+    "weight": "38",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1065,7 +1065,7 @@
     "photos": ["gaiwan-porcelaine-bois_T15-a.jpg","gaiwan-porcelaine-bois_T15-b.jpg","gaiwan-porcelaine-bois_T15-c.jpg","gaiwan-porcelaine-bois_T15-d.jpg"],
     "price": "200",
     "stock": "1",
-    "weight": "",
+    "weight": "182",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1086,7 +1086,7 @@
     "photos": ["gaiwan-verre_T22-a.jpg","gaiwan-verre_T22-b.jpg","gaiwan-verre_T22-c.jpg","gaiwan-verre_T22-d.jpg"],
     "price": "80",
     "stock": "1",
-    "weight": "",
+    "weight": "157",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1149,7 +1149,7 @@
     "photos": ["jerome_bol_A1-a.jpg","jerome_bol_A1-b.jpg"],
     "price": "18",
     "stock": "27",
-    "weight": "170",
+    "weight": "56",
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1170,7 +1170,7 @@
     "photos": ["jerome_theiere_2-a.jpg","jerome_theiere_2-b.jpg","jerome_theiere_2-c.jpg","jerome_theiere_2-d.jpg"],
     "price": "132",
     "stock": "1",
-    "weight": "220",
+    "weight": "133",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1191,7 +1191,7 @@
     "photos": ["jerome_theiere_3-a.jpg","jerome_theiere_3-b.jpg","jerome_theiere_3-c.jpg","jerome_theiere_3-d.jpg"],
     "price": "132",
     "stock": "1",
-    "weight": "230",
+    "weight": "133",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1212,7 +1212,7 @@
     "photos": ["jerome_theiere_4-a.jpg","jerome_theiere_4-b.jpg","jerome_theiere_4-c.jpg","jerome_theiere_4-d.jpg"],
     "price": "142",
     "stock": "1",
-    "weight": "220",
+    "weight": "133",
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2039,27 +2039,6 @@
 {
     "title": "perrine-pottiez - [object Object]",
     "permalinks": {
-      "fr": "/products/perrinepe17_xiangtuo-porte-encens/",
-      "en": "/en/products/perrinepe17_xiangtuo-porte-encens/"
-    },
-    "layout": "",
-    "id": "perrinepe17",
-    "name": {"fr":"香托 - XiāngTuō (porte-encens)","en":"Incense Holder - 香托 - XiāngTuō"},
-    "mini_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
-    "meta_descr": {"fr":"porte-encens cascade réalisé par Perrine Pottiez","en":"waterfall incense holder made by Perrine Pottiez"},
-    "tags": ["perrine-pottiez"],
-    "description": {"fr":"Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.\n","en":"Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.\n"},
-    "photos": ["perrine_porte-encens_17-a.jpg","perrine_porte-encens_17-b.jpg"],
-    "price": "20",
-    "stock": "1",
-    "weight": "125",
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "title": "perrine-pottiez - [object Object]",
-    "permalinks": {
       "fr": "/products/perrinepe18_xiangtuo-porte-encens/",
       "en": "/en/products/perrinepe18_xiangtuo-porte-encens/"
     },
@@ -2745,7 +2724,7 @@
     "photos": ["xiangpan_T40-a.jpg","xiangpan_T40-b.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "178",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -2766,7 +2745,7 @@
     "photos": ["xiangpan_T41-a.jpg","xiangpan_T41-b.jpg"],
     "price": "30",
     "stock": "1",
-    "weight": "",
+    "weight": "139",
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
