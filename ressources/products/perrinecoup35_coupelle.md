@@ -18,7 +18,7 @@ photos:
   - perrine_coupelle_35-c.jpg
 price: 35.00
 stock: 1
-weight: 125
+weight: 34
 shipping_type: colis_base
 shipping_point: 5
 options:

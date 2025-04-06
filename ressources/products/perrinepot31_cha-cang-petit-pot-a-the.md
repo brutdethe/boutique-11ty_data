@@ -18,7 +18,7 @@ photos:
   - perrine_cha-cang_31-c.jpg
 price: 60.00
 stock: 1
-weight: 125
+weight: 165
 shipping_type: colis_base
 shipping_point: 5
 options:

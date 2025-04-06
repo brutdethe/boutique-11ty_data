@@ -19,7 +19,7 @@ photos:
   - theiere-porcelaine-bois_T16-d.jpg
 price: 250.00
 stock: 1
-weight:
+weight: 159
 shipping_type: colis_base
 shipping_point: 5
 options:

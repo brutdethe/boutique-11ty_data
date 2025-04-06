@@ -18,7 +18,7 @@ photos:
   - melles-ceramique_gaiwan_1-c.jpg
 price: 60.00
 stock: 3
-weight: 315
+weight: 200
 shipping_type: colis_base
 shipping_point: 5
 options:

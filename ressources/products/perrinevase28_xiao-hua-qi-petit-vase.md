@@ -18,7 +18,7 @@ photos:
   - perrine_vase_28-c.jpg
 price: 40.00
 stock: 1
-weight: 125
+weight: 114
 shipping_type: colis_base
 shipping_point: 3
 options:

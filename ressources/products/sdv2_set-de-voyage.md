@@ -19,7 +19,7 @@ photos:
   - set-de-voyage_1-d.jpg
 price: 45.00
 stock: 16
-weight: 550
+weight: 453
 shipping_type: colis_base
 shipping_point: 5
 options:

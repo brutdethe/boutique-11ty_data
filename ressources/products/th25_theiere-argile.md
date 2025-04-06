@@ -19,7 +19,7 @@ photos:
   - theiere-argile-main_T25-d.jpg
 price: 200.00
 stock: 1
-weight:
+weight: 426
 shipping_type: colis_base
 shipping_point: 10
 options:

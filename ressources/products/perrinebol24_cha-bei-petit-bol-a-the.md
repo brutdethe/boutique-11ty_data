@@ -18,7 +18,7 @@ photos:
   - perrine_bol_24-c.jpg
 price: 20.00
 stock: 1
-weight: 125
+weight: 35
 shipping_type: colis_base
 shipping_point: 2
 options:

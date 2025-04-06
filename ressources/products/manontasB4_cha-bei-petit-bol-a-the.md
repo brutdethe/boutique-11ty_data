@@ -18,7 +18,7 @@ photos:
   - manon_tasse_B4-c.jpg
 price: 15.00
 stock: 1
-weight: 45
+weight: 40
 shipping_type: colis_base
 shipping_point: 2
 options:

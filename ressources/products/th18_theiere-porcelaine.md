@@ -18,7 +18,7 @@ photos:
   - theiere-porcelaine_T18-c.jpg
 price: 70.00
 stock: 1
-weight:
+weight: 68
 shipping_type: colis_base
 shipping_point: 3
 options:
