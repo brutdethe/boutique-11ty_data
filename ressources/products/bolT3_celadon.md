@@ -18,7 +18,7 @@ photos:
   - bol-celadon-fleur_T3T4-c.jpg
 price: 100
 stock: 2
-weight:
+weight: 103
 shipping_type: colis_base
 shipping_point: 3
 options:

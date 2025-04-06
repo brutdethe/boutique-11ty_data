@@ -18,7 +18,7 @@ photos:
   - chahai-porcelaine_T21-c.jpg
 price: 30
 stock: 1
-weight:
+weight: 71
 shipping_type: colis_base
 shipping_point: 3
 options:

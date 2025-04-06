@@ -17,7 +17,7 @@ photos:
   - encens-cass-chen_T51-a.jpg
 price: 18
 stock: 8
-weight:
+weight: 38
 shipping_type: colis_base
 shipping_point: 2
 options:

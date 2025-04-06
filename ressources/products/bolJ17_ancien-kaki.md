@@ -18,7 +18,7 @@ photos:
   - bol-ancien-kaki_J17-c.jpg
 price: 50
 stock: 1
-weight:
+weight: 77
 shipping_type: colis_base
 shipping_point: 3
 options:

@@ -18,7 +18,7 @@ photos:
   - chahai-verre_T23-c.jpg
 price: 30
 stock: 1
-weight:
+weight: 88
 shipping_type: colis_base
 shipping_point: 3
 options:

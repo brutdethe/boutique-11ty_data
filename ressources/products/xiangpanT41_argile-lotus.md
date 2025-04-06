@@ -21,7 +21,7 @@ photos:
   - xiangpan_T41-b.jpg
 price: 30
 stock: 1
-weight:
+weight: 139
 shipping_type: colis_base
 shipping_point: 3
 options:

@@ -19,7 +19,7 @@ photos:
   - gaiwan-porcelaine-bois_T15-d.jpg
 price: 200.00
 stock: 1
-weight:
+weight: 182
 shipping_type: colis_base
 shipping_point: 5
 options:

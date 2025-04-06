@@ -18,7 +18,7 @@ photos:
   - encens-cass-tan_T50-a.jpg
 price: 18
 stock: 8
-weight:
+weight: 38
 shipping_type: colis_base
 shipping_point: 2
 options:

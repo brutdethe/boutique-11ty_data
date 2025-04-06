@@ -19,7 +19,7 @@ photos:
   - bol-argile-bois_T8-d.jpg
 price: 180
 stock: 1
-weight:
+weight: 109
 shipping_type: colis_base
 shipping_point: 3
 options:

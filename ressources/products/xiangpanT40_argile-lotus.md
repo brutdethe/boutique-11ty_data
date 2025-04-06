@@ -17,7 +17,7 @@ photos:
   - xiangpan_T40-b.jpg
 price: 30
 stock: 1
-weight:
+weight: 178
 shipping_type: colis_base
 shipping_point: 3
 options:

@@ -19,7 +19,7 @@ photos:
   - bol-ancien-lac_J1-d.jpg
 price: 30
 stock: 1
-weight:
+weight: 105
 shipping_type: colis_base
 shipping_point: 3
 options:

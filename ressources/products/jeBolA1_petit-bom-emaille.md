@@ -17,7 +17,7 @@ photos:
   - jerome_bol_A1-b.jpg
 price: 18.00
 stock: 27
-weight: 170
+weight: 56
 shipping_type: colis_base
 shipping_point: 2
 options:

@@ -19,7 +19,7 @@ photos:
   - jerome_theiere_3-d.jpg
 price: 132.00
 stock: 1
-weight: 230
+weight: 133
 shipping_type: colis_base
 shipping_point: 5
 options:

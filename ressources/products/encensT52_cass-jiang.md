@@ -20,7 +20,7 @@ photos:
   - encens-cass-jiang_T52-a.jpg
 price: 18
 stock: 8
-weight:
+weight: 38
 shipping_type: colis_base
 shipping_point: 2
 options:

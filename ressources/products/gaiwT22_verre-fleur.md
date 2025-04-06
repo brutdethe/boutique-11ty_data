@@ -19,7 +19,7 @@ photos:
   - gaiwan-verre_T22-d.jpg
 price: 80.00
 stock: 1
-weight:
+weight: 157
 shipping_type: colis_base
 shipping_point: 5
 options:

@@ -18,7 +18,7 @@ photos:
   - bol-argile-bois_T5-c.jpg
 price: 80
 stock: 1
-weight:
+weight: 126
 shipping_type: colis_base
 shipping_point: 3
 options:

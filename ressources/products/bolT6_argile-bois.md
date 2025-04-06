@@ -18,7 +18,7 @@ photos:
   - bol-argile-bois_T6-c.jpg
 price: 50
 stock: 1
-weight:
+weight: 85
 shipping_type: colis_base
 shipping_point: 3
 options:
