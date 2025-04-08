@@ -4,7 +4,6 @@ permalink: products.json
 [ 
 {% for product in collections.products -%}
 {
-    "title": "{{ product.data.title }}",
     "permalinks": {
       "fr": "/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/",
       "en": "/en/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/"
