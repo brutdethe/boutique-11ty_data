@@ -14,12 +14,12 @@ meta_descr:
 tags: ["festival", "welcome"]
 description: 
     fr: >
-        Ce billet vous donne accès aux trois jours du Festival GōngFūChá - 工夫茶. L’entrée au Parc aux Bambous, les concerts, ateliers, démonstrations, espaces de rencontre sont inclus.  
+        Ce billet vous donne accès aux trois jours du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr). L’entrée au Parc aux Bambous, les concerts, ateliers, démonstrations, espaces de rencontre sont inclus.<!--more-->
         L’occasion de rencontrer les personnes exposantes, artisanes et passionnées qui font vivre le festival.  
         Nous vous offrons l'affiche de cette édition. 
         Et, le soir, quand le parc ferme, vous pourrez rester avec nous.  Discuter, boire un thé, prolonger la journée, sans se presser.
     en: >
-        This ticket gives you access to all three days of the GōngFūChá - 工夫茶 Festival.  Entry to the Parc aux Bambous, concerts, workshops, demonstrations, and meeting spaces is all included.  
+        This ticket gives you access to all three days of the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr).  Entry to the Parc aux Bambous, concerts, workshops, demonstrations, and meeting spaces is all included.<!--more-->  
         A chance to connect with the exhibitors, artisans, and tea lovers who bring the festival to life. We’ll also be offering you this year’s festival poster.  
         And in the evening, when the park closes, you’re welcome to stay a little longer with us — chat, share some tea, let the day wind down gently.
 photos:

@@ -14,13 +14,13 @@ meta_descr:
 tags: ["festival"]
 description: 
     fr: >
-      Ce billet vous permet de participer à la journée du samedi 28 juin au Festival de Thé GōngFūChá - 工夫茶.  
-      Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.  
+      Ce billet vous permet de participer à la journée du samedi 28 juin au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).  
+      Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.<!--more-->  
       Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.  
       À très bientôt, Hâte de vous rencontrer ! ;)
     en: >
-      This ticket gives you access to the GōngFūChá - 工夫茶 Tea Festival on Saturday, June 28th.  
-      It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.  
+      This ticket gives you access to the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr) on Saturday, June 28th.  
+      It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.<!--more-->  
       A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.  
       We look forward to seeing you soon! :)
 photos:

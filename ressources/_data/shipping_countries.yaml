@@ -116,7 +116,7 @@
   iso: BN
 - fr: Bulgarie
   en: Bulgaria
-  zone: ZoneB
+  zone: ZoneA
   iso: BG
 - fr: Burkina Faso
   en: Burkina Faso
@@ -228,7 +228,7 @@
   iso: ES
 - fr: Estonie
   en: Estonia
-  zone: ZoneB
+  zone: ZoneA
   iso: EE
 - fr: Eswatini
   en: Eswatini
@@ -312,7 +312,7 @@
   iso: HN
 - fr: Hongrie
   en: Hungary
-  zone: ZoneB
+  zone: ZoneA
   iso: HU
 - fr: Îles Marshall
   en: Marshall Islands
@@ -392,7 +392,7 @@
   iso: LS
 - fr: Lettonie
   en: Latvia
-  zone: ZoneB
+  zone: ZoneA
   iso: LV
 - fr: Liban
   en: Lebanon
@@ -408,11 +408,11 @@
   iso: LY
 - fr: Liechtenstein
   en: Liechtenstein
-  zone: ZoneB
+  zone: ZoneA
   iso: LI
 - fr: Lituanie
   en: Lithuania
-  zone: ZoneB
+  zone: ZoneA
   iso: LT
 - fr: Luxembourg
   en: Luxembourg
@@ -544,6 +544,7 @@
   iso: PW
 - fr: Palestine
   en: Palestine
+  zone: ZoneC
   iso: PS
 - fr: Panama
   en: Panama
@@ -571,7 +572,7 @@
   iso: PH
 - fr: Pologne
   en: Poland
-  zone: ZoneB
+  zone: ZoneA
   iso: PL
 - fr: Polynésie française
   en: French Polynesia
@@ -595,11 +596,11 @@
   iso: DO
 - fr: République tchèque
   en: Czech Republic
-  zone: ZoneB
+  zone: ZoneA
   iso: CZ
 - fr: Roumanie
   en: Romania
-  zone: ZoneB
+  zone: ZoneA
   iso: RO
 - fr: Royaume-Uni
   en: United Kingdom
@@ -607,7 +608,7 @@
   iso: GB
 - fr: Russie
   en: Russia
-  zone: ZoneB
+  zone: ZoneC
   iso: RU
 - fr: Rwanda
   en: Rwanda
@@ -675,11 +676,11 @@
   iso: SG
 - fr: Slovaquie
   en: Slovakia
-  zone: ZoneB
+  zone: ZoneA
   iso: SK
 - fr: Slovénie
   en: Slovenia
-  zone: ZoneB
+  zone: ZoneA
   iso: SI
 - fr: Somalie
   en: Somalia
@@ -729,10 +730,6 @@
   en: Chad
   zone: ZoneC
   iso: TD
-- fr: République tchèque
-  en: Czech Republic
-  zone: ZoneB
-  iso: CZ
 - fr: Thaïlande
   en: Thailand
   zone: ZoneC
@@ -783,7 +780,7 @@
   iso: VU
 - fr: Vatican
   en: Vatican City
-  zone: ZoneB
+  zone: ZoneA
   iso: VA
 - fr: Venezuela
   en: Venezuela

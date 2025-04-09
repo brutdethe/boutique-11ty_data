@@ -12,9 +12,9 @@ meta_descr:
 tags: ["benhito"]
 description: 
     fr: >
-        Une affiche du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.
+        Une affiche du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr). Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.
     en: >
-        One poster for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.
+        One poster for the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr). Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.
 photos:
     - gongfucha_affiche_2.jpg
 price: 15.00
