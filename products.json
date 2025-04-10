@@ -76,6 +76,8 @@
     "stock": "1",
     "weight": "62",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"7,1cm x 4cm","capacité":"55 ml"},"en":{"origin":"Japon","dimensions":"7,1cm x 4cm","capacity":"55 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -95,6 +97,8 @@
     "price": "20",
     "stock": "1",
     "weight": "62",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"6,9cm x 4,1cm","capacité":"60 ml"},"en":{"origin":"Japon","dimensions":"6,9cm x 4,1cm","capacity":"60 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -116,6 +120,8 @@
     "stock": "1",
     "weight": "100",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"8,2cm x 4,4cm","capacité":"90 ml"},"en":{"origin":"Japon","dimensions":"8,2cm x 4,4cm","capacity":"90 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -135,6 +141,8 @@
     "price": "25",
     "stock": "1",
     "weight": "120",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"8,4cm x 4,4cm","capacité":"130 ml"},"en":{"origin":"Japon","dimensions":"8,4cm x 4,4cm","capacity":"130 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -156,6 +164,8 @@
     "stock": "1",
     "weight": "77",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"7,5cm x 6cm","capacité":"95 ml"},"en":{"origin":"Japon","dimensions":"7,5cm x 6cm","capacity":"95 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -175,6 +185,8 @@
     "price": "50",
     "stock": "1",
     "weight": "77",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"7,5cm x 6cm","capacité":"95 ml"},"en":{"origin":"Japon","dimensions":"7,5cm x 6cm","capacity":"95 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -196,6 +208,8 @@
     "stock": "1",
     "weight": "77",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"7,5cm x 6cm","capacité":"95 ml"},"en":{"origin":"Japon","dimensions":"7,5cm x 6cm","capacity":"95 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -215,6 +229,8 @@
     "price": "30",
     "stock": "1",
     "weight": "105",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"8,3cm x 3,7cm","capacité":"60 ml"},"en":{"origin":"Japon","dimensions":"8,3cm x 3,7m","capacity":"60 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -236,6 +252,8 @@
     "stock": "1",
     "weight": "105",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"8cm x 3,9cm","capacité":"60 ml"},"en":{"origin":"Japon","dimensions":"8cm x 3,9m","capacity":"60 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -255,6 +273,8 @@
     "price": "30",
     "stock": "1",
     "weight": "105",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"8,3cm x 4,1cm","capacité":"70 ml"},"en":{"origin":"Japon","dimensions":"8,3cm x 4,1m","capacity":"70 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -276,6 +296,8 @@
     "stock": "1",
     "weight": "105",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"8,6cm x 4,7cm","capacité":"75 ml"},"en":{"origin":"Japon","dimensions":"8,6cm x 4,7m","capacity":"75 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -295,6 +317,8 @@
     "price": "25",
     "stock": "1",
     "weight": "26",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"6cm x 2,5cm","capacité":"26 ml"},"en":{"origin":"Japon","dimensions":"6cm x 2,5m","capacity":"26 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -316,6 +340,8 @@
     "stock": "1",
     "weight": "32",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"6cm x 2,5cm","capacité":"29 ml"},"en":{"origin":"Japon","dimensions":"6cm x 2,5m","capacity":"29 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -335,6 +361,8 @@
     "price": "25",
     "stock": "1",
     "weight": "37",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"6,3cm x 2,6cm","capacité":"34 ml"},"en":{"origin":"Japon","dimensions":"6,3cm x 2,6cm","capacity":"34 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -356,6 +384,8 @@
     "stock": "1",
     "weight": "110",
     
+        "options": {"fr":{"origine":"Japon","dimensions":"6,6cm x 5,3cm","capacité":"100 ml"},"en":{"origin":"Japon","dimensions":"6,6cm x 5,3cm","capacity":"100 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -375,6 +405,8 @@
     "price": "40",
     "stock": "1",
     "weight": "76",
+    
+        "options": {"fr":{"origine":"Japon","dimensions":"6,3cm x 4,2cm","capacité":"80 ml"},"en":{"origin":"Japon","dimensions":"6,3cm x 4,2cm","capacity":"80 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -396,6 +428,8 @@
     "stock": "1",
     "weight": "85",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"5,5cm x 3,5cm","capacité":"25 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"5,5cm x 3,5cm","capacity":"25 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -415,6 +449,8 @@
     "price": "70",
     "stock": "1",
     "weight": "80",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"5,6cm x 3cm","capacité":"25 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"5,6cm x 3cm","capacity":"25 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -436,6 +472,8 @@
     "stock": "2",
     "weight": "103",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8cm x 3,5cm","capacité":"50 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8cm x 3,5cm","capacity":"50 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -455,6 +493,8 @@
     "price": "80",
     "stock": "1",
     "weight": "126",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8,3cm x 6,3cm","capacité":"100 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8,3cm x 6,3cm","capacity":"100 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -476,6 +516,8 @@
     "stock": "1",
     "weight": "85",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8cm x 3,7cm","capacité":"70 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8cm x 3,7cm","capacity":"70 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -495,6 +537,8 @@
     "price": "50",
     "stock": "1",
     "weight": "86",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8,3cm x 3,9cm","capacité":"70 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8,3cm x 3,9cm","capacity":"70 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -516,6 +560,8 @@
     "stock": "1",
     "weight": "109",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"7cm x 5,3cm","capacité":"140 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"7cm x 5,3cm","capacity":"140 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -535,6 +581,8 @@
     "price": "130",
     "stock": "1",
     "weight": "160",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8,5cm x 6,6cm","capacité":"200 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8,5cm x 6,6cm","capacity":"200 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -556,6 +604,8 @@
     "stock": "1",
     "weight": "155",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8cm x 7cm","capacité":"160 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8cm x 7cm","capacity":"160 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -575,6 +625,8 @@
     "price": "200",
     "stock": "1",
     "weight": "175",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"9cm x 8cm","capacité":"200 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"9cm x 8cm","capacity":"200 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -596,6 +648,8 @@
     "stock": "1",
     "weight": "187",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"8,8cm x 7,5cm","capacité":"190 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"8,8cm x 7,5cm","capacity":"190 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -615,6 +669,8 @@
     "price": "40",
     "stock": "1",
     "weight": "120",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"6cm x 6,5cm"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"6cm x 6,5cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -636,6 +692,8 @@
     "stock": "1",
     "weight": "120",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"6cm x 6,5cm"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"6cm x 6,5cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -655,6 +713,8 @@
     "price": "20",
     "stock": "1",
     "weight": "90",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"4,8cm x 5,5cm"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"4,8cm x 5,5cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -676,6 +736,8 @@
     "stock": "1",
     "weight": "215",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"260 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"260 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -695,6 +757,8 @@
     "price": "30",
     "stock": "1",
     "weight": "71",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"5cm x 6cm","capacité":"100 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"5cm x 6cm","capacity":"100 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -716,6 +780,8 @@
     "stock": "1",
     "weight": "88",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"6,7cm x 6,5cm","capacité":"125 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"6,7cm x 6,5cm","capacity":"125 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -735,6 +801,8 @@
     "price": "20",
     "stock": "1",
     "weight": "118",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"7cm x 8cm","capacité":"300 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"7cm x 8cm","capacity":"300 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -756,6 +824,8 @@
     "stock": "2",
     "weight": "112",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"170 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"170 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -775,6 +845,8 @@
     "price": "20",
     "stock": "1",
     "weight": "112",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"170 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"170 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -796,6 +868,8 @@
     "stock": "1",
     "weight": "120",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"100 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"100 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -815,6 +889,8 @@
     "price": "20",
     "stock": "1",
     "weight": "90",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"125 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"125 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -936,6 +1012,8 @@
     "stock": "8",
     "weight": "38",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","longeur":"10,5cm","volume":"environ 46 tiges","durée":"environ 32 min par tige"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","length":"10,5cm","quantity":"approximately 46 sticks","burn time":"around 32 minutes per stick"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -955,6 +1033,8 @@
     "price": "18",
     "stock": "8",
     "weight": "38",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","longeur":"10,5cm","volume":"environ 54 tiges","durée":"environ 20 min par tige"},"en":{"origin":"臺灣 - Táiwān","length":"10,5cm","quantity":"approximately 54 sticks","burn time":"around 20 minutes per stick"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -976,6 +1056,8 @@
     "stock": "8",
     "weight": "38",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","longeur":"10,5cm","volume":"environ 46 tiges","durée":"environ 32 min par tige"},"en":{"origin":"臺灣 - Táiwān","length":"10,5cm","quantity":"approximately 46 sticks","burn time":"around 32 minutes per stick"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -995,6 +1077,8 @@
     "price": "200",
     "stock": "1",
     "weight": "182",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"140 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"140 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1016,6 +1100,8 @@
     "stock": "1",
     "weight": "157",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","dimensions":"9,5cm x 9cm","capacité":"210 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","dimensions":"9,5cm x 9cm","capacity":"210 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1035,6 +1121,8 @@
     "price": "30",
     "stock": "1",
     "weight": "190",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"90 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"90 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1056,6 +1144,8 @@
     "stock": "10",
     "weight": "125",
     
+        "options": {"fr":{"récolte":"printemps 2023","type":"红茶 - HóngChá","village":"三峡 - SānXiá","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"红茶 - HóngChá (black tea)","village":"三峡 - SānXiá","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1075,6 +1165,8 @@
     "price": "18",
     "stock": "27",
     "weight": "56",
+    
+        "options": {"fr":{"capacité":"50ml"},"en":{"capacity":"50ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1096,6 +1188,8 @@
     "stock": "1",
     "weight": "133",
     
+        "options": {"fr":{"capacité":"100ml"},"en":{"capacity":"100ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1115,6 +1209,8 @@
     "price": "132",
     "stock": "1",
     "weight": "133",
+    
+        "options": {"fr":{"capacité":"100ml"},"en":{"capacity":"100ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1136,6 +1232,8 @@
     "stock": "1",
     "weight": "133",
     
+        "options": {"fr":{"capacité":"80ml"},"en":{"capacity":"80ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1155,6 +1253,8 @@
     "price": "15",
     "stock": "10",
     "weight": "125",
+    
+        "options": {"fr":{"récolte":"printemps 2023","cultivar":"青心柑仔 - QīngXīn GānZǐ","type":"綠茶 - LǜChá","village":"三峡 - SānXiá","province":"台灣 - TáiWān","producteur":"Monsieur 李- Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","cultivar":"青心柑仔 - QīngXīn GānZǐ","type":"綠茶 - LǜChá (green tea)","village":"三峡 - SānXiá","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李- Lǐ","weight":"25g"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1176,6 +1276,8 @@
     "stock": "10",
     "weight": "125",
     
+        "options": {"fr":{"récolte":"printemps 2023","type":"綠茶 - LǜChá","village":"白鹿村 - BáiLùCūn","province":"四川 - SìChuān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"綠茶 - LǜChá (green tea)","village":"白鹿村 - BáiLùCūn","province":"四川 - SìChuān (Sichuan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1195,6 +1297,8 @@
     "price": "50",
     "stock": "1",
     "weight": "145",
+    
+        "options": {"fr":{"dimensions":"9cm x 5cm","capacité":"115ml"},"en":{"dimensions":"9cm x 5cm","capacity":"115ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -1216,6 +1320,8 @@
     "stock": "1",
     "weight": "97",
     
+        "options": {"fr":{"dimensions":"9cm x 4cm","capacité":"50ml"},"en":{"dimensions":"9cm x 4cm","capacity":"50ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -1235,6 +1341,8 @@
     "price": "50",
     "stock": "1",
     "weight": "125",
+    
+        "options": {"fr":{"dimensions":"9,5cm x 5cm","capacité":"100ml"},"en":{"dimensions":"9.5cm x 5cm","capacity":"100ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -1256,6 +1364,8 @@
     "stock": "1",
     "weight": "35",
     
+        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"30ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"30ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1275,6 +1385,8 @@
     "price": "15",
     "stock": "1",
     "weight": "38",
+    
+        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"40ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"40ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1296,6 +1408,8 @@
     "stock": "1",
     "weight": "38",
     
+        "options": {"fr":{"dimensions":"7cm x 4cm","capacité":"60ml"},"en":{"dimensions":"7cm x 4cm","capacity":"60ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1315,6 +1429,8 @@
     "price": "15",
     "stock": "1",
     "weight": "40",
+    
+        "options": {"fr":{"dimensions":"7cm x 3,5cm","capacité":"50ml"},"en":{"dimensions":"7cm x 3.5cm","capacity":"50ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1336,6 +1452,8 @@
     "stock": "1",
     "weight": "42",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"45ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"45ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1355,6 +1473,8 @@
     "price": "15",
     "stock": "1",
     "weight": "35",
+    
+        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"30ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"30ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1376,6 +1496,8 @@
     "stock": "1",
     "weight": "42",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"35ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1395,6 +1517,8 @@
     "price": "15",
     "stock": "1",
     "weight": "41",
+    
+        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1416,6 +1540,8 @@
     "stock": "1",
     "weight": "38",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3cm","capacité":"50ml"},"en":{"dimensions":"6.5cm x 3cm","capacity":"50ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1435,6 +1561,8 @@
     "price": "15",
     "stock": "1",
     "weight": "40",
+    
+        "options": {"fr":{"dimensions":"6cm x 3cm","capacité":"35ml"},"en":{"dimensions":"6cm x 3cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1456,6 +1584,8 @@
     "stock": "1",
     "weight": "44",
     
+        "options": {"fr":{"dimensions":"6,5cm x 4cm","capacité":"30ml"},"en":{"dimensions":"6.5cm x 4cm","capacity":"30ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1475,6 +1605,8 @@
     "price": "15",
     "stock": "1",
     "weight": "37",
+    
+        "options": {"fr":{"dimensions":"6cm x 4cm","capacité":"40ml"},"en":{"dimensions":"6cm x 4cm","capacity":"40ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1496,6 +1628,8 @@
     "stock": "1",
     "weight": "40",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"45ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"45ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1515,6 +1649,8 @@
     "price": "15",
     "stock": "1",
     "weight": "38",
+    
+        "options": {"fr":{"dimensions":"6,5cm x 4cm","capacité":"30ml"},"en":{"dimensions":"6.5cm x 4cm","capacity":"30ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1536,6 +1672,8 @@
     "stock": "1",
     "weight": "36",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"28ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"35ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1555,6 +1693,8 @@
     "price": "15",
     "stock": "1",
     "weight": "35",
+    
+        "options": {"fr":{"dimensions":"6,5cm x 3cm","capacité":"35ml"},"en":{"dimensions":"6.5cm x 3cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1576,6 +1716,8 @@
     "stock": "3",
     "weight": "200",
     
+        "options": {"fr":{"capacité":"90ml"},"en":{"capacity":"90ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1595,6 +1737,8 @@
     "price": "200",
     "stock": "1",
     "weight": "300",
+    
+        "options": {"fr":{"capacité":"100ml"},"en":{"capacity":"100ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "6"
@@ -1616,6 +1760,8 @@
     "stock": "1",
     "weight": "35",
     
+        "options": {"fr":{"dimensions":"6cm x 3cm","capacité":"30ml"},"en":{"dimensions":"6cm x 3cm","capacity":"30ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1635,6 +1781,8 @@
     "price": "20",
     "stock": "1",
     "weight": "35",
+    
+        "options": {"fr":{"dimensions":"7cm x 3cm","capacité":"35ml"},"en":{"dimensions":"7cm x 3cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1656,6 +1804,8 @@
     "stock": "1",
     "weight": "35",
     
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"70ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"70ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1675,6 +1825,8 @@
     "price": "25",
     "stock": "1",
     "weight": "35",
+    
+        "options": {"fr":{"dimensions":"5cm x 5,5cm","capacité":"90ml"},"en":{"dimensions":"5cm x 5.5cm","capacity":"90ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1696,6 +1848,8 @@
     "stock": "1",
     "weight": "34",
     
+        "options": {"fr":{"dimensions":"10cm x 1,5cm"},"en":{"dimensions":"10cm x 1.5cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1715,6 +1869,8 @@
     "price": "30",
     "stock": "1",
     "weight": "34",
+    
+        "options": {"fr":{"dimensions":"9,5cm x 2cm"},"en":{"dimensions":"9.5cm x 2cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1736,6 +1892,8 @@
     "stock": "1",
     "weight": "34",
     
+        "options": {"fr":{"dimensions":"10cm x 1,5cm"},"en":{"dimensions":"10cm x 1.5cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1755,6 +1913,8 @@
     "price": "35",
     "stock": "1",
     "weight": "34",
+    
+        "options": {"fr":{"dimensions":"8,5cm x 2cm"},"en":{"dimensions":"8.5cm x 2cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -1776,6 +1936,8 @@
     "stock": "1",
     "weight": "34",
     
+        "options": {"fr":{"dimensions":"10cm x 1,5cm"},"en":{"dimensions":"10cm x 1.5cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -1795,6 +1957,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1816,6 +1980,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1835,6 +2001,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"9cm x 4cm"},"en":{"dimensions":"9cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1856,6 +2024,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1875,6 +2045,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1896,6 +2068,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"7cm x 4cm"},"en":{"dimensions":"7cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1915,6 +2089,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"10cm x 4cm"},"en":{"dimensions":"10cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1936,6 +2112,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"9cm x 4cm"},"en":{"dimensions":"9cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1955,6 +2133,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"9cm x 4cm"},"en":{"dimensions":"9cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1976,6 +2156,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -1995,6 +2177,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2016,6 +2200,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -2035,6 +2221,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"8cm x 4cm"},"en":{"dimensions":"8cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2056,6 +2244,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"10cm x 4cm"},"en":{"dimensions":"10cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -2075,6 +2265,8 @@
     "price": "20",
     "stock": "1",
     "weight": "12",
+    
+        "options": {"fr":{"dimensions":"10cm x 4cm"},"en":{"dimensions":"10cm x 4cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2096,6 +2288,8 @@
     "stock": "1",
     "weight": "12",
     
+        "options": {"fr":{"dimensions":"11cm x 4cm"},"en":{"dimensions":"11cm x 4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -2115,6 +2309,8 @@
     "price": "45",
     "stock": "1",
     "weight": "142",
+    
+        "options": {"fr":{"dimensions":"7cm x 6cm","capacité":"186ml"},"en":{"dimensions":"7cm x 6cm","capacity":"186ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2136,6 +2332,8 @@
     "stock": "1",
     "weight": "165",
     
+        "options": {"fr":{"dimensions":"6cm x 9cm","capacité":"122ml"},"en":{"dimensions":"6cm x 9cm","capacity":"122ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -2155,6 +2353,8 @@
     "price": "40",
     "stock": "1",
     "weight": "114",
+    
+        "options": {"fr":{"dimensions":"4cm x 9cm","capacité":"80ml"},"en":{"dimensions":"4cm x 9cm","capacity":"80ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
@@ -2176,6 +2376,8 @@
     "stock": "1",
     "weight": "63",
     
+        "options": {"fr":{"dimensions":"10cm x 5cm","capacité":"120ml"},"en":{"dimensions":"10cm x 5cm","capacity":"120ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "5"
   },
@@ -2195,6 +2397,8 @@
     "price": "45",
     "stock": "16",
     "weight": "453",
+    
+        "options": {"fr":{"capacité":"110 ml"},"en":{"capacity":"110 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2236,6 +2440,8 @@
     "stock": "1",
     "weight": "295",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"350 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"350 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "10"
   },
@@ -2255,6 +2461,8 @@
     "price": "250",
     "stock": "1",
     "weight": "285",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"345 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"345 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "10"
@@ -2276,6 +2484,8 @@
     "stock": "1",
     "weight": "375",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"400 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"400 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "10"
   },
@@ -2295,6 +2505,8 @@
     "price": "150",
     "stock": "1",
     "weight": "195",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"250 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"250 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "10"
@@ -2316,6 +2528,8 @@
     "stock": "1",
     "weight": "275",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"300 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"300 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "10"
   },
@@ -2335,6 +2549,8 @@
     "price": "250",
     "stock": "1",
     "weight": "159",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"200 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"200 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2356,6 +2572,8 @@
     "stock": "1",
     "weight": "68",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"75 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"75 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -2376,6 +2594,8 @@
     "stock": "1",
     "weight": "426",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"550 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"550 ml"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "10"
   },
@@ -2395,6 +2615,8 @@
     "price": "180",
     "stock": "1",
     "weight": "235",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"220 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"220 ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
@@ -2496,6 +2718,8 @@
     "stock": "2",
     "weight": "125",
     
+        "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"2000m","village":"臺中 - TáiZhōng","province":"台灣 - TáiWān","producteur":"Madame 喻 - Yù","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"2000m","village":"臺中 - TáiZhōng","province":"台灣 - TáiWān (Taiwan)","producer":"Mrs. 喻 - Yù","weight":"25g"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -2515,6 +2739,8 @@
     "price": "15",
     "stock": "9",
     "weight": "125",
+    
+        "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -2536,6 +2762,8 @@
     "stock": "9",
     "weight": "125",
     
+        "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān","producteur":"Madame 喻 - Yù","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān (Taiwan)","producer":"Mrs. 喻 - Yù","weight":"25g"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "2"
   },
@@ -2556,6 +2784,8 @@
     "stock": "1",
     "weight": "178",
     
+        "options": {"fr":{"origine":"臺灣 - Táiwān","largeur":"5,7cm","longeur":"21,4cm"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","width":"5.7cm","length":"21.4cm"}},
+    
     "shipping_type": "colis_base",
     "shipping_point": "3"
   },
@@ -2575,6 +2805,8 @@
     "price": "30",
     "stock": "1",
     "weight": "139",
+    
+        "options": {"fr":{"origine":"臺灣 - Táiwān","largeur":"4,0cm","longeur":"23,5cm"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","width":"4,0cm","length":"23,5cm"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "3"
