@@ -19,7 +19,7 @@ permalink: products.json
     "price": "{{ product.data.price }}",
     "stock": "{{ product.data.stock }}",
     "weight": "{{ product.data.weight }}",
-    {% if (options) %}
+    {% if (product.data.options) %}
         "options": {{ product.data.options | dump | safe }},
     {% endif %}
     "shipping_type": "{{ product.data.shipping_type }}",
