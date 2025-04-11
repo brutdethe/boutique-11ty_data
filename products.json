@@ -1283,28 +1283,6 @@
   },
 {
     "permalinks": {
-      "fr": "/products/manongaG11_gaiwan/",
-      "en": "/en/products/manongaG11_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG11",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"Gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed Gaiwan. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G11-a.jpg","manon_gaiwan_G11-b.jpg","manon_gaiwan_G11-c.jpg"],
-    "price": "50",
-    "stock": "1",
-    "weight": "145",
-    
-        "options": {"fr":{"dimensions":"9cm x 5cm","capacité":"115ml"},"en":{"dimensions":"9cm x 5cm","capacity":"115ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "permalinks": {
       "fr": "/products/manongaG2_gaiwan/",
       "en": "/en/products/manongaG2_gaiwan/"
     },
