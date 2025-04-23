@@ -7,8 +7,8 @@ mini_descr:
     fr: une affiche originale par Benhito
     en: a original poster by Benhito
 meta_descr:
-    fr: Une affiche originale créées par Benhito pour le festival GōngFūChá - 工夫茶. Dans un style épuré et expressif.
-    en: A original poster created by Benhito for the GōngFūChá Festival - 工夫茶. In a minimalist and expressive style.
+    fr: Une affiche originale créées par Benhito pour le festival GōngFūChá - 工夫茶 2022. Dans un style épuré et expressif.
+    en: A original poster created by Benhito for the 2022's GōngFūChá Festival - 工夫茶. In a minimalist and expressive style.
 tags: ["benhito"]
 description: 
     fr: >
