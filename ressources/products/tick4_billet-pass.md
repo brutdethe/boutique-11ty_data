@@ -8,20 +8,22 @@ mini_descr:
     en: The GōngFūChá's Pass - 工夫茶 Festival for the three days
 meta_descr:
     fr: >
-        Accédez au Festival GōngFūChá - 工夫茶 : concerts, ateliers, rencontres avec exposants et artisans. Profitez de l’affiche de l’édition et restez après la fermeture du parc pour échanger autour d’un thé.
+        Accédez au Festival GōngFūChá - 工夫茶 : conférences, ateliers, rencontres avec exposants et artisans. Profitez de l’affiche de l’édition et restez après la fermeture du parc pour échanger autour d’un thé.
     en: >
-        Join the GōngFūChá - 工夫茶 Festival: concerts, workshops, and meetings with tea artisans and exhibitors. Receive the festival poster and enjoy relaxed moments after the park closes, over a shared cup of tea.
+        Join the GōngFūChá - 工夫茶 Festival: all talks, workshops, and meetings with tea artisans and exhibitors. Receive the festival poster and enjoy relaxed moments after the park closes, over a shared cup of tea.
 tags: ["festival", "welcome"]
 description: 
     fr: >
-        Ce billet vous donne accès aux trois jours du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr). L’entrée au Parc aux Bambous, les concerts, ateliers, démonstrations, espaces de rencontre sont inclus.<!--more-->
-        L’occasion de rencontrer les personnes exposantes, artisanes et passionnées qui font vivre le festival.  
-        Nous vous offrons l'affiche de cette édition. 
-        Et, le soir, quand le parc ferme, vous pourrez rester avec nous.  Discuter, boire un thé, prolonger la journée, sans se presser.
+        Ce billet vous ouvre les portes du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr) pour les trois jours de l’événement. Il inclut l’entrée au Parc aux Bambous, l’accès à toutes les conférences, ateliers, démonstrations, dégustations de thé, ainsi qu’aux espaces de rencontre.<!--more-->  C’est une belle occasion de croiser celles et ceux qui font vibrer le festival : artisan·es, exposant·es, passionné·es.Nous vous offrons l’affiche de cette édition en souvenir.  
+        Et le soir venu, quand le parc referme ses allées, vous pourrez rester encore un peu…  
+        Partager un thé, prolonger la journée en douceur, et savourer l’instant sans hâte.
+
     en: >
-        This ticket gives you access to all three days of the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr).  Entry to the Parc aux Bambous, concerts, workshops, demonstrations, and meeting spaces is all included.<!--more-->  
-        A chance to connect with the exhibitors, artisans, and tea lovers who bring the festival to life. We’ll also be offering you this year’s festival poster.  
-        And in the evening, when the park closes, you’re welcome to stay a little longer with us — chat, share some tea, let the day wind down gently.
+        This ticket grants you access to all three days of the [GōngFūChá Festival - 工夫茶](https://festival.gongfucha.fr).  
+        It includes entry to the Bamboo Park, access to all talks, workshops, tea demonstrations, tastings, and gathering spaces.<!--more-->  It’s a beautiful opportunity to meet the artisans, exhibitors, and tea lovers who bring the festival to life. You’ll also receive a poster from this year’s edition as a gift.  
+        And in the evening, when the park gates close, you’re welcome to stay with us a little longer…  
+        To chat, sip some tea, and gently let the day linger on.
+
 photos:
     - billet-gongfucha-pass.jpg
 price: 50.00
