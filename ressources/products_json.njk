@@ -12,7 +12,7 @@ permalink: products.json
     "id": "{{ product.data.id }}",
     "name": {{ product.data.name | dump | safe }},
     "mini_descr": {{ product.data.mini_descr | dump | safe }},
-    "meta_descr": {{ product.data.meta_descr | dump | safe }},
+    "meta_descr": {{ (product.data.meta_descr or product.data.mini_descr) | dump | safe }},
     "tags": {{ product.data.tags | dump | safe }},
     "description": {{ product.data.description | dump | safe }},
     "photos": {{ product.data.photos | dump | safe }},
