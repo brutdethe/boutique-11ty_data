@@ -1144,7 +1144,7 @@
     "stock": "10",
     "weight": "125",
     
-        "options": {"fr":{"récolte":"printemps 2023","type":"红茶 - HóngChá","village":"三峡 - SānXiá","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"红茶 - HóngChá (black tea)","village":"三峡 - SānXiá","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
+        "options": {"fr":{"récolte":"printemps 2024","type":"红茶 - HóngChá","village":"三峡 - SānXiá","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"红茶 - HóngChá (black tea)","village":"三峡 - SānXiá","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
