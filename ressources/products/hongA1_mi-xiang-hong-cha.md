@@ -24,7 +24,7 @@ shipping_type: colis_base
 shipping_point: 2
 options:
   fr:
-    récolte: printemps 2023
+    récolte: printemps 2024
     type: 红茶 - HóngChá
     village: 三峡 - SānXiá
     province: 台灣 - TáiWān
