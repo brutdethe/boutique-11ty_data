@@ -9,9 +9,11 @@ mini_descr:
 tags: ["cha"]
 description:
   fr: >
-    Ce 红茶 - HóngChá aux notes de miel caractéristiques est réalisé avec le cultivar endémique 青心柑仔 - QīngXīnGānZǐ de 三峡 - SānXiá. La famille de Monsieur 李 - Lǐ cultive le thé depuis trois générations.<!--more--> Il possède deux jardins de thé à 三峡 - SānXiá, à la périphérie de Taipei, et à 南投 - Nántóu, dans le centre de 臺灣 - Táiwān. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé.
+    Récolté à la main dans les collines de 三峽 - SānXiá, à 臺灣 - TáiWān, ce 蜜香紅茶 - MìXiāng HóngChá aux arômes naturels de miel et d’agrumes vient de la maison des aînés, où vit encore la famille de mon professeur de 氣功 - QìGōng, Maître 李 - Lǐ.
+    Chaque saison, ils cueillent ensemble<!--more-->  les feuilles d’une variété locale endémique, 青心柑仔 - QīngXīn GānZǎi, et perpétuent les gestes transmis depuis trois générations. Ce thé n’est pas fait pour le commerce, mais pour garder le lien.
+    Dans chaque tasse, il y a un foyer, une lumière, une mémoire… et une douceur profondément humaine.
   en: >
-    This 红茶 - HóngChá (black tea) with characteristic honey notes is made using the endemic cultivar 青心柑仔 - QīngXīnGānZǐ from 三峡 - SānXiá. Mr. 李 - Lǐ's family has been cultivating tea for three generations.<!--more--> He owns two tea gardens in 三峡 - SānXiá, on the outskirts of Taipei, and 南投 - Nántóu, in central 臺灣 - Táiwān. I have known him for ten years, and he has always maintained his dedication and sincerity in tea preparation.
+    Hand-picked in the hills of 三峽 - SānXiá, 臺灣 - TáiWān, this 蜜香紅茶 - MìXiāng HóngChá, with its natural notes of honey and citrus, comes from the ancestral home where the family of my 氣功 - QìGōng teacher, Master 李 - Lǐ, still lives. Each season, they return to harvest<!--more-->  the leaves of 青心柑仔——QīngXīn GānZǎi, a rare and local heirloom tea variety, continuing the gestures passed down through three generations. This tea is not made for business — but to keep the bond alive. In every cup, there’s a home, a light, a memory… and a quietly human warmth.
 photos:
   - HongCha_MiXiang_1-a.jpg
   - HongCha_MiXiang_1-b.jpg
@@ -22,7 +24,7 @@ shipping_type: colis_base
 shipping_point: 2
 options:
   fr:
-    récolte: printemps 2023
+    récolte: printemps 2024
     type: 红茶 - HóngChá
     village: 三峡 - SānXiá
     province: 台灣 - TáiWān
