@@ -1305,28 +1305,6 @@
   },
 {
     "permalinks": {
-      "fr": "/products/manongaG4_gaiwan/",
-      "en": "/en/products/manongaG4_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG4",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["welcome","manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G4-a.jpg","manon_gaiwan_G4-b.jpg","manon_gaiwan_G4-c.jpg"],
-    "price": "50",
-    "stock": "1",
-    "weight": "125",
-    
-        "options": {"fr":{"dimensions":"9,5cm x 5cm","capacité":"100ml"},"en":{"dimensions":"9.5cm x 5cm","capacity":"100ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "permalinks": {
       "fr": "/products/manontasB10_chabei/",
       "en": "/en/products/manontasB10_chabei/"
     },
@@ -1365,50 +1343,6 @@
     "weight": "38",
     
         "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"40ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"40ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB17_chabei/",
-      "en": "/en/products/manontasB17_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB17",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B17-a.jpg","manon_tasse_B17-b.jpg","manon_tasse_B17-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "38",
-    
-        "options": {"fr":{"dimensions":"7cm x 4cm","capacité":"60ml"},"en":{"dimensions":"7cm x 4cm","capacity":"60ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB18_chabei/",
-      "en": "/en/products/manontasB18_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB18",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B18-a.jpg","manon_tasse_B18-b.jpg","manon_tasse_B18-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "40",
-    
-        "options": {"fr":{"dimensions":"7cm x 3,5cm","capacité":"50ml"},"en":{"dimensions":"7cm x 3.5cm","capacity":"50ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
@@ -1497,28 +1431,6 @@
     "weight": "41",
     
         "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"35ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB23_chabei/",
-      "en": "/en/products/manontasB23_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB23",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B23-a.jpg","manon_tasse_B23-b.jpg","manon_tasse_B23-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "38",
-    
-        "options": {"fr":{"dimensions":"6,5cm x 3cm","capacité":"50ml"},"en":{"dimensions":"6.5cm x 3cm","capacity":"50ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
