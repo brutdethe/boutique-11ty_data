@@ -24,16 +24,16 @@ options:
   fr:
     récolte: printemps 2024
     type: 青茶 - QīngChá
-    altitude: 1000m
-    village: 阿里山 - ĀlǐShān
+    altitude: 750m
+    village: 凍頂山 – DòngDǐngShān
     province: 台灣 - TáiWān
     producteur: Monsieur 李 - Lǐ
     poids: 25g
   en:
     harvest: Spring 2024
     type: 青茶 - QīngChá (oolong tea)
-    altitude: 1000m
-    village: 阿里山 - ĀlǐShān
+    altitude: 750m
+    village: 凍頂山 – DòngDǐngShān
     province: 台灣 - TáiWān (Taiwan)
     producer: Mr. 李 - Lǐ
     weight: 25g
