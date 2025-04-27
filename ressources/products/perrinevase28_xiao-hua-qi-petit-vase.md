@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    花器 - HuāQì en céramique, 1250°C. Pièce unique. Petit vase à fleur. Idéal pour le rite du GōngFūChá - 工夫茶
+    花器 - HuāQì en céramique, 1050°C. Pièce unique. Petit vase à fleur. Idéal pour le rite du GōngFūChá - 工夫茶
   en: >
-    花器 - HuāQì - Vase made of ceramic, fired at 1250°C. Unique piece. Small flower vase. Perfect for the GōngFūChá - 工夫茶
+    花器 - HuāQì - Vase made of ceramic, fired at 1050°C. Unique piece. Small flower vase. Perfect for the GōngFūChá - 工夫茶
 photos:
   - perrine_vase_28-a.jpg
   - perrine_vase_28-b.jpg

@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    Coupelle en céramique, 1250°C. Pièce unique.
+    Coupelle en céramique, 1050°C. Pièce unique.
   en: >
-    Ceramic dish, fired at 1250°C. Unique piece.
+    Ceramic dish, fired at 1050°C. Unique piece.
 photos:
   - perrine_coupelle_37-a.jpg
   - perrine_coupelle_37-b.jpg

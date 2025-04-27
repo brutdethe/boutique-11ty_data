@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    茶倉 - CháCāng en céramique, 1250°C. Pièce unique. Une jarre minimaliste idéale pour le rite du GōngFūChá - 工夫茶.
+    茶倉 - CháCāng en céramique, 1050°C. Pièce unique. Une jarre minimaliste idéale pour le rite du GōngFūChá - 工夫茶.
   en: >
-    茶倉 - CháCāng - Tea Storage made of ceramic, fired at 1250°C. Unique piece. A minimalist jar perfect for the GōngFūChá - 工夫茶.
+    茶倉 - CháCāng - Tea Storage made of ceramic, fired at 1050°C. Unique piece. A minimalist jar perfect for the GōngFūChá - 工夫茶.
 photos:
   - perrine_cha-cang_30-a.jpg
   - perrine_cha-cang_30-b.jpg

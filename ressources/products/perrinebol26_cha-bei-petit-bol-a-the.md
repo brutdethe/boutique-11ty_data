@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    茶杯 - CháBēi en céramique, 1250°C. Pièce unique. Bol à forme allongée en technique de pinçage.
+    茶杯 - CháBēi en céramique, 1050°C. Pièce unique. Bol à forme allongée en technique de pinçage.
   en: >
-    CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece. Elongated bowl crafted using pinching technique.
+    CháBēi - Tea Cup made of ceramic, fired at 1050°C. Unique piece. Elongated bowl crafted using pinching technique.
 photos:
   - perrine_bol_26-a.jpg
   - perrine_bol_26-b.jpg
