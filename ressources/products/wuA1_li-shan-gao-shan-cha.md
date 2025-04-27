@@ -9,17 +9,9 @@ mini_descr:
 tags: ["cha"]
 description:
   fr: >
-    Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblématiques de 臺灣 - Táiwān. 梨山 - LíShān 
-    est situé à 臺中市 - TáiZhōng à une altitude moyenne de 2000 mètres.<!--more-->
-    Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit, 
-    le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante, 
-    la durée d'ensoleillement est courte, ce qui réduit la teneur en catéchines et donc l'astringence.
+    Ce 梨山高山茶 – LíShānGāoShānChá, issu du cultivar traditionnel 青心烏龍 – QīngXīnWūLóng, vient du jardin de Mme 喩 – Yù, niché dans les montagnes de 梨山 – LíShān, au cœur du 梨山茶區 – LíShānCháQū de 臺灣 – TáiWān, entre 2000 et 2600 mètres. Bercé par les brumes, lentement mûri sous de fortes amplitudes thermiques,<!--more-->  ce thé développe une liqueur vive, limpide et fleurie, portée par une douceur intense et une longueur remarquable — signatures précieuses des 高山茶 – GāoShānChá, les thés de haute montagne. Depuis quarante ans, Mme 喩 – Yù et sa famille cultivent leur terre avec cœur, offrant des thés nourris d’amour et de patience.
   en: >
-    This 高山茶 - GāoShānChá (high mountain tea) is one of the iconic 烏龍 - WūLóng teas of 臺灣 - Táiwān. 梨山 - LíShān 
-    is located in 臺中市 - TáiZhōng at an average altitude of 2000 meters.
-    <!--more--> There are only two harvests per year. Due to the significant temperature difference between day and night, 
-    the tea grows slowly, resulting in thicker leaves. In the mountains with persistent clouds and mist, 
-    sunlight duration is short, reducing catechin content and thus astringency.
+    This 梨山高山茶 – LíShānGāoShānChá, made from the traditional cultivar 青心烏龍 – QīngXīnWūLóng, comes from the garden of Mrs. 喩 – Yù, nestled in the mountains of 梨山 – LíShān, at the heart of the 梨山茶區 – LíShānCháQū in 臺灣 – TáiWān, between 2000 and 2600 meters above sea level. Cradled by the mist and slowly matured under strong temperature variations,<!--more-->  this tea reveals a lively, clear, and floral liquor, carried by an intense sweetness and a remarkable length — precious signatures of 高山茶 – GāoShānChá, the high mountain teas. For forty years, Mrs. 喩 – Yù and her family have been cultivating their land with heart, offering teas nurtured with love and patience.
 photos:
   - LiShan-GaoShan_1-a.jpg
   - LiShan-GaoShan_1-b.jpg

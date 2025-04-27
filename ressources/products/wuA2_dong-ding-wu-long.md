@@ -9,9 +9,9 @@ mini_descr:
 tags: ["cha", "welcome"]
 description:
   fr: >
-    La famille Li (李家 - LǐJiā) est une lignée traditionnelle de cultivateurs et de producteurs de thé, transmise de génération en génération. Leurs plantations se trouvent principalement dans la région de 鹿谷 - LùGǔ<!--more-->, dans les montagnes de 阿里山 - ĀLǐShān, au centre de Taïwan. 凍頂烏龍茶 - DòngDǐng WūLóngChá a une histoire de plus de cent ans et est l’un des thés les plus renommés de Taïwan. Beaucoup de gens pensent que « Dong Ding » est le nom d’une marque de thé, mais en réalité, 凍頂 - DòngDǐng est le nom d’une montagne. La montagne 凍頂 - DòngDǐng est située dans le canton de 鹿谷 - LùGǔ, dans le comté de 南投 - NánTóu), au sud de Taïwan.
+    Le véritable thé 凍頂烏龍 – DòngDǐngWūLóng prend racine dans les brumes et les vents des montagnes de 鹿谷 – LùGǔ, à 南投 – NánTóu, 臺灣 – TáiWān. Issu du jardin de la famille 李 – Lǐ, ce 正統凍頂烏龍 – DòngDǐngWūLóng authentique incarne quatre générations de dévouement<!--more-->  et de savoir-faire. Le thé naît d'une infusion limpide couleur miel, imprégnée d'un léger parfum de torréfaction. En bouche, la douceur fruitée glisse parfois vers des notes florales, laissant une empreinte profonde et sereine. Comme le dit M. 李 – Lǐ : « Le thé est mon maître. Quand on le fait bien, il parle pour nous. »
   en: >
-    The Li family (李家 - LǐJiā) is a traditional lineage of tea cultivators and producers, passed down from generation to generation. Their plantations are mainly located in the region of 鹿谷 - LùGǔ<!--more-->, in the mountains of 阿里山 - ĀLǐShān, in central Taiwan. 凍頂烏龍茶 - DòngDǐng WūLóngChá has a history of more than one hundred years and is one of Taiwan's most renowned teas. Many people think that "Dong Ding" is the name of a tea brand, but in reality, 凍頂 - DòngDǐng is the name of a mountain. The mountain 凍頂 - DòngDǐng is located in the canton of 鹿谷 - LùGǔ, in the county of 南投 - NánTóu, in southern Taiwan.
+    The authentic 凍頂烏龍 – DòngDǐngWūLóng tea takes root in the mists and winds of the mountains of 鹿谷 – LùGǔ, in 南投 – NánTóu, 臺灣 – TáiWān. Grown in the garden of the 李 – Lǐ family, this 正統凍頂烏龍 – DòngDǐngWūLóng embodies four generations of dedication<!--more-->  and craftsmanship. The tea reveals a clear, honey-colored liquor, delicately infused with a light roast aroma. On the palate, fruity sweetness gently shifts towards floral notes, leaving a deep and serene impression. As Mr. 李 – Lǐ says: "Tea is my master. When we craft it well, it speaks for us."
 photos:
   - DongDing-WuLong_1-a.jpg
   - DongDing-WuLong_1-b.jpg
@@ -24,16 +24,16 @@ options:
   fr:
     récolte: printemps 2024
     type: 青茶 - QīngChá
-    altitude: 1000m
-    village: 阿里山 - ĀlǐShān
+    altitude: 750m
+    village: 凍頂山 – DòngDǐngShān
     province: 台灣 - TáiWān
     producteur: Monsieur 李 - Lǐ
     poids: 25g
   en:
     harvest: Spring 2024
     type: 青茶 - QīngChá (oolong tea)
-    altitude: 1000m
-    village: 阿里山 - ĀlǐShān
+    altitude: 750m
+    village: 凍頂山 – DòngDǐngShān
     province: 台灣 - TáiWān (Taiwan)
     producer: Mr. 李 - Lǐ
     weight: 25g
