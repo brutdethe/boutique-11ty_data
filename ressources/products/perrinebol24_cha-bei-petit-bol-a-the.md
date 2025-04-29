@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez", "welcome"]
 description:
   fr: >
-    茶杯 - CháBēi en céramique, 1250°C. Pièce unique.
+    茶杯 - CháBēi en céramique, 1050°C. Pièce unique.
   en: >
-    CháBēi - Tea Cup made of ceramic, fired at 1250°C. Unique piece.
+    CháBēi - Tea Cup made of ceramic, fired at 1050°C. Unique piece.
 photos:
   - perrine_bol_24-a.jpg
   - perrine_bol_24-b.jpg

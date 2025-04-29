@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    茶海 - CháHǎi en céramique, 1250°C. Pièce unique. Verseuse à thé
+    茶海 - CháHǎi en céramique, 1050°C. Pièce unique. Verseuse à thé
   en: >
-    茶海 - CháHǎi - Tea pitcher made of ceramic, fired at 1250°C. Unique piece
+    茶海 - CháHǎi - Tea pitcher made of ceramic, fired at 1050°C. Unique piece
 photos:
   - perrine_cha-hai_40-a.jpg
   - perrine_cha-hai_40-b.jpg

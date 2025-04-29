@@ -9,9 +9,9 @@ mini_descr:
 tags: ["perrine-pottiez"]
 description:
   fr: >
-    Porte-encens, 1250°C. Pièce unique. Pour encens en cascade et encens normal.
+    Porte-encens, 1050°C. Pièce unique. Pour encens en cascade et encens normal.
   en: >
-    Incense holder, fired at 1250°C. Unique piece. Suitable for waterfall incense and regular incense.
+    Incense holder, fired at 1050°C. Unique piece. Suitable for waterfall incense and regular incense.
 photos:
   - perrine_porte-encens_19-a.jpg
   - perrine_porte-encens_19-b.jpg
