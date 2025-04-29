@@ -1,8 +1,8 @@
 ---
 id: wuA3
 name:
-  fr: 金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g
-  en: 金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g
+  fr: 金萱高山茶 - JīnXuān GāoShānChá - 25g
+  en: 金萱高山茶 - JīnXuān GāoShānChá - 25g
 mini_descr:
   fr: thé wulong traditionnel de Taïwan
   en: traditional oolong tea from Taiwan
