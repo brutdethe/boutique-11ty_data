@@ -2615,12 +2615,12 @@
   },
 {
     "permalinks": {
-      "fr": "/products/wuA3_jinxuan-gaoshancha-25g/",
-      "en": "/en/products/wuA3_jinxuan-gaoshancha-25g/"
+      "fr": "/products/wuA3_jinxuan-gaoshan-wulong-25g/",
+      "en": "/en/products/wuA3_jinxuan-gaoshan-wulong-25g/"
     },
     "layout": "",
     "id": "wuA3",
-    "name": {"fr":"金萱高山茶 - JīnXuān GāoShānChá - 25g","en":"金萱高山茶 - JīnXuān GāoShānChá - 25g"},
+    "name": {"fr":"金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g","en":"金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g"},
     "mini_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "meta_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "tags": ["cha"],
