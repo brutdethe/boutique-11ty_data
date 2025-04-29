@@ -2580,7 +2580,7 @@
     "mini_descr": {"fr":"thé wulong traditionnel de haute montagne de Taïwan","en":"traditional high mountain oolong tea from Taiwan"},
     "meta_descr": {"fr":"thé wulong traditionnel de haute montagne de Taïwan","en":"traditional high mountain oolong tea from Taiwan"},
     "tags": ["cha"],
-    "description": {"fr":"Ce 梨山高山茶 – LíShānGāoShānChá, issu du cultivar traditionnel 青心烏龍 – QīngXīnWūLóng, vient du jardin de Mme 喩 – Yù, niché dans les montagnes de 梨山 – LíShān, au cœur du 梨山茶區 – LíShānCháQū de 臺灣 – TáiWān, entre 2000 et 2600 mètres. Bercé par les brumes, lentement mûri sous de fortes amplitudes thermiques,<!--more-->  ce thé développe une liqueur vive, limpide et fleurie, portée par une douceur intense et une longueur remarquable — signatures précieuses des 高山茶 – GāoShānChá, les thés de haute montagne. Depuis quarante ans, Mme 喩 – Yù et sa famille cultivent leur terre avec cœur, offrant des thés nourris d’amour et de patience.\n","en":"This 梨山高山茶 – LíShānGāoShānChá, made from the traditional cultivar 青心烏龍 – QīngXīnWūLóng, comes from the garden of Mrs. 喩 – Yù, nestled in the mountains of 梨山 – LíShān, at the heart of the 梨山茶區 – LíShānCháQū in 臺灣 – TáiWān, between 2000 and 2600 meters above sea level. Cradled by the mist and slowly matured under strong temperature variations,<!--more-->  this tea reveals a lively, clear, and floral liquor, carried by an intense sweetness and a remarkable length — precious signatures of 高山茶 – GāoShānChá, the high mountain teas. For forty years, Mrs. 喩 – Yù and her family have been cultivating their land with heart, offering teas nurtured with love and patience.\n"},
+    "description": {"fr":"Ce 梨山高山茶 – LíShānGāoShānChá, issu du cultivar traditionnel 青心烏龍 – QīngXīnWūLóng, vient du jardin de Mme 喩 – Yù, niché dans les montagnes de 梨山 – LíShān, au cœur du 梨山茶區 – LíShānCháQū de 臺灣 – TáiWān, entre 2000 et 2600 mètres.<!--more-->  Bercé par les brumes, lentement mûri sous de fortes amplitudes thermiques,<!--more-->  ce thé développe une liqueur vive, limpide et fleurie, portée par une douceur intense et une longueur remarquable — signatures précieuses des 高山茶 – GāoShānChá, les thés de haute montagne. Depuis quarante ans, Mme 喩 – Yù et sa famille cultivent leur terre avec cœur, offrant des thés nourris d’amour et de patience.\n","en":"This 梨山高山茶 – LíShānGāoShānChá, made from the traditional cultivar 青心烏龍 – QīngXīnWūLóng, comes from the garden of Mrs. 喩 – Yù, nestled in the mountains of 梨山 – LíShān, at the heart of the 梨山茶區 – LíShānCháQū in 臺灣 – TáiWān, between 2000 and 2600 meters above sea level.<!--more-->  Cradled by the mist and slowly matured under strong temperature variations,<!--more-->  this tea reveals a lively, clear, and floral liquor, carried by an intense sweetness and a remarkable length — precious signatures of 高山茶 – GāoShānChá, the high mountain teas. For forty years, Mrs. 喩 – Yù and her family have been cultivating their land with heart, offering teas nurtured with love and patience.\n"},
     "photos": ["LiShan-GaoShan_1-a.jpg","LiShan-GaoShan_1-b.jpg"],
     "price": "15",
     "stock": "2",
@@ -2615,12 +2615,12 @@
   },
 {
     "permalinks": {
-      "fr": "/products/wuA3_jinxuan-gaoshan-wulong-25g/",
-      "en": "/en/products/wuA3_jinxuan-gaoshan-wulong-25g/"
+      "fr": "/products/wuA3_jinxuan-gaoshancha-25g/",
+      "en": "/en/products/wuA3_jinxuan-gaoshancha-25g/"
     },
     "layout": "",
     "id": "wuA3",
-    "name": {"fr":"金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g","en":"金萱高山烏龍 - JīnXuān GāoShān WūLóng - 25g"},
+    "name": {"fr":"金萱高山茶 - JīnXuān GāoShānChá - 25g","en":"金萱高山茶 - JīnXuān GāoShānChá - 25g"},
     "mini_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "meta_descr": {"fr":"thé wulong traditionnel de Taïwan","en":"traditional oolong tea from Taiwan"},
     "tags": ["cha"],
