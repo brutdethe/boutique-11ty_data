@@ -1261,50 +1261,6 @@
   },
 {
     "permalinks": {
-      "fr": "/products/manongaG2_gaiwan/",
-      "en": "/en/products/manongaG2_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongaG2",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "meta_descr": {"fr":"GàiWǎn réalisé par Manon Clouzeau","en":"GàiWǎn made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"GàiWǎn émaillé. Pièce unique.\n","en":"Glazed GàiWǎn. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G2-a.jpg","manon_gaiwan_G2-b.jpg","manon_gaiwan_G2-c.jpg"],
-    "price": "40",
-    "stock": "1",
-    "weight": "97",
-    
-        "options": {"fr":{"dimensions":"9cm x 4cm","capacité":"50ml"},"en":{"dimensions":"9cm x 4cm","capacity":"50ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "3"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB10_chabei/",
-      "en": "/en/products/manontasB10_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB10",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B10-a.jpg","manon_tasse_B10-b.jpg","manon_tasse_B10-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "35",
-    
-        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"30ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"30ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
       "fr": "/products/manontasB16_chabei/",
       "en": "/en/products/manontasB16_chabei/"
     },
@@ -1415,28 +1371,6 @@
   },
 {
     "permalinks": {
-      "fr": "/products/manontasB29_chabei/",
-      "en": "/en/products/manontasB29_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB29",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B29-a.jpg","manon_tasse_B29-b.jpg","manon_tasse_B29-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "40",
-    
-        "options": {"fr":{"dimensions":"6cm x 3cm","capacité":"35ml"},"en":{"dimensions":"6cm x 3cm","capacity":"35ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
       "fr": "/products/manontasB32_chabei/",
       "en": "/en/products/manontasB32_chabei/"
     },
@@ -1541,28 +1475,6 @@
     "weight": "36",
     
         "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"28ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"35ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB8_chabei/",
-      "en": "/en/products/manontasB8_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB8",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B8-a.jpg","manon_tasse_B8-b.jpg","manon_tasse_B8-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "35",
-    
-        "options": {"fr":{"dimensions":"6,5cm x 3cm","capacité":"35ml"},"en":{"dimensions":"6.5cm x 3cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
