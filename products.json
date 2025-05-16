@@ -1283,6 +1283,28 @@
   },
 {
     "permalinks": {
+      "fr": "/products/manongwG503_gaiwan/",
+      "en": "/en/products/manongwG503_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG503",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_g503-a.jpg","manon_gaiwan_g503-b.jpg","manon_gaiwan_g503-c.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "127",
+    
+        "options": {"fr":{"diamètre":"9,5cm","capacité":"75ml"},"en":{"diameter":"9,5cm","capacity":"75ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
       "fr": "/products/manontasB16_chabei/",
       "en": "/en/products/manontasB16_chabei/"
     },
