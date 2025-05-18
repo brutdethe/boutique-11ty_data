@@ -16,18 +16,18 @@ photos:
   - manon_chahai_v503-a.jpg
   - manon_chahai_v503-b.jpg
   - manon_chahai_v503-c.jpg
-price: .00
+price: 30.00
 stock: 1
-weight: 1
+weight: 99
 shipping_type: colis_base
 shipping_point: 5
 options:
   fr:
-    diamètre: ,0cm
-    capacité: 1ml
+    diamètre: 8,5cm
+    capacité: 135ml
   en:
-    diameter: ,0cm
-    capacity: 1ml
+    diameter: 8,5cm
+    capacity: 135ml
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
   permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"

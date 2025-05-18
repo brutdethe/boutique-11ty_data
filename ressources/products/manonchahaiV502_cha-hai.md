@@ -1,5 +1,5 @@
 ---
-id: manonchahaiV501
+id: manonchahaiV502
 name:
   fr: 茶海 - CháHǎi
   en: 茶海 - CháHǎi
@@ -16,18 +16,18 @@ photos:
   - manon_chahai_v502-a.jpg
   - manon_chahai_v502-b.jpg
   - manon_chahai_v502-c.jpg
-price: .00
+price: 35.00
 stock: 1
-weight: 1
+weight: 110
 shipping_type: colis_base
 shipping_point: 5
 options:
   fr:
-    diamètre: ,0cm
-    capacité: 1ml
+    diamètre: 10,0cm
+    capacité: 150ml
   en:
-    diameter: ,0cm
-    capacity: 1ml
+    diameter: 10,0cm
+    capacity: 150ml
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
   permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
