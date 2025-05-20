@@ -1261,6 +1261,182 @@
   },
 {
     "permalinks": {
+      "fr": "/products/manonchahaiV501_chahai/",
+      "en": "/en/products/manonchahaiV501_chahai/"
+    },
+    "layout": "",
+    "id": "manonchahaiV501",
+    "name": {"fr":"茶海 - CháHǎi","en":"茶海 - CháHǎi"},
+    "mini_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "meta_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_chahai_V501-a.jpg","manon_chahai_V501-b.jpg","manon_chahai_V501-c.jpg"],
+    "price": "35",
+    "stock": "1",
+    "weight": "115",
+    
+        "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"140ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"140ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manonchahaiV502_chahai/",
+      "en": "/en/products/manonchahaiV502_chahai/"
+    },
+    "layout": "",
+    "id": "manonchahaiV502",
+    "name": {"fr":"茶海 - CháHǎi","en":"茶海 - CháHǎi"},
+    "mini_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "meta_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_chahai_V502-a.jpg","manon_chahai_V502-b.jpg","manon_chahai_V502-c.jpg"],
+    "price": "35",
+    "stock": "1",
+    "weight": "110",
+    
+        "options": {"fr":{"dimensions":"10,0cm x 6,0cm","capacité":"150ml"},"en":{"dimensions":"10,0cm x 6,0cm","capacity":"150ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manonchahaiV503_chahai/",
+      "en": "/en/products/manonchahaiV503_chahai/"
+    },
+    "layout": "",
+    "id": "manonchahaiV503",
+    "name": {"fr":"茶海 - CháHǎi","en":"茶海 - CháHǎi"},
+    "mini_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "meta_descr": {"fr":"Verseuse en grès façonnée par Manon Clouzeau","en":"Stoneware pourer shaped by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_chahai_V503-a.jpg","manon_chahai_V503-b.jpg","manon_chahai_V503-c.jpg"],
+    "price": "30",
+    "stock": "1",
+    "weight": "99",
+    
+        "options": {"fr":{"dimensions":"8,5cm x 6,0cm","capacité":"135ml"},"en":{"dimensions":"8,5cm x 6,0cm","capacity":"135ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manongwG502_gaiwan/",
+      "en": "/en/products/manongwG502_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG502",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_G502-a.jpg","manon_gaiwan_G502-b.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "121",
+    
+        "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"100ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"100ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manongwG503_gaiwan/",
+      "en": "/en/products/manongwG503_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG503",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_G503-a.jpg","manon_gaiwan_G503-b.jpg"],
+    "price": "50",
+    "stock": "1",
+    "weight": "127",
+    
+        "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"75ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"75ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manongwG504_gaiwan/",
+      "en": "/en/products/manongwG504_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG504",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_G504-a.jpg","manon_gaiwan_G504-b.jpg"],
+    "price": "45",
+    "stock": "1",
+    "weight": "109",
+    
+        "options": {"fr":{"dimensions":"8,5cm x 6,0cm","capacité":"60ml"},"en":{"dimensions":"8,5cm x 6,0cm","capacity":"60ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manongwG505_gaiwan/",
+      "en": "/en/products/manongwG505_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG505",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_G505-a.jpg","manon_gaiwan_G505-b.jpg"],
+    "price": "45",
+    "stock": "1",
+    "weight": "119",
+    
+        "options": {"fr":{"dimensions":"9,0cm x 6,0cm","capacité":"80ml"},"en":{"dimensions":"9,0cm x 6,0cm","capacity":"80ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manongwG506_gaiwan/",
+      "en": "/en/products/manongwG506_gaiwan/"
+    },
+    "layout": "",
+    "id": "manongwG506",
+    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
+    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_gaiwan_G506-a.jpg","manon_gaiwan_G506-b.jpg"],
+    "price": "45",
+    "stock": "1",
+    "weight": "104",
+    
+        "options": {"fr":{"dimensions":"8,5cm x 6,5cm","capacité":"80ml"},"en":{"dimensions":"8,5cm x 6,5cm","capacity":"80ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "5"
+  },
+{
+    "permalinks": {
       "fr": "/products/manontasB16_chabei/",
       "en": "/en/products/manontasB16_chabei/"
     },
@@ -1431,6 +1607,28 @@
     "weight": "40",
     
         "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"45ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"45ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB501_chabei/",
+      "en": "/en/products/manontasB501_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB501",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B501-a.jpg","manon_tasse_B501-b.jpg"],
+    "price": "15",
+    "stock": "1",
+    "weight": "35",
+    
+        "options": {"fr":{"dimensions":"6,5cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 4,0cm","capacity":"35ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
