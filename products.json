@@ -1371,28 +1371,6 @@
   },
 {
     "permalinks": {
-      "fr": "/products/manongwG504_gaiwan/",
-      "en": "/en/products/manongwG504_gaiwan/"
-    },
-    "layout": "",
-    "id": "manongwG504",
-    "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
-    "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
-    "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"蓋碗 - GàiWǎn en céramique, 1250°C. Pièce unique.\n","en":"蓋碗 - GàiWǎn made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_gaiwan_G504-a.jpg","manon_gaiwan_G504-b.jpg"],
-    "price": "45",
-    "stock": "1",
-    "weight": "109",
-    
-        "options": {"fr":{"dimensions":"8,5cm x 6,0cm","capacité":"60ml"},"en":{"dimensions":"8,5cm x 6,0cm","capacity":"60ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "5"
-  },
-{
-    "permalinks": {
       "fr": "/products/manongwG505_gaiwan/",
       "en": "/en/products/manongwG505_gaiwan/"
     },
@@ -1434,28 +1412,6 @@
     
     "shipping_type": "colis_base",
     "shipping_point": "5"
-  },
-{
-    "permalinks": {
-      "fr": "/products/manontasB16_chabei/",
-      "en": "/en/products/manontasB16_chabei/"
-    },
-    "layout": "",
-    "id": "manontasB16",
-    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
-    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
-    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B16-a.jpg","manon_tasse_B16-b.jpg","manon_tasse_B16-c.jpg"],
-    "price": "15",
-    "stock": "1",
-    "weight": "38",
-    
-        "options": {"fr":{"dimensions":"6cm x 3,5cm","capacité":"40ml"},"en":{"dimensions":"6cm x 3.5cm","capacity":"40ml"}},
-    
-    "shipping_type": "colis_base",
-    "shipping_point": "2"
   },
 {
     "permalinks": {
