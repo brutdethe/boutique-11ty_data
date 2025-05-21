@@ -19,5 +19,4 @@ stock: 30
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---

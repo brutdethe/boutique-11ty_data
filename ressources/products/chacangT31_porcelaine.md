@@ -29,5 +29,4 @@ options:
     dimensions: 6cm x 6,5cm
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---

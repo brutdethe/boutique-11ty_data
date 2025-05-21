@@ -39,5 +39,4 @@ options:
     weight: 25g
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---

@@ -33,5 +33,4 @@ options:
     capacity: 29 ml
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---

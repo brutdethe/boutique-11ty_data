@@ -34,5 +34,4 @@ options:
     burn time: around 32 minutes per stick
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
-  permalink: "/products/{{ id }}_{{ name['fr'] | slugify }}/"
 ---
