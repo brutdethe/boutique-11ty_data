@@ -1591,6 +1591,50 @@
   },
 {
     "permalinks": {
+      "fr": "/products/manontasB502_chabei/",
+      "en": "/en/products/manontasB502_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB502",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B502-a.jpg","manon_tasse_B502-b.jpg"],
+    "price": "15",
+    "stock": "1",
+    "weight": "35",
+    
+        "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 3,5cm","capacity":"35ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB503_chabei/",
+      "en": "/en/products/manontasB503_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB503",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B503-a.jpg","manon_tasse_B503-b.jpg"],
+    "price": "15",
+    "stock": "1",
+    "weight": "35",
+    
+        "options": {"fr":{"dimensions":"6,5cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 4,0cm","capacity":"35ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
       "fr": "/products/manontasB6_chabei/",
       "en": "/en/products/manontasB6_chabei/"
     },
