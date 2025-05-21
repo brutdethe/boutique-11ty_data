@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: petit bol à thé réalisé par Manon Clouzeau
   en: small tea bowl made by Manon Clouzeau
-tags: ["manon-clouzeau", "welcome"]
+tags: ["manon-clouzeau"]
 description:
   fr: >
     茶杯 - CháBēi en céramique, 1250°C. Pièce unique.
