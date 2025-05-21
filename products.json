@@ -1755,12 +1755,144 @@
     "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
     "tags": ["manon-clouzeau"],
     "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
-    "photos": ["manon_tasse_B509-a.jpg","manon_tasse_B508-b.jpg"],
+    "photos": ["manon_tasse_B509-a.jpg","manon_tasse_B509-b.jpg"],
     "price": "15",
     "stock": "1",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6,0cm x 4,5cm","capacité":"35ml"},"en":{"dimensions":"6,0cm x 4,5cm","capacity":"35ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB510_chabei/",
+      "en": "/en/products/manontasB510_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB510",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B510-a.jpg","manon_tasse_B510-b.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "55",
+    
+        "options": {"fr":{"dimensions":"7,5cm x 4,0cm","capacité":"50ml"},"en":{"dimensions":"7,5cm x 4,0cm","capacity":"50ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB511_chabei/",
+      "en": "/en/products/manontasB511_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB511",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B511-a.jpg","manon_tasse_B511-b.jpg"],
+    "price": "25",
+    "stock": "1",
+    "weight": "55",
+    
+        "options": {"fr":{"dimensions":"8,0cm x 3,5cm","capacité":"45ml"},"en":{"dimensions":"8,0cm x 3,5cm","capacity":"45ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB512_chabei/",
+      "en": "/en/products/manontasB512_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB512",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B512-a.jpg","manon_tasse_B512-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "50",
+    
+        "options": {"fr":{"dimensions":"7,0cm x 4,0cm","capacité":"45ml"},"en":{"dimensions":"7,0cm x 4,0cm","capacity":"45ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB513_chabei/",
+      "en": "/en/products/manontasB513_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB513",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B513-a.jpg","manon_tasse_B513-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "45",
+    
+        "options": {"fr":{"dimensions":"7,0cm x 4,5cm","capacité":"40ml"},"en":{"dimensions":"7,0cm x 4,5cm","capacity":"40ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB514_chabei/",
+      "en": "/en/products/manontasB514_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB514",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B514-a.jpg","manon_tasse_B514-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "55",
+    
+        "options": {"fr":{"dimensions":"8,0cm x 4,5cm","capacité":"55ml"},"en":{"dimensions":"8,0cm x 4,5cm","capacity":"55ml"}},
+    
+    "shipping_type": "colis_base",
+    "shipping_point": "2"
+  },
+{
+    "permalinks": {
+      "fr": "/products/manontasB515_chabei/",
+      "en": "/en/products/manontasB515_chabei/"
+    },
+    "layout": "",
+    "id": "manontasB515",
+    "name": {"fr":"茶杯 - CháBēi","en":"茶杯 - CháBēi"},
+    "mini_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "meta_descr": {"fr":"petit bol à thé réalisé par Manon Clouzeau","en":"small tea bowl made by Manon Clouzeau"},
+    "tags": ["manon-clouzeau"],
+    "description": {"fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique.\n","en":"茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.\n"},
+    "photos": ["manon_tasse_B515-a.jpg","manon_tasse_B515-b.jpg"],
+    "price": "20",
+    "stock": "1",
+    "weight": "45",
+    
+        "options": {"fr":{"dimensions":"7,0cm x 4,0cm","capacité":"45ml"},"en":{"dimensions":"7,0cm x 4,0cm","capacity":"45ml"}},
     
     "shipping_type": "colis_base",
     "shipping_point": "2"
