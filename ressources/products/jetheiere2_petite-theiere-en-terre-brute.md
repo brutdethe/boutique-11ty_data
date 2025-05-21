@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: Petite théière fabriquée dans une argile dense par Jé le potier.
   en: Small teapot crafted from dense clay by Jé le potier.
-tags: ["je-le-potier"]
+tags: ["je-le-potier", "welcome"]
 description:
   fr: >
     Pièce unique. Petite théière - 茶壺 CháHú - fabriquée dans une argile très dense. Ce grès de grande qualité est réalisé en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide.
