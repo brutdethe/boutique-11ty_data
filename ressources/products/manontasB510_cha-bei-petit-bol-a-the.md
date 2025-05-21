@@ -1,5 +1,5 @@
 ---
-id: manontasB509
+id: manontasB510
 name:
   fr: 茶杯 - CháBēi
   en: 茶杯 - CháBēi
@@ -13,20 +13,20 @@ description:
   en: >
     茶杯 - CháBēi (Tea Cup) made of ceramic, fired at 1250°C. Unique piece.
 photos:
-  - manon_tasse_B509-a.jpg
-  - manon_tasse_B509-b.jpg
-price: 15.00
+  - manon_tasse_B510-a.jpg
+  - manon_tasse_B510-b.jpg
+price: 25.00
 stock: 1
-weight: 35
+weight: 55
 shipping_type: colis_base
 shipping_point: 2
 options:
   fr:
-    dimensions: 6,0cm x 4,5cm
-    capacité: 35ml
+    dimensions: 7,5cm x 4,0cm
+    capacité: 50ml
   en:
-    dimensions: 6,0cm x 4,5cm
-    capacity: 35ml
+    dimensions: 7,5cm x 4,0cm
+    capacity: 50ml
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
 ---
