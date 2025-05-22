@@ -1,5 +1,5 @@
 ---
-id: manontasB6
+id: manontasB36
 name:
   fr: 茶杯 - CháBēi
   en: 茶杯 - CháBēi
@@ -13,21 +13,20 @@ description:
   en: >
     茶杯 - CháBēi (Tea Cup) in stoneware, 1250°C. Unique piece.
 photos:
-  - manon_tasse_B6-a.jpg
-  - manon_tasse_B6-b.jpg
-  - manon_tasse_B6-c.jpg
+  - manon_tasse_B36-a.jpg
+  - manon_tasse_B36-b.jpg
 price: 15.00
 stock: 1
-weight: 38
+weight: 35
 shipping_type: colis_base
 shipping_point: 2
 options:
   fr:
-    dimensions: 6,5cm x 4cm
-    capacité: 30ml
+    dimensions: 7,5cm x 3,5cm
+    capacité: 35ml
   en:
-    dimensions: 6.5cm x 4cm
-    capacity: 30ml
+    dimensions: 7,5cm x 3,5cm
+    capacity: 35ml
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---
