@@ -9,9 +9,9 @@ mini_descr:
 tags: ["manon-clouzeau"]
 description:
   fr: >
-    茶杯 - CháBēi en grès, 1250°C. Pièce unique.
+    茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.
   en: >
-    茶杯 - CháBēi (Tea Cup) in stoneware, 1250°C. Unique piece.
+    茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.
 photos:
   - manon_tasse_B3-a.jpg
   - manon_tasse_B3-b.jpg
