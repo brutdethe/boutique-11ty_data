@@ -8,7 +8,7 @@ mini_descr:
   en: small tea bowl made by Manon Clouzeau
 tags: ["manon-clouzeau"]
 description:
-  ffr: >
+  fr: >
     茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.
   en: >
     茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.

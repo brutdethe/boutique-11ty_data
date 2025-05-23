@@ -8,7 +8,7 @@ mini_descr:
   en: gaiwan made by Manon Clouzeau
 tags: ["manon-clouzeau"]
 description:
-  ffr: >
+  fr: >
     蓋碗 - GàiWǎn en grès, cuisson à 1250 °C. Pièce unique.
   en: >
     蓋碗 - Stoneware gaiwan, fired at 1250°C. Unique piece.
