@@ -17,8 +17,8 @@
 
 - label: festival
   title:
-      fr: Festival GongFuCha
-      en: GongFuCha Festival
+      fr: Festival
+      en: Festival
   description:
       fr: >
           Avec beaucoup de joie nous vous proposons ici quelques articles liés au <a href="https://festival.gongfucha.fr">Festival de Thé GōngFūChá - 工夫茶</a> : billets pour nous retrouver lors de cet événement, affiches illustrées avec soin par BenHito, et possibilité de nous soutenir à travers un don si le cœur vous en dit.
@@ -33,8 +33,8 @@
 
 - label: cha
   title:
-      fr: 茶 Chá
-      en: 茶 Chá
+      fr: Thés vivants
+      en: Teas
   description:
       fr: >
           Quelques thés sélectionnés par nos soins, en provenance de Chine ou de Taïwan.
@@ -51,8 +51,8 @@
 
 - label: gaiwan
   title:
-      fr: 蓋碗 GàiWǎn
-      en: 蓋碗 GàiWǎn
+      fr: GàiWǎn
+      en: GàiWǎn
   description:
       fr: >
           Le 蓋碗 - GàiWǎn, est l'ustensile idéal pour démarrer sur la voie du thé. Traditionnellement
@@ -65,8 +65,8 @@
 
 - label: chahu
   title:
-      fr: 茶壺 CháHú
-      en: 茶壺 CháHú
+      fr: Théières
+      en: Teapot
   description:
       fr: >
           La théière, 茶壺 - CháHú, permet un contrôle précis de l’infusion des feuilles.
@@ -83,8 +83,8 @@
 
 - label: chahai
   title:
-      fr: 茶海 CháHǎi
-      en: 茶海 CháHǎi
+      fr: Verseuses
+      en: Pitchers
   description:
       fr: >
           Le 茶海 - CháHǎi, ou « mer de thé », est une pièce essentielle dans l’art du thé chinois, 
@@ -104,8 +104,8 @@
 
 - label: shuifang
   title:
-      fr: 水方 ShuǐFāng
-      en: 水方 ShuǐFāng
+      fr: Vasques
+      en: Tea basins
   description:
       fr: >
           Le 水方 - ShuǐFāng, est là pour recueillir l’eau excédentaire, 
@@ -123,8 +123,8 @@
 
 - label: chacang
   title:
-      fr: 茶倉 CháCāng
-      en: 茶倉 CháCāng
+      fr: Boites à thé
+      en: Tea boxes
   description:
       fr: >
           Le 茶倉 se décline en différentes formes et tailles. Les plus grands sont parfaits pour conserver vos thés précieux, 
@@ -141,8 +141,8 @@
 
 - label: chabei
   title:
-      fr: 茶杯 CháBēi
-      en: 茶杯 CháBēi
+      fr: Bols à thé
+      en: Tea cups
   description:
       fr: >
           Le 茶杯 - CháBēi, ou "bol à thé", Le 茶杯, est bien plus qu’une simple tasse. 
@@ -161,8 +161,8 @@
 
 - label: xiangju
   title:
-      fr: 香-香具 Xiāng-XiāngJù
-      en: 香-香具 Xiāng-XiāngJù
+      fr: Encens
+      en: Incenses
   description:
       fr: >
           焚香 - Fén Xiāng, brûler de l’encens, et préparer le thé font partie des « Quatre Élégances » des lettrés 宋 - Sòng. 
@@ -247,8 +247,8 @@
 
 - label: dons
   title:
-      fr: Dons
-      en: Gifts
+      fr: Vos dons
+      en: Your gifts
   description:
       fr: >
           L’association GōngFūChá - 工夫茶 vit aujourd’hui principalement grâce à l’engagement de Yalin et Stéphane, qui oeuvrent à temps plein et (pour l'instant) sans rémunération.
