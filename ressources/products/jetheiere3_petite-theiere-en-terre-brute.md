@@ -1,12 +1,12 @@
 ---
 id: jetheiere3
 name:
-  fr: 茶壺 CháHú - petite théière en terre brute
+  fr: 茶壺 CháHú - théière en terre brute
   en: 茶壺 CháHú - small Teapot in Raw Clay
 mini_descr:
-  fr: Petite théière fabriquée par Jé le potier
+  fr: Théière fabriquée par Jé le potier
   en: Small teapot made by Jé le potier
-tags: ["je-le-potier"]
+tags: ["je-le-potier", "welcome"]
 description:
   fr: >
     Pièce unique. 茶壺 CháHú - petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide.
