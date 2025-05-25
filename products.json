@@ -1173,15 +1173,15 @@
   },
 {
     "permalinks": {
-      "fr": "/products/jetheiere2_chahu-petite-theiere-en-terre-brute/",
-      "en": "/en/products/jetheiere2_chahu-petite-theiere-en-terre-brute/"
+      "fr": "/products/jetheiere2_chahu-theiere-en-terre-brute/",
+      "en": "/en/products/jetheiere2_chahu-theiere-en-terre-brute/"
     },
     "layout": "",
     "id": "jetheiere2",
-    "name": {"fr":"茶壺 CháHú - petite théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
-    "mini_descr": {"fr":"Petite théière fabriquée dans une argile dense par Jé le potier.","en":"Small teapot crafted from dense clay by Jé le potier."},
-    "meta_descr": {"fr":"Petite théière fabriquée dans une argile dense par Jé le potier.","en":"Small teapot crafted from dense clay by Jé le potier."},
-    "tags": ["je-le-potier","welcome"],
+    "name": {"fr":"茶壺 CháHú - théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
+    "mini_descr": {"fr":"Théière fabriquée dans une argile dense par Jé.","en":"Small teapot crafted from dense clay by Jé."},
+    "meta_descr": {"fr":"Théière fabriquée dans une argile dense par Jé.","en":"Small teapot crafted from dense clay by Jé."},
+    "tags": ["je-le-potier"],
     "description": {"fr":"Pièce unique. Petite théière - 茶壺 CháHú - fabriquée dans une argile très dense. Ce grès de grande qualité est réalisé en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide.\n","en":"Unique piece. Small teapot - 茶壺 CháHú- made from very dense clay. This high-quality stoneware is crafted in Germany. The clay's porosity is 0.8%. The density of the clay helps minimize the drop in water temperature during infusion. The pour is smooth and fast.\n"},
     "photos": ["jerome_theiere_2-a.jpg","jerome_theiere_2-b.jpg","jerome_theiere_2-c.jpg","jerome_theiere_2-d.jpg"],
     "price": "132",
@@ -1195,15 +1195,15 @@
   },
 {
     "permalinks": {
-      "fr": "/products/jetheiere3_chahu-petite-theiere-en-terre-brute/",
-      "en": "/en/products/jetheiere3_chahu-petite-theiere-en-terre-brute/"
+      "fr": "/products/jetheiere3_chahu-theiere-en-terre-brute/",
+      "en": "/en/products/jetheiere3_chahu-theiere-en-terre-brute/"
     },
     "layout": "",
     "id": "jetheiere3",
-    "name": {"fr":"茶壺 CháHú - petite théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
-    "mini_descr": {"fr":"Petite théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
-    "meta_descr": {"fr":"Petite théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
-    "tags": ["je-le-potier"],
+    "name": {"fr":"茶壺 CháHú - théière en terre brute","en":"茶壺 CháHú - small Teapot in Raw Clay"},
+    "mini_descr": {"fr":"Théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
+    "meta_descr": {"fr":"Théière fabriquée par Jé le potier","en":"Small teapot made by Jé le potier"},
+    "tags": ["je-le-potier","welcome"],
     "description": {"fr":"Pièce unique. 茶壺 CháHú - petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide.\n","en":"Unique piece. 茶壺 CháHú - small teapot crafted from Treigny stoneware, a naturally soft clay. This teapot is unglazed and will develop a patina over time. The pour is smooth and fast.\n"},
     "photos": ["jerome_theiere_3-a.jpg","jerome_theiere_3-b.jpg","jerome_theiere_3-c.jpg","jerome_theiere_3-d.jpg"],
     "price": "132",
@@ -1217,12 +1217,12 @@
   },
 {
     "permalinks": {
-      "fr": "/products/jetheiere4_chahu-petite-theiere-emaillee/",
-      "en": "/en/products/jetheiere4_chahu-petite-theiere-emaillee/"
+      "fr": "/products/jetheiere4_chahu-theiere-emaillee/",
+      "en": "/en/products/jetheiere4_chahu-theiere-emaillee/"
     },
     "layout": "",
     "id": "jetheiere4",
-    "name": {"fr":"茶壺 CháHú - petite théière émaillée","en":"茶壺 CháHú - small Glazed Teapot"},
+    "name": {"fr":"茶壺 CháHú - théière émaillée","en":"茶壺 CháHú - small Glazed Teapot"},
     "mini_descr": {"fr":"théière réalisée par Jé le Potier","en":"teapot made by Jé le Potier"},
     "meta_descr": {"fr":"théière réalisée par Jé le Potier","en":"teapot made by Jé le Potier"},
     "tags": ["je-le-potier"],
