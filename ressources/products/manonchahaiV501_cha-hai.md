@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: Verseuse en grès façonnée par Manon Clouzeau 
   en: Stoneware pourer shaped by Manon Clouzeau
-tags: ["manon-clouzeau"]
+tags: ["manon-clouzeau", "verseuse"]
 description:
   fr: >
     茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.
