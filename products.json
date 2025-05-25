@@ -1335,7 +1335,7 @@
     "name": {"fr":"蓋碗 - GàiWǎn","en":"蓋碗 - GàiWǎn"},
     "mini_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
     "meta_descr": {"fr":"gaiwan réalisé par Manon Clouzeau","en":"gaiwan made by Manon Clouzeau"},
-    "tags": ["manon-clouzeau"],
+    "tags": ["manon-clouzeau","gaiwan"],
     "description": {"fr":"蓋碗 - GàiWǎn en grès, cuisson à 1250 °C. Pièce unique.\n","en":"蓋碗 - Stoneware gaiwan, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_gaiwan_G502-a.jpg","manon_gaiwan_G502-b.jpg"],
     "price": "50",
