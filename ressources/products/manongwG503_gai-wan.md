@@ -15,6 +15,9 @@ description:
 photos:
   - manon_gaiwan_G503-a.jpg
   - manon_gaiwan_G503-b.jpg
+  - manon_gaiwan_G503-c.jpg
+  - manon_gaiwan_G503-d.jpg
+  - manon_gaiwan_G503-e.jpg
 price: 50.00
 stock: 1
 weight: 127
