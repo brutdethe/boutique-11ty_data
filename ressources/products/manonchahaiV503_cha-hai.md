@@ -14,8 +14,8 @@ description:
     茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.
 photos:
   - manon_chahai_V503-a.jpg
-  - manon_chahai_V503-b.jpg
   - manon_chahai_V503-c.jpg
+  - manon_chahai_V503-d.jpg
 price: 30.00
 stock: 1
 weight: 99
