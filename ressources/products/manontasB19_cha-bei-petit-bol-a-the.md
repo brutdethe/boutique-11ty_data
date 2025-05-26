@@ -15,7 +15,6 @@ description:
 photos:
     - manon_tasse_B19-a.jpg
     - manon_tasse_B19-b.jpg
-    - manon_tasse_B19-c.jpg
 price: 15.00
 stock: 1
 weight: 42
