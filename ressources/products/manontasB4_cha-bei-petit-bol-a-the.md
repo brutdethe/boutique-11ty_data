@@ -15,6 +15,8 @@ description:
 photos:
   - manon_tasse_B4-a.jpg
   - manon_tasse_B4-b.jpg
+  - manon_tasse_B4-c.jpg
+  - manon_tasse_B4-d.jpg
 price: 15.00
 stock: 1
 weight: 40
