@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: pot à thé en porcelaine semi-artisanale, fabriquée à Taïwan
   en: small semi-handcrafted porcelain tea jar, made in Taiwan
-tags: ["chacang"]
+tags: ["chacang", "welcome"]
 description:
   fr: >
     Ce 茶倉 en porcelaine blanche, fabriqué semi-artisanalement à Taïwan, est un modèle simple et épuré, idéal pour conserver vos thés précieux.<!--more--> Sa taille compacte s'intègre parfaitement dans un 茶席 (ChaXi) ou accompagne vos déplacements, tout en préservant l'arôme et la fraîcheur du thé.

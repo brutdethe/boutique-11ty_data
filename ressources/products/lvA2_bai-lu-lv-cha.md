@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: thé vert traditionnel du Sichuan
   en: traditional green tea from Sichuan
-tags: ["cha"]
+tags: ["cha", "welcome"]
 description:
   fr: >
     Au cœur des montagnes du 四川 - SìChuān, ce 綠茶 - LǜChá est récolté à 白鹿村 - BáiLùCūn, un petit village de 彭州 - PéngZhōu, perché à 850 mètres d'altitude. Entouré de forêts et de ruisseaux, sans industrie, 白鹿村 - BáiLùCūn offre un environnement pur, propice à une agriculture respectueuse du vivant.<!--more-->  Dans cet air clair et tranquille, le thé grandit lentement, nourri de brumes et de lumière. Son infusion est douce, sans amertume, portée par des notes de fèves tendres et de fleurs sauvages.Chaque tasse résonne comme un souffle vivant de la nature.

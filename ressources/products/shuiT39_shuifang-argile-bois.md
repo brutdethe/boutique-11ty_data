@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: ShuǐFāng fait à la main à Taïwan
   en: ShuǐFāng handmade in Taiwan
-tags: ["shuifang"]
+tags: ["shuifang", "welcome"]
 description:
   fr: >
     Ce bol en argile, façonné à la main et cuit au bois, charme par sa forme organique et ses textures naturelles. Ses nuances chaleureuses et ses détails uniques racontent l’histoire du feu et de la terre qui l’ont façonné.<!--more--> Une pièce pleine de caractère, idéale pour ajouter une touche d’authenticité à vos moments de thé.

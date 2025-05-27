@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: verseuse à thé réalisé par Perrine Pottiez
   en: tea pitcher made by Perrine Pottiez
-tags: ["perrine-pottiez"]
+tags: ["perrine-pottiez", "welcome"]
 description:
   fr: >
     茶海 - CháHǎi en céramique, 1050°C. Pièce unique. Verseuse à thé

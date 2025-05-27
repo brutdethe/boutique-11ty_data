@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: thé wulong traditionnel de haute montagne de Taïwan
   en: traditional high mountain oolong tea from Taiwan
-tags: ["cha"]
+tags: ["cha", "welcome"]
 description:
   fr: >
     Ce 梨山高山茶 – LíShānGāoShānChá, issu du cultivar traditionnel 青心烏龍 – QīngXīnWūLóng, vient du jardin de Mme 喩 – Yù, niché dans les montagnes de 梨山 – LíShān, au cœur du 梨山茶區 – LíShānCháQū de 臺灣 – TáiWān, entre 2000 et 2600 mètres.<!--more-->  Bercé par les brumes, lentement mûri sous de fortes amplitudes thermiques,<!--more-->  ce thé développe une liqueur vive, limpide et fleurie, portée par une douceur intense et une longueur remarquable — signatures précieuses des 高山茶 – GāoShānChá, les thés de haute montagne. Depuis quarante ans, Mme 喩 – Yù et sa famille cultivent leur terre avec cœur, offrant des thés nourris d’amour et de patience.
