@@ -26,7 +26,7 @@ description:
 photos:
     - billet-gongfucha-vendredi.jpg
 price: 15.00
-stock: 100
+stock: 91
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
