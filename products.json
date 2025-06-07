@@ -2921,7 +2921,7 @@
     "description": {"fr":"Ce billet vous permet de participer à la journée du vendredi 27 juin au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.<!--more-->   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr) on Friday, June 27th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.<!--more-->    A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-vendredi.jpg"],
     "price": "15",
-    "stock": "100",
+    "stock": "91",
     "weight": "",
     
     "shipping_type": "sans_envoi",
@@ -2941,7 +2941,7 @@
     "description": {"fr":"Ce billet vous permet de participer à la journée du samedi 28 juin au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.<!--more-->   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr) on Saturday, June 28th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.<!--more-->   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-samedi.jpg"],
     "price": "15",
-    "stock": "100",
+    "stock": "91",
     "weight": "",
     
     "shipping_type": "sans_envoi",
@@ -2961,7 +2961,7 @@
     "description": {"fr":"Ce billet vous permet de participer à la journée du dimanche 29 juin au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).   Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.<!--more-->   Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.   À très bientôt, Hâte de vous rencontrer ! ;)\n","en":"This ticket gives you access to the [GōngFūChá - 工夫茶 Tea Festival](https://festival.gongfucha.fr) on Sunday, June 29th.   It includes entry to the Parc aux Bambous, access to the gathering spaces, concerts, open-access workshops and performances, as well as to the exhibitors and guest presenters.<!--more-->   A beautiful opportunity to explore Chinese tea culture in a peaceful and inspiring setting.   We look forward to seeing you soon! :)\n"},
     "photos": ["billet-gongfucha-dimanche.jpg"],
     "price": "15",
-    "stock": "100",
+    "stock": "87",
     "weight": "",
     
     "shipping_type": "sans_envoi",
@@ -2981,6 +2981,26 @@
     "description": {"fr":"Ce billet vous ouvre les portes du [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr) pour les trois jours de l’événement. Il inclut l’entrée au Parc aux Bambous, l’accès à toutes les conférences, ateliers, démonstrations, dégustations de thé, ainsi qu’aux espaces de rencontre. Nous vous offrons l’affiche de cette édition en souvenir.<!--more-->  C’est une belle occasion de croiser celles et ceux qui font vibrer le festival : artisan·es, exposant·es, passionné·es.   Et le soir venu, quand le parc referme ses allées, vous pourrez rester encore un peu…   Partager un thé, prolonger la journée en douceur, et savourer l’instant sans hâte.\n","en":"This ticket grants you access to all three days of the [GōngFūChá Festival - 工夫茶](https://festival.gongfucha.fr).   It includes entry to the Bamboo Park, access to all talks, workshops, tea demonstrations, tastings, and gathering spaces. You’ll also receive a poster from this year’s edition as a gift.<!--more-->  It’s a beautiful opportunity to meet the artisans, exhibitors, and tea lovers who bring the festival to life.    And in the evening, when the park gates close, you’re welcome to stay with us a little longer…   To chat, sip some tea, and gently let the day linger on.\n"},
     "photos": ["billet-gongfucha-pass.jpg"],
     "price": "50",
+    "stock": "98",
+    "weight": "",
+    
+    "shipping_type": "sans_envoi",
+    "shipping_point": ""
+  },
+{
+    "permalinks": {
+      "fr": "/products/tick4_ticket-assiette-mikki-and-fred-festival/",
+      "en": "/en/products/tick4_ticket-assiette-mikki-and-fred-festival/"
+    },
+    "layout": "",
+    "id": "tick4",
+    "name": {"fr":"Ticket assiette Mikki & Fred - festival - 工夫茶","en":null},
+    "mini_descr": {"fr":"Plat original concocté avec malice par Fred & Mikki","en":"An original, playful dish crafted by Fred & Mikki"},
+    "meta_descr": {"fr":"Savourez un plat végétarien (option végane) spécialement préparé par Mikki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.\n","en":"Enjoy a vegetarian (vegan option available) meal specially prepared by Mikki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.\n"},
+    "tags": ["festival","welcome"],
+    "description": {"fr":"🌿 Menu végétarien unique (option végane) — 12€ + 1€ de consigne<br> Du riz, céréale douce et emblématique, accompagné par des propositions de légumes et légumineuses qui se déclinent telles les cinq couleurs de la tradition culinaire ancrée dans la médecine traditionnelle chinoise. Ces accompagnements sont une réjouissance pour les yeux, et vous promettent un repas sain et équilibré, grâce à l’art de la fermentation.\n","en":"🌿 Unique vegetarian menu (vegan option available) — €12 + €1 deposit<br> Rice, the soft and emblematic grain, is paired with a colorful variety of vegetables and legumes, inspired by the five-color tradition rooted in Chinese culinary medicine. These sides, crafted with the art of fermentation, delight the eye and promise a meal that is healthy, balanced, and full of flavor. A tribute to simplicity and creativity, to be enjoyed in the festival’s serene atmosphere.\n"},
+    "photos": ["ticket-gongfucha-resto.jpg"],
+    "price": "13",
     "stock": "100",
     "weight": "",
     
