@@ -13,7 +13,7 @@ description:
   en: >
     Make a 50 € donation and receive the festival poster
 photos:
-  - ticket-gongfucha.jpg
+  - ticket-gongfucha-don.jpg
 price: 50.00
 stock: 30
 shipping_type: sans_envoi

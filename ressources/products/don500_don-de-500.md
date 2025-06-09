@@ -13,7 +13,7 @@ description:
   en: >
     Make a 500 € donation and collaborate with us to design a personalized reward.
 photos:
-  - ticket-gongfucha.jpg
+  - ticket-gongfucha-don.jpg
 price: 500.00
 stock: 30
 shipping_type: sans_envoi

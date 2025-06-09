@@ -13,7 +13,7 @@ description:
   en: >
     Make a 100 € donation and receive a tasting kit.
 photos:
-  - ticket-gongfucha.jpg
+  - ticket-gongfucha-don.jpg
 price: 100.00
 stock: 30
 shipping_type: sans_envoi
