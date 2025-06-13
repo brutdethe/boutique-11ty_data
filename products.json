@@ -2989,11 +2989,11 @@
   },
 {
     "permalinks": {
-      "fr": "/products/tick4_ticket-assiette-mikki-and-fred-festival/",
-      "en": "/en/products/tick4_ticket-assiette-mikki-and-fred-festival/"
+      "fr": "/products/tick5_ticket-assiette-mikki-and-fred-festival/",
+      "en": "/en/products/tick5_ticket-assiette-mikki-and-fred-festival/"
     },
     "layout": "",
-    "id": "tick4",
+    "id": "tick5",
     "name": {"fr":"Ticket assiette Mikki & Fred - festival - 工夫茶","en":null},
     "mini_descr": {"fr":"Plat original concocté avec malice par Fred & Mikki","en":"An original, playful dish crafted by Fred & Mikki"},
     "meta_descr": {"fr":"Savourez un plat végétarien (option végane) spécialement préparé par Mikki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.\n","en":"Enjoy a vegetarian (vegan option available) meal specially prepared by Mikki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.\n"},
