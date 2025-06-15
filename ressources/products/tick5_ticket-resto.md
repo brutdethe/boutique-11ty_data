@@ -21,9 +21,9 @@ description:
         Rice, the soft and emblematic grain, is paired with a colorful variety of vegetables and legumes, inspired by the five-color tradition rooted in Chinese culinary medicine. These sides, crafted with the art of fermentation, delight the eye and promise a meal that is healthy, balanced, and full of flavor.
         A tribute to simplicity and creativity, to be enjoyed in the festival’s serene atmosphere.
 photos:
-    - ticket-gongfucha-resto.jpg
+    - ticket-gongfucha-plat.jpg
 price: 13.00
-stock: 100
+stock: 97
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
