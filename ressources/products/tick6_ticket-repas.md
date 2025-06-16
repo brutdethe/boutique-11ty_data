@@ -15,8 +15,8 @@ tags: ["festival", "welcome"]
 description: 
     fr: >
         🌿 Menu végétarien unique (option végane)<br>
-        "Le menu proposé par Fred et Miki reflète des pratiques culinaires courantes traversant l’Asie, et inspirées de philosophie bouddhiste :
-        - Une offre végétarienne (qui s’adapte également aux véganes) composée de riz aux haricots azuki, enrichi de propositions de légumes lactofermentés et de préparations de légumineuses (miso, houmous...).<br>
+        Le menu proposé par Fred et Miki reflète des pratiques culinaires courantes traversant l’Asie, et inspirées de philosophie bouddhiste :
+        - Une offre végétarienne (qui s’adapte également aux véganes) composée de riz aux haricots azuki, enrichi de propositions de légumes lactofermentés et de préparations de légumineuses (miso, houmous...).<!--more--> <br>
         À la fois sain et rassasiant, ce menu a été développé pour représenter les 5 couleurs de la diététique chinoise, qui garantissent un repas équilibré et diversifié.<br>
         Ce menu végétarien unique répond aussi à notre exigence écologique : 
         - Les aliments fermentés qui le composent ont une durée de vie longue, et nous permettent de limiter le gaspillage alimentaire en cas d’invendus: ce qui ne sera pas consommé lors du festival continuera à s’affiner avec le temps, et pourra être conservé jusqu’à une utilisation ultérieure.
