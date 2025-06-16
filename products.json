@@ -2989,12 +2989,12 @@
   },
 {
     "permalinks": {
-      "fr": "/products/tick5_ticket-assiette-mikki-and-fred-gongfucha-festival/",
-      "en": "/en/products/tick5_ticket-assiette-mikki-and-fred-gongfucha-festival/"
+      "fr": "/products/tick5_ticket-assiette-mikki-and-fred/",
+      "en": "/en/products/tick5_ticket-assiette-mikki-and-fred/"
     },
     "layout": "",
     "id": "tick5",
-    "name": {"fr":"Ticket assiette Mikki & Fred - GongFuCha festival","en":"Plate Ticket – Mikki & Fred – GongFuCha Festival"},
+    "name": {"fr":"Ticket assiette Mikki & Fred","en":"Plate Ticket – Mikki & Fred"},
     "mini_descr": {"fr":"Plat original concocté avec malice par Fred & Mikki","en":"An original, playful dish crafted by Fred & Mikki"},
     "meta_descr": {"fr":"Savourez un plat végétarien (option végane) spécialement préparé par Mikki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.\n","en":"Enjoy a vegetarian (vegan option available) meal specially prepared by Mikki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.\n"},
     "tags": ["festival"],
@@ -3009,12 +3009,12 @@
   },
 {
     "permalinks": {
-      "fr": "/products/tick6_ticket-assiette-et-dessert-mikki-and-fred-festival/",
-      "en": "/en/products/tick6_ticket-assiette-et-dessert-mikki-and-fred-festival/"
+      "fr": "/products/tick6_ticket-assiette-et-dessert-mikki-and-fred/",
+      "en": "/en/products/tick6_ticket-assiette-et-dessert-mikki-and-fred/"
     },
     "layout": "",
     "id": "tick6",
-    "name": {"fr":"Ticket assiette et dessert Mikki & Fred - festival - 工夫茶","en":"Plate & Dessert Ticket – Mikki & Fred – Gong Fu Cha Festival"},
+    "name": {"fr":"Ticket assiette et dessert Mikki & Fred","en":"Plate & Dessert Ticket – Mikki & Fred"},
     "mini_descr": {"fr":"Plat original et dessert concoctés avec malice par Fred & Mikki","en":"An original, playful dish and dessert crafted by Fred & Mikki"},
     "meta_descr": {"fr":"Savourez un plat végétarien (option végane) spécialement préparé par Mikki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.\n","en":"Enjoy a vegetarian (vegan option available) meal specially prepared by Mikki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.\n"},
     "tags": ["festival","welcome"],
