@@ -1,8 +1,8 @@
 ---
 id: tick5
 name:
-    fr: Ticket assiette Mikki & Fred - GongFuCha festival
-    en: Plate Ticket – Mikki & Fred – GongFuCha Festival
+    fr: Ticket assiette Mikki & Fred
+    en: Plate Ticket – Mikki & Fred
 mini_descr:
     fr: Plat original concocté avec malice par Fred & Mikki
     en: An original, playful dish crafted by Fred & Mikki

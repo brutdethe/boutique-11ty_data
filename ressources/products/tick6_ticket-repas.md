@@ -1,8 +1,8 @@
 ---
 id: tick6
 name:
-    fr: Ticket assiette et dessert Mikki & Fred - festival - 工夫茶
-    en: Plate & Dessert Ticket – Mikki & Fred – Gong Fu Cha Festival
+    fr: Ticket assiette et dessert Mikki & Fred
+    en: Plate & Dessert Ticket – Mikki & Fred
 mini_descr:
     fr: Plat original et dessert concoctés avec malice par Fred & Mikki
     en: An original, playful dish and dessert crafted by Fred & Mikki
