@@ -21,7 +21,7 @@ description:
         Ce menu végétarien unique répond aussi à notre exigence écologique : 
         - Les aliments fermentés qui le composent ont une durée de vie longue, et nous permettent de limiter le gaspillage alimentaire en cas d’invendus: ce qui ne sera pas consommé lors du festival continuera à s’affiner avec le temps, et pourra être conservé jusqu’à une utilisation ultérieure.
         - À l’inverse, en cas de rupture de stock, nous adapteront le menu avec de nouvelles propositions : nos préparations artisanales ont un volume limité !
-        - Enfin, pour éviter au maximum le gaspillage de ressources, nous dressons le repas dans des assiettes en bambou provenant du parc : vous aurez le choix d’acheter cette assiette pour 1€ et de la réutiliser chez vous, ou de nous la retourner après consommation.”
+        - Enfin, pour éviter au maximum le gaspillage de ressources, nous dressons le repas dans des assiettes en bambou provenant du parc : vous aurez le choix d’acheter cette assiette pour 1€ et de la réutiliser chez vous, ou de nous la retourner après consommation.
         
         Liste des allergènes :
         - Oeuf
