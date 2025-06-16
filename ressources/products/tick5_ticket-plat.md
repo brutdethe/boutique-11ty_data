@@ -34,6 +34,9 @@ description:
         - Soy
 photos:
     - ticket-gongfucha-plat.jpg
+    - ticket-gongfucha-plat-a.jpg
+    - ticket-gongfucha-plat-b.jpg
+    - ticket-gongfucha-plat-c.jpg
 price: 13.00
 stock: 97
 shipping_type: sans_envoi

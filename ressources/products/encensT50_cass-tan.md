@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: 倒流香 - DàoLiúXiāng, encens en cascade
   en: 倒流香 - DàoLiúXiāng, waterfall incense
-tags: ["xiangju"]
+tags: ["xiangju", "welcome"]
 description:
   fr: >
     檀香 - TánXiāng, le bois de santal est originaire de l’Inde et s’est diffusé par le commerce vers le Moyen-Orient, l’Asie du Sud-Est et la Chine. Prisé pour sa rareté, il fut autrefois un tribut royal et un symbole de prestige. D’abord utilisé dans les rites religieux, il s’est ensuite intégré à la vie quotidienne et à l’art de l’encens chinois,<!--more--> apprécié par les moines et l’aristocratie. Son parfum apaisant aide à réduire le stress, l’anxiété et l’insomnie, tout en influençant les neurotransmetteurs pour améliorer l’humeur et atténuer la dépression.

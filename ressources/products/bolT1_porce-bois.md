@@ -6,7 +6,7 @@ name:
 mini_descr:
   fr: bol à thé en porcelaine, cuisson au bois, artisanal de Taïwan
   en: wood-fired porcelain tea bowl, handcrafted in Taiwan
-tags: ["chabei"]
+tags: ["chabei", "welcome"]
 description:
   fr: >
     Ce bol en porcelaine, cuit au feu de bois, est une pièce unique empreinte de caractère. Ses teintes naturelles et son émail craquelé apportent une esthétique organique et apaisante.<!--more--> Parfait pour savourer vos thés préférés dans un esprit chaleureux et authentique.

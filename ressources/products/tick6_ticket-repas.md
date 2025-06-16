@@ -45,6 +45,10 @@ description:
         - Soy
 photos:
     - ticket-gongfucha-repas.jpg
+    - ticket-gongfucha-plat-a.jpg
+    - ticket-gongfucha-plat-b.jpg
+    - ticket-gongfucha-plat-c.jpg
+    - ticket-gongfucha-dessert-a.jpg
 price: 17.00
 stock: 97
 shipping_type: sans_envoi
