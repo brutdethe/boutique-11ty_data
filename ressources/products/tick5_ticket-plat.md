@@ -1,16 +1,16 @@
 ---
 id: tick5
 name:
-    fr: Ticket assiette Mikki & Fred
-    en: Plate Ticket – Mikki & Fred
+    fr: Ticket assiette Miki & Fred
+    en: Plate Ticket – Miki & Fred
 mini_descr:
-    fr: Plat original concocté avec malice par Fred & Mikki
-    en: An original, playful dish crafted by Fred & Mikki
+    fr: Plat original concocté avec malice par Fred & Miki
+    en: An original, playful dish crafted by Fred & Miki
 meta_descr:
     fr: >
-        Savourez un plat végétarien (option végane) spécialement préparé par Mikki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.
+        Savourez un plat végétarien (option végane) spécialement préparé par Miki & Fred lors du Festival GōngFūChá. Un repas sain et coloré, à déguster sur place dans l’ambiance paisible du festival.
     en: >
-        Enjoy a vegetarian (vegan option available) meal specially prepared by Mikki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.
+        Enjoy a vegetarian (vegan option available) meal specially prepared by Miki & Fred during the GōngFūChá Festival. A healthy and colorful dish to be savored on site in the festival’s peaceful atmosphere.
 tags: ["festival"]
 description: 
     fr: >
