@@ -1,8 +1,8 @@
 ---
 id: tick5
 name:
-    fr: Ticket assiette Mikki & Fred
-    en: Plate Ticket – Mikki & Fred
+    fr: Ticket assiette Miki & Fred
+    en: Plate Ticket – Miki & Fred
 mini_descr:
     fr: Plat original concocté avec malice par Fred & Miki
     en: An original, playful dish crafted by Fred & Miki

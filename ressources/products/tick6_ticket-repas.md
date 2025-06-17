@@ -1,8 +1,8 @@
 ---
 id: tick6
 name:
-    fr: Ticket assiette et dessert Mikki & Fred
-    en: Plate & Dessert Ticket – Mikki & Fred
+    fr: Ticket assiette et dessert Miki & Fred
+    en: Plate & Dessert Ticket – Miki & Fred
 mini_descr:
     fr: Plat original et dessert concoctés avec malice par Fred & Miki
     en: An original, playful dish and dessert crafted by Fred & Miki
