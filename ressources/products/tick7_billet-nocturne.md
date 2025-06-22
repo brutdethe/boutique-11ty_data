@@ -1,8 +1,8 @@
 ---
-id: tick4
+id: tick7
 name:
-    fr: Pass 3 jours - festival - 工夫茶
-    en: 3 days Pass - Festival - 工夫茶
+    fr: Billet nocturne - festival - 工夫茶
+    en: Nocturne ticket - Festival - 工夫茶
 mini_descr:
     fr: Pass du Festival GōngFūChá - 工夫茶 pour les trois jours et la nocturne
     en: The GōngFūChá's Pass - 工夫茶 Festival for the three days and the nocturne
@@ -25,9 +25,9 @@ description:
         To chat, sip some tea, and gently let the day linger on.
 
 photos:
-    - billet-gongfucha-pass.jpg
-price: 80.00
-stock: 98
+    - billet-gongfucha-nocturne.jpg
+price: 35.00
+stock: 35
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
