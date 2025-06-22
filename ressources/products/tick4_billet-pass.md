@@ -4,8 +4,8 @@ name:
     fr: Pass 3 jours - festival - 工夫茶
     en: 3 days Pass - Festival - 工夫茶
 mini_descr:
-    fr: Pass du Festival GōngFūChá - 工夫茶 pour les trois jours et la nocturne
-    en: The GōngFūChá's Pass - 工夫茶 Festival for the three days and the nocturne
+    fr: Pass du Festival GōngFūChá - 工夫茶 trois jours et nocturne
+    en: The GōngFūChá festival's Pass - 工夫茶 three days and nocturne
 meta_descr:
     fr: >
         Accédez au Festival GōngFūChá - 工夫茶 : conférences, ateliers, rencontres avec exposants et artisans. Profitez de l’affiche de l’édition et restez après la fermeture du parc pour échanger autour d’un thé.
