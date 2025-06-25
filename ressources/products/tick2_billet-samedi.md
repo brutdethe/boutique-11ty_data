@@ -14,7 +14,7 @@ meta_descr:
 tags: ["festival"]
 description: 
     fr: >
-      Ce billet vous permet de participer à la journée du samedi 28 juin au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).  
+      Ce billet vous permet de participer à la journée du samedi 28 juin de 11h à 18h au [festival GōngFūChá - 工夫茶](https://festival.gongfucha.fr).  
       Il comprend l’accès au Parc aux Bambous, aux espaces de rencontres, aux concerts, démonstrations et ateliers (en libre accès), ainsi qu’aux personnes exposantes et intervenantes.<!--more-->  
       Une occasion de découvrir la culture chinoise du thé dans un cadre exceptionnel et apaisant.  
       À très bientôt, Hâte de vous rencontrer ! ;)
