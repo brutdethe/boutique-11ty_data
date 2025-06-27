@@ -38,7 +38,7 @@ photos:
     - ticket-gongfucha-plat-b.jpg
     - ticket-gongfucha-plat-c.jpg
 price: 13.00
-stock: 97
+stock: 0
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"

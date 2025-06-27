@@ -50,7 +50,7 @@ photos:
     - ticket-gongfucha-plat-c.jpg
     - ticket-gongfucha-dessert-a.jpg
 price: 17.00
-stock: 97
+stock: 0
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
