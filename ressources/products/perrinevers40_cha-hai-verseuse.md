@@ -18,7 +18,7 @@ photos:
   - perrine_cha-hai_40-c.jpg
   - perrine_cha-hai_40-d.jpg
 price: 60.00
-stock: 1
+stock: 0
 weight: 63
 shipping_type: colis_base
 shipping_point: 5

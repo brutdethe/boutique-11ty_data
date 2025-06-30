@@ -17,7 +17,7 @@ photos:
   - perrine_bol_11-b.jpg
   - perrine_bol_11-c.jpg
 price: 20.00
-stock: 1
+stock: 0
 weight: 35
 shipping_type: colis_base
 shipping_point: 2
