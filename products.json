@@ -1579,7 +1579,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B36-a.jpg","manon_tasse_B36-b.jpg","manon_tasse_B36-c.jpg","manon_tasse_B36-d.jpg"],
     "price": "15",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"7,5cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"7,5cm x 3,5cm","capacity":"35ml"}},
@@ -1755,7 +1755,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B506-a.jpg","manon_tasse_B506-b.jpg","manon_tasse_B506-c.jpg","manon_tasse_B506-d.jpg"],
     "price": "15",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6,5cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 4,0cm","capacity":"35ml"}},
