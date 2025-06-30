@@ -2063,7 +2063,7 @@
     "description": {"fr":"茶杯 - CháBēi en céramique, 1050°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1050°C. Unique piece.\n"},
     "photos": ["perrine_bol_11-a.jpg","perrine_bol_11-b.jpg","perrine_bol_11-c.jpg"],
     "price": "20",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6cm x 3cm","capacité":"30ml"},"en":{"dimensions":"6cm x 3cm","capacity":"30ml"}},
@@ -2085,7 +2085,7 @@
     "description": {"fr":"茶杯 - CháBēi en céramique, 1050°C. Pièce unique.\n","en":"CháBēi - Tea Cup made of ceramic, fired at 1050°C. Unique piece.\n"},
     "photos": ["perrine_bol_24-a.jpg","perrine_bol_24-b.jpg","perrine_bol_24-c.jpg"],
     "price": "20",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"7cm x 3cm","capacité":"35ml"},"en":{"dimensions":"7cm x 3cm","capacity":"35ml"}},
@@ -2679,7 +2679,7 @@
     "description": {"fr":"茶海 - CháHǎi en céramique, 1050°C. Pièce unique. Verseuse à thé\n","en":"茶海 - CháHǎi - Tea pitcher made of ceramic, fired at 1050°C. Unique piece\n"},
     "photos": ["perrine_cha-hai_40-a.jpg","perrine_cha-hai_40-b.jpg","perrine_cha-hai_40-c.jpg","perrine_cha-hai_40-d.jpg"],
     "price": "60",
-    "stock": "1",
+    "stock": "0",
     "weight": "63",
     
         "options": {"fr":{"dimensions":"10cm x 5cm","capacité":"120ml"},"en":{"dimensions":"10cm x 5cm","capacity":"120ml"}},
