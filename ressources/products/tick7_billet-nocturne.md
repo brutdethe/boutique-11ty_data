@@ -32,7 +32,7 @@ description:
 photos:
     - billet-gongfucha-nocturne.jpg
 price: 35.00
-stock: 35
+stock: 0
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"

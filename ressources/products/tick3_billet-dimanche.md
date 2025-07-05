@@ -26,7 +26,7 @@ description:
 photos:
     - billet-gongfucha-dimanche.jpg
 price: 15.00
-stock: 87
+stock: 0
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"

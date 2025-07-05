@@ -27,7 +27,7 @@ description:
 photos:
     - billet-gongfucha-pass.jpg
 price: 80.00
-stock: 98
+stock: 0
 shipping_type: sans_envoi
 eleventyComputed:
   title: "{{ tags }} - {{ name[page.lang] }}"
