@@ -821,7 +821,7 @@
     "description": {"fr":"Ce 茶海 en argile rouge, façonné à Taïwan, allie tradition et simplicité. Avec sa forme douce et accueillante, il accompagne naturellement vos moments de 工夫茶 GōngFūChá, en rendant chaque infusion encore plus fluide et agréable.\n","en":"This red clay 茶海, handmade in Taiwan, combines tradition and simplicity. Its soft and inviting shape naturally complements your 工夫茶 GōngFūChá moments, making every pour smooth and enjoyable.\n"},
     "photos": ["chahai-argile-semi-main_T27-a.jpg","chahai-argile-semi-main_T27-b.jpg"],
     "price": "20",
-    "stock": "2",
+    "stock": "1",
     "weight": "112",
     
         "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"170 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"170 ml"}},
@@ -1449,7 +1449,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B20-a.jpg","manon_tasse_B20-b.jpg","manon_tasse_B20-c.jpg","manon_tasse_B20-d.jpg"],
     "price": "15",
-    "stock": "1",
+    "stock": "0",
     "weight": "42",
     
         "options": {"fr":{"dimensions":"6,5cm x 3,5cm","capacité":"35ml"},"en":{"dimensions":"6.5cm x 3.5cm","capacity":"35ml"}},
