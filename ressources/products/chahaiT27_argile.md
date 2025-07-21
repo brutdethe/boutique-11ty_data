@@ -16,7 +16,7 @@ photos:
   - chahai-argile-semi-main_T27-a.jpg
   - chahai-argile-semi-main_T27-b.jpg
 price: 20
-stock: 2
+stock: 1
 weight: 112
 shipping_type: colis_base
 shipping_point: 5
