@@ -18,7 +18,7 @@ photos:
   - bol-ancien-imari_J13-c.jpg
   - bol-ancien-imari_J13-d.jpg
 price: 40
-stock: 1
+stock: 0
 weight: 100
 shipping_type: colis_base
 shipping_point: 5
