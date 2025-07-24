@@ -1097,7 +1097,7 @@
     "description": {"fr":"Ce 蓋碗 en porcelaine, fabriqué à Taïwan, provient de la Maison des Trois Raretés de Taïwan (三希堂 - SānXī Táng). On l'appelle également 三才碗 - SānCái Wǎn, ce qui se traduit littéralement par \"bol des trois éléments\".<!--more--> Les trois éléments, 天 - Tiān (le ciel), 地 - Dì (la terre) et 人 - Rén (l'humain), représentent les trois forces fondamentales dans la pensée taoïste.\n","en":"This porcelain 蓋碗, crafted in Taiwan, comes from the House of the Three Rarities from Taiwan (三希堂 - SānXī Táng). It is also known as SānCái Wǎn (三才碗), which literally translates to \"bowl of the three elements\".<!--more--> The three elements, Tiān (heaven), Dì (earth), and Rén (humanity), represent the three fundamental forces in Taoist philosophy.\n"},
     "photos": ["gaiwan-porcelaine_T26-a.jpg","gaiwan-porcelaine_T26-b.jpg","gaiwan-porcelaine_T26-c.jpg"],
     "price": "30",
-    "stock": "1",
+    "stock": "0",
     "weight": "190",
     
         "options": {"fr":{"origine":"臺灣 - Táiwān","capacité":"90 ml"},"en":{"origin":"臺灣 - Táiwān (Taiwan)","capacity":"90 ml"}},
@@ -1779,7 +1779,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B508-a.jpg","manon_tasse_B508-b.jpg","manon_tasse_B508-c.jpg","manon_tasse_B508-d.jpg"],
     "price": "15",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6,0cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,0cm x 4,0cm","capacity":"35ml"}},
