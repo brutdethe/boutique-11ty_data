@@ -18,7 +18,7 @@ photos:
   - manon_tasse_B512-c.jpg
   - manon_tasse_B512-d.jpg
 price: 20.00
-stock: 1
+stock: 0
 weight: 50
 shipping_type: colis_base
 shipping_point: 2
