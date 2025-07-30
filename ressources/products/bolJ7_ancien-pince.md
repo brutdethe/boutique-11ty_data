@@ -18,7 +18,7 @@ photos:
   - bol-ancien-pince_J7-c.jpg
   - bol-ancien-pince_J7-d.jpg
 price: 25
-stock: 1
+stock: 0
 weight: 37
 shipping_type: colis_base
 shipping_point: 2
