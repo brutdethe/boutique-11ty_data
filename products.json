@@ -359,7 +359,7 @@
     "description": {"fr":"Ce bol à thé ancien en céramique japonaise, probablement issu de la tradition du Shino-yaki. Ses tons doux et naturels, parsemés de délicates craquelures,<!--more--> évoquent l’authenticité et la simplicité des rituels du thé. Chaque détail raconte une histoire, entre savoir-faire ancestral et beauté intemporelle. Idéal pour savourer votre thé dans une ambiance empreinte de sérénité.\n","en":"This antique japanese ceramic tea bowl, likely from the Shino-yaki tradition. Its soft, natural tones, adorned with delicate crackles,<!--more--> evoke the authenticity and simplicity of tea rituals. Every detail tells a story of ancestral craftsmanship and timeless beauty. Perfect for enjoying your tea in a serene and contemplative atmosphere.\n"},
     "photos": ["bol-ancien-pince_J7-a.jpg","bol-ancien-pince_J7-b.jpg","bol-ancien-pince_J7-c.jpg","bol-ancien-pince_J7-d.jpg"],
     "price": "25",
-    "stock": "1",
+    "stock": "0",
     "weight": "37",
     
         "options": {"fr":{"origine":"Japon","dimensions":"6,3cm x 2,6cm","capacité":"34 ml"},"en":{"origin":"Japon","dimensions":"6,3cm x 2,6cm","capacity":"34 ml"}},
@@ -1625,7 +1625,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B501-a.jpg","manon_tasse_B501-b.jpg","manon_tasse_B501-c.jpg","manon_tasse_B501-d.jpg"],
     "price": "15",
-    "stock": "1",
+    "stock": "0",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6,5cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 4,0cm","capacity":"35ml"}},
