@@ -1251,7 +1251,7 @@
     "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_chahai_V501-a.jpg","manon_chahai_V501-b.jpg","manon_chahai_V501-c.jpg","manon_chahai_V501-d.jpg"],
     "price": "35",
-    "stock": "1",
+    "stock": "0",
     "weight": "115",
     
         "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"140ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"140ml"}},
@@ -1625,7 +1625,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B501-a.jpg","manon_tasse_B501-b.jpg","manon_tasse_B501-c.jpg","manon_tasse_B501-d.jpg"],
     "price": "15",
-    "stock": "0",
+    "stock": "1",
     "weight": "35",
     
         "options": {"fr":{"dimensions":"6,5cm x 4,0cm","capacité":"35ml"},"en":{"dimensions":"6,5cm x 4,0cm","capacity":"35ml"}},
