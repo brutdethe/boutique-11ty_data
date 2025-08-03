@@ -1120,11 +1120,11 @@
     "photos": ["HongCha_MiXiang_1-a.jpg","HongCha_MiXiang_1-b.jpg"],
     "price": "15",
     "stock": "10",
-    "weight": "125",
+    "weight": "32",
     
         "options": {"fr":{"récolte":"printemps 2024","type":"红茶 - HóngChá","village":"三峡 - SānXiá","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"红茶 - HóngChá (black tea)","village":"三峡 - SānXiá","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
     
-    "shipping_type": "colis_base",
+    "shipping_type": "lettre",
     "shipping_point": "2"
   },
 {
@@ -1229,8 +1229,8 @@
     "description": {"fr":"Au cœur des montagnes du 四川 - SìChuān, ce 綠茶 - LǜChá est récolté à 白鹿村 - BáiLùCūn, un petit village de 彭州 - PéngZhōu, perché à 850 mètres d'altitude. Entouré de forêts et de ruisseaux, sans industrie, 白鹿村 - BáiLùCūn offre un environnement pur, propice à une agriculture respectueuse du vivant.<!--more-->  Dans cet air clair et tranquille, le thé grandit lentement, nourri de brumes et de lumière. Son infusion est douce, sans amertume, portée par des notes de fèves tendres et de fleurs sauvages.Chaque tasse résonne comme un souffle vivant de la nature.\n","en":"In the heart of the 四川 - SìChuān mountains, this 綠茶 - LǜChá is hand-harvested in 白鹿村 - BáiLùCūn, a small village of 彭州 - PéngZhōu, perched at 850 meters above sea level. Surrounded by forests and streams, untouched by industry, 白鹿村 - BáiLùCūn offers a pure, living environment where tea grows slowly,<!--more-->  nourished by mist and light. Its infusion is soft and free from bitterness, with tender bean and wildflower notes. Each cup carries the vibrant breath of nature.\n"},
     "photos": ["BaiLu-LvCha_1-a.jpg","BaiLu-LvCha_1-b.jpg"],
     "price": "15",
-    "stock": "10",
-    "weight": "25",
+    "stock": "8",
+    "weight": "65",
     
         "options": {"fr":{"récolte":"printemps 2023","type":"綠茶 - LǜChá","village":"白鹿村 - BáiLùCūn","province":"四川 - SìChuān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2023","type":"綠茶 - LǜChá (green tea)","village":"白鹿村 - BáiLùCūn","province":"四川 - SìChuān (Sichuan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
     
@@ -3061,8 +3061,8 @@
     "description": {"fr":"Ce 梨山高山茶 – LíShānGāoShānChá, issu du cultivar traditionnel 青心烏龍 – QīngXīnWūLóng, vient du jardin de Mme 喩 – Yù, niché dans les montagnes de 梨山 – LíShān, au cœur du 梨山茶區 – LíShānCháQū de 臺灣 – TáiWān, entre 2000 et 2600 mètres.<!--more-->  Bercé par les brumes, lentement mûri sous de fortes amplitudes thermiques,<!--more-->  ce thé développe une liqueur vive, limpide et fleurie, portée par une douceur intense et une longueur remarquable — signatures précieuses des 高山茶 – GāoShānChá, les thés de haute montagne. Depuis quarante ans, Mme 喩 – Yù et sa famille cultivent leur terre avec cœur, offrant des thés nourris d’amour et de patience.\n","en":"This 梨山高山茶 – LíShānGāoShānChá, made from the traditional cultivar 青心烏龍 – QīngXīnWūLóng, comes from the garden of Mrs. 喩 – Yù, nestled in the mountains of 梨山 – LíShān, at the heart of the 梨山茶區 – LíShānCháQū in 臺灣 – TáiWān, between 2000 and 2600 meters above sea level.<!--more-->  Cradled by the mist and slowly matured under strong temperature variations,<!--more-->  this tea reveals a lively, clear, and floral liquor, carried by an intense sweetness and a remarkable length — precious signatures of 高山茶 – GāoShānChá, the high mountain teas. For forty years, Mrs. 喩 – Yù and her family have been cultivating their land with heart, offering teas nurtured with love and patience.\n"},
     "photos": ["LiShan-GaoShan_1-a.jpg","LiShan-GaoShan_1-b.jpg"],
     "price": "15",
-    "stock": "2",
-    "weight": "25",
+    "stock": "3",
+    "weight": "55",
     
         "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"2000m","village":"臺中 - TáiZhōng","province":"台灣 - TáiWān","producteur":"Madame 喻 - Yù","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"2000m","village":"臺中 - TáiZhōng","province":"台灣 - TáiWān (Taiwan)","producer":"Mrs. 喻 - Yù","weight":"25g"}},
     
@@ -3083,12 +3083,12 @@
     "description": {"fr":"Le véritable thé 凍頂烏龍 – DòngDǐngWūLóng prend racine dans les brumes et les vents des montagnes de 鹿谷 – LùGǔ, à 南投 – NánTóu, 臺灣 – TáiWān. Issu du jardin de la famille 李 – Lǐ, ce 正統凍頂烏龍 – DòngDǐngWūLóng authentique incarne quatre générations de dévouement<!--more-->  et de savoir-faire. Le thé naît d'une infusion limpide couleur miel, imprégnée d'un léger parfum de torréfaction. En bouche, la douceur fruitée glisse parfois vers des notes florales, laissant une empreinte profonde et sereine. Comme le dit M. 李 – Lǐ : « Le thé est mon maître. Quand on le fait bien, il parle pour nous. »\n","en":"The authentic 凍頂烏龍 – DòngDǐngWūLóng tea takes root in the mists and winds of the mountains of 鹿谷 – LùGǔ, in 南投 – NánTóu, 臺灣 – TáiWān. Grown in the garden of the 李 – Lǐ family, this 正統凍頂烏龍 – DòngDǐngWūLóng embodies four generations of dedication<!--more-->  and craftsmanship. The tea reveals a clear, honey-colored liquor, delicately infused with a light roast aroma. On the palate, fruity sweetness gently shifts towards floral notes, leaving a deep and serene impression. As Mr. 李 – Lǐ says: \"Tea is my master. When we craft it well, it speaks for us.\"\n"},
     "photos": ["DongDing-WuLong_1-a.jpg","DongDing-WuLong_1-b.jpg"],
     "price": "15",
-    "stock": "9",
-    "weight": "25",
+    "stock": "6",
+    "weight": "29",
     
         "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"750m","village":"凍頂山 – DòngDǐngShān","province":"台灣 - TáiWān","producteur":"Monsieur 李 - Lǐ","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"750m","village":"凍頂山 – DòngDǐngShān","province":"台灣 - TáiWān (Taiwan)","producer":"Mr. 李 - Lǐ","weight":"25g"}},
     
-    "shipping_type": "colis_base",
+    "shipping_type": "lettre",
     "shipping_point": "2"
   },
 {
@@ -3105,8 +3105,8 @@
     "description": {"fr":"Né à plus de 1 000 mètres d'altitude dans les montagnes du centre de 臺灣 - TáiWān, ce 金萱高山烏龍茶 - JīnXuān GāoShān WūLóngChá porte la signature délicate de la variété 金萱 - JīnXuān : un parfum naturel d’osmanthus, lumineux et tendre, mêlé à la fraîcheur minérale des hautes montagnes.<!--more-->  Il y a quarante ans, Madame 喻 - Yù et son mari ont quitté la ville pour se consacrer au thé, semant leur vie au rythme des saisons. Aujourd’hui, leurs enfants perpétuent ce geste simple et vivant Dans chaque tasse, une mémoire de pierre, de vent et de fleurs.\n","en":"Grown at over 1,000 meters in the mountains of 臺灣 - TáiWān, this 金萱高山烏龍茶 - JīnXuān GāoShān WūLóngChá carries the delicate signature of the 金萱 - JīnXuān cultivar: a natural fragrance of osmanthus, tender and bright, mingled with the fresh minerality of high altitudes.<!--more-->  Forty years ago, Madame 喻 - Yù and her husband left the city behind to devote their lives to tea, planting their dreams along the seasons. Today, their children continue this simple, living craft. In every cup, a memory of stone, wind, and flowers.\n"},
     "photos": ["JinXuan-GaoShan_1-a.jpg","JinXuan-GaoShan_1-b.jpg"],
     "price": "15",
-    "stock": "7",
-    "weight": "25",
+    "stock": "5",
+    "weight": "55",
     
         "options": {"fr":{"récolte":"printemps 2024","type":"青茶 - QīngChá","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān","producteur":"Madame 喻 - Yù","poids":"25g"},"en":{"harvest":"Spring 2024","type":"青茶 - QīngChá (oolong tea)","altitude":"1000m","village":"阿里山 - ĀlǐShān","province":"台灣 - TáiWān (Taiwan)","producer":"Mrs. 喻 - Yù","weight":"25g"}},
     
