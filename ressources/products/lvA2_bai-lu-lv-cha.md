@@ -16,8 +16,8 @@ photos:
   - BaiLu-LvCha_1-a.jpg
   - BaiLu-LvCha_1-b.jpg
 price: 15.00
-stock: 10
-weight: 25
+stock: 8
+weight: 65
 shipping_type: colis_base
 shipping_point: 2
 options:

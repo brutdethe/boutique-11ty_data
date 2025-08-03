@@ -94,8 +94,11 @@ grille_tarifs:
         tarif: 245.00
 
 types_colis:
+  lettre:
+    poids_emballage: 34
+    capacite_points: 6
   colis_base:
-    poids_emballage: 260
+    poids_emballage: 175
     capacite_points: 10
   tube:
     poids_emballage: 120

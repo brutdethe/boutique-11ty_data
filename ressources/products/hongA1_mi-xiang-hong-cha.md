@@ -19,8 +19,8 @@ photos:
   - HongCha_MiXiang_1-b.jpg
 price: 15.00
 stock: 10
-weight: 125
-shipping_type: colis_base
+weight: 32
+shipping_type: lettre
 shipping_point: 2
 options:
   fr:

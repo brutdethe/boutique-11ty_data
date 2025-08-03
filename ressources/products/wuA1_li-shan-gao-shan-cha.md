@@ -16,8 +16,8 @@ photos:
   - LiShan-GaoShan_1-a.jpg
   - LiShan-GaoShan_1-b.jpg
 price: 15.00
-stock: 2
-weight: 25
+stock: 3
+weight: 55
 shipping_type: colis_base
 shipping_point: 2
 options:
