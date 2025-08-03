@@ -17,7 +17,7 @@ photos:
   - DongDing-WuLong_1-b.jpg
 price: 15.00
 stock: 9
-weight: 125
+weight: 25
 shipping_type: colis_base
 shipping_point: 2
 options:
