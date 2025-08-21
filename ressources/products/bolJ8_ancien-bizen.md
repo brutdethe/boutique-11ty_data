@@ -18,7 +18,7 @@ photos:
   - bol-ancien-bizen_J8-c.jpg
   - bol-ancien-bizen_J8-d.jpg
 price: 30
-stock: 1
+stock: 0
 weight: 110
 shipping_type: colis_base
 shipping_point: 3
