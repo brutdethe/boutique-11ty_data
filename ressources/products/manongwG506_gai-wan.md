@@ -19,7 +19,7 @@ photos:
   - manon_gaiwan_G506-d.jpg
   - manon_gaiwan_G506-e.jpg
 price: 45.00
-stock: 1
+stock: 0
 weight: 104
 shipping_type: colis_base
 shipping_point: 5
