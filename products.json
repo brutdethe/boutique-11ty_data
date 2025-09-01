@@ -1273,7 +1273,7 @@
     "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_chahai_V502-a.jpg","manon_chahai_V502-b.jpg","manon_chahai_V502-c.jpg","manon_chahai_V502-d.jpg"],
     "price": "35",
-    "stock": "1",
+    "stock": "0",
     "weight": "110",
     
         "options": {"fr":{"dimensions":"10,0cm x 6,0cm","capacité":"150ml"},"en":{"dimensions":"10,0cm x 6,0cm","capacity":"150ml"}},
@@ -1317,7 +1317,7 @@
     "description": {"fr":"蓋碗 - GàiWǎn en grès, cuisson à 1250 °C. Pièce unique.\n","en":"蓋碗 - Stoneware gaiwan, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_gaiwan_G502-a.jpg","manon_gaiwan_G502-b.jpg","manon_gaiwan_G502-c.jpg","manon_gaiwan_G502-d.jpg","manon_gaiwan_G502-e.jpg"],
     "price": "50",
-    "stock": "1",
+    "stock": "0",
     "weight": "121",
     
         "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"100ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"100ml"}},
@@ -1383,7 +1383,7 @@
     "description": {"fr":"蓋碗 - GàiWǎn en grès, cuisson à 1250 °C. Pièce unique.\n","en":"蓋碗 - Stoneware gaiwan, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_gaiwan_G506-a.jpg","manon_gaiwan_G506-b.jpg","manon_gaiwan_G506-c.jpg","manon_gaiwan_G506-d.jpg","manon_gaiwan_G506-e.jpg"],
     "price": "45",
-    "stock": "1",
+    "stock": "0",
     "weight": "104",
     
         "options": {"fr":{"dimensions":"8,5cm x 6,5cm","capacité":"80ml"},"en":{"dimensions":"8,5cm x 6,5cm","capacity":"80ml"}},
