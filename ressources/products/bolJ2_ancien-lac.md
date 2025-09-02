@@ -18,7 +18,7 @@ photos:
     - bol-ancien-lac_J2-c.jpg
     - bol-ancien-lac_J2-d.jpg
 price: 30
-stock: 1
+stock: 0
 weight: 105
 shipping_type: colis_base
 shipping_point: 3
