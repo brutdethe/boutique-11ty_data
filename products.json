@@ -249,7 +249,7 @@
     "description": {"fr":"Ce bol à thé ancien en céramique Shigaraki-yaki, empreint de simplicité et de caractère. Ses textures brutes et nuances naturelles, teintées d’un vert évoquant la quiétude d’un lac,<!--more--> racontent l’histoire d’un savoir-faire ancestral. Un objet rare, parfait pour savourer le thé dans une sérénité authentique.\n","en":"This antique Shigaraki-yaki ceramic tea bowl, full of simplicity and character. Its raw textures and natural tones, tinted with a green reminiscent of a tranquil lake,<!--more--> tell the story of ancestral craftsmanship. A rare piece, perfect for enjoying tea in authentic serenity.\n"},
     "photos": ["bol-ancien-lac_J2-a.jpg","bol-ancien-lac_J2-b.jpg","bol-ancien-lac_J2-c.jpg","bol-ancien-lac_J2-d.jpg"],
     "price": "30",
-    "stock": "1",
+    "stock": "0",
     "weight": "105",
     
         "options": {"fr":{"origine":"Japon","dimensions":"8cm x 3,9cm","capacité":"60 ml"},"en":{"origin":"Japon","dimensions":"8cm x 3,9m","capacity":"60 ml"}},
@@ -1889,7 +1889,7 @@
     "description": {"fr":"茶杯 - CháBēi en grès, cuisson à 1250°C. Pièce unique.\n","en":"茶杯 - Stoneware tea cup, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_tasse_B513-a.jpg","manon_tasse_B513-b.jpg","manon_tasse_B513-c.jpg","manon_tasse_B513-d.jpg"],
     "price": "20",
-    "stock": "1",
+    "stock": "0",
     "weight": "45",
     
         "options": {"fr":{"dimensions":"7,0cm x 4,5cm","capacité":"40ml"},"en":{"dimensions":"7,0cm x 4,5cm","capacity":"40ml"}},
