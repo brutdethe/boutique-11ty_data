@@ -1339,7 +1339,7 @@
     "description": {"fr":"蓋碗 - GàiWǎn en grès, cuisson à 1250 °C. Pièce unique.\n","en":"蓋碗 - Stoneware gaiwan, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_gaiwan_G503-a.jpg","manon_gaiwan_G503-b.jpg","manon_gaiwan_G503-c.jpg","manon_gaiwan_G503-d.jpg","manon_gaiwan_G503-e.jpg"],
     "price": "50",
-    "stock": "1",
+    "stock": "0",
     "weight": "127",
     
         "options": {"fr":{"dimensions":"9,5cm x 6,0cm","capacité":"75ml"},"en":{"dimensions":"9,5cm x 6,0cm","capacity":"75ml"}},
