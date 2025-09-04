@@ -2219,7 +2219,7 @@
     "description": {"fr":"Coupelle en céramique, 1050°C. Pièce unique.\n","en":"Ceramic dish, fired at 1050°C. Unique piece.\n"},
     "photos": ["perrine_coupelle_37-a.jpg","perrine_coupelle_37-b.jpg","perrine_coupelle_37-c.jpg"],
     "price": "30",
-    "stock": "1",
+    "stock": "0",
     "weight": "34",
     
         "options": {"fr":{"dimensions":"10cm x 1,5cm"},"en":{"dimensions":"10cm x 1.5cm"}},
