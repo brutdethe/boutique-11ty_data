@@ -1295,7 +1295,7 @@
     "description": {"fr":"茶海 - Verseuse en grès, cuisson à 1250 °C. Pièce unique.\n","en":"茶海 - Stoneware pitcher, fired at 1250°C. Unique piece.\n"},
     "photos": ["manon_chahai_V503-a.jpg","manon_chahai_V503-c.jpg","manon_chahai_V503-d.jpg"],
     "price": "30",
-    "stock": "1",
+    "stock": "0",
     "weight": "99",
     
         "options": {"fr":{"dimensions":"8,5cm x 6,0cm","capacité":"135ml"},"en":{"dimensions":"8,5cm x 6,0cm","capacity":"135ml"}},
