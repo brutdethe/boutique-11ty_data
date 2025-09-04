@@ -1185,7 +1185,7 @@
     "description": {"fr":"Pièce unique. 茶壺 CháHú - petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide.\n","en":"Unique piece. 茶壺 CháHú - small teapot crafted from Treigny stoneware, a naturally soft clay. This teapot is unglazed and will develop a patina over time. The pour is smooth and fast.\n"},
     "photos": ["jerome_theiere_3-a.jpg","jerome_theiere_3-b.jpg","jerome_theiere_3-c.jpg","jerome_theiere_3-d.jpg"],
     "price": "132",
-    "stock": "1",
+    "stock": "0",
     "weight": "133",
     
         "options": {"fr":{"capacité":"100ml"},"en":{"capacity":"100ml"}},
