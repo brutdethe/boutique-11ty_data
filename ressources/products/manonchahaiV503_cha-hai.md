@@ -17,7 +17,7 @@ photos:
   - manon_chahai_V503-c.jpg
   - manon_chahai_V503-d.jpg
 price: 30.00
-stock: 1
+stock: 0
 weight: 99
 shipping_type: colis_base
 shipping_point: 5
