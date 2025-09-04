@@ -17,7 +17,7 @@ photos:
   - perrine_coupelle_37-b.jpg
   - perrine_coupelle_37-c.jpg
 price: 30.00
-stock: 1
+stock: 0
 weight: 34
 shipping_type: colis_base
 shipping_point: 5
