@@ -16,7 +16,7 @@ photos:
   - perrine_porte-encens_18-a.jpg
   - perrine_porte-encens_18-b.jpg
 price: 20.00
-stock: 1
+stock: 0
 weight: 12
 shipping_type: colis_base
 shipping_point: 2
